@@ -16,7 +16,6 @@ class Search extends Component {
   handleChange({ target }) {
     const that = this;
     const { value } = target;
-    console.log(value)
     axios({
       url: `http://localhost:3001/search?q=${value}`,
       method: 'GET',
@@ -45,7 +44,9 @@ class Search extends Component {
         <div>
           {this.state && this.state.data && this.state.data.data && this.state.data.data.map(function(data, index) {
             return (
-              <div key={index}>{data._source.name}</div>
+              // <div key={index}>{data._source.name}</div>
+              // <div key={index}>{data.highlight.name || data._source.name}</div>
+              <div dangerouslySetInnerHTML={{ __html: data.highlight.name || data._source.name }} />
             )
           })}
         </div>
