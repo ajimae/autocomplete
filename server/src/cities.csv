@@ -1,0 +1,3001 @@
+Country,State,LG,City,PostCode,allstates_id
+Nigeria,Bauchi ,Alkaleri,ALKALERI,743101,1
+Nigeria,Bauchi ,Alkaleri,ALKALERI EAST,743101,2
+Nigeria,Bauchi ,Alkaleri,ALKALERI WEST,743101,3
+Nigeria,Bauchi ,Alkaleri,BAKWARI,743101,4
+Nigeria,Bauchi ,Alkaleri,BIRIM GIGYARA,743101,5
+Nigeria,Bauchi ,Alkaleri,BOGWAS,743101,6
+Nigeria,Bauchi ,Alkaleri,BONGA,743101,7
+Nigeria,Bauchi ,Alkaleri,BORI,743101,8
+Nigeria,Bauchi ,Alkaleri,DAN,743101,9
+Nigeria,Bauchi ,Alkaleri,DAGUDI,743101,10
+Nigeria,Bauchi ,Alkaleri,DOGON RUWA,743101,11
+Nigeria,Bauchi ,Alkaleri,FUTUK ,743101,12
+Nigeria,Bauchi ,Alkaleri,FUTUK EAST,743101,13
+Nigeria,Bauchi ,Alkaleri,FUTUK WEST,743101,14
+Nigeria,Bauchi ,Alkaleri,GAR,743101,15
+Nigeria,Bauchi ,Alkaleri,GWANA,743102,16
+Nigeria,Bauchi ,Alkaleri,GWARAM B,743101,17
+Nigeria,Bauchi ,Alkaleri,GWARAM A,743101,18
+Nigeria,Bauchi ,Alkaleri,JADA,743101,19
+Nigeria,Bauchi ,Alkaleri,JAGUDI,743101,20
+Nigeria,Bauchi ,Alkaleri,KUNGIBAR,743101,21
+Nigeria,Bauchi ,Alkaleri,KUNGINBAR,743101,22
+Nigeria,Bauchi ,Alkaleri,KWONJIMBAR,743101,23
+Nigeria,Bauchi ,Alkaleri,LIM KUNDAK,743101,24
+Nigeria,Bauchi ,Alkaleri,MAIMADI,743101,25
+Nigeria,Bauchi ,Alkaleri,MAINAMAJI,743101,26
+Nigeria,Bauchi ,Alkaleri,MANSUR,743101,27
+Nigeria,Bauchi ,Alkaleri,PALI EAST,743101,28
+Nigeria,Bauchi ,Alkaleri,PALI WEST,743101,29
+Nigeria,Bauchi ,Alkaleri,TAGWUR,743101,30
+Nigeria,Bauchi ,Alkaleri,TAKSAWAT,743101,31
+Nigeria,Bauchi ,Alkaleri,TUNDUN WADA,743101,32
+Nigeria,Bauchi ,Alkaleri,WIKKI ,743101,33
+Nigeria,Bauchi ,Alkaleri,YALO 1,743101,34
+Nigeria,Bauchi ,Alkaleri,YALO 2,743101,35
+Nigeria,Bauchi ,Alkaleri,YANKARI,743101,36
+Nigeria,Bauchi ,Alkaleri,YULI,743101,37
+Nigeria,Bauchi ,Bauchi,BAUCHI,740101,38
+Nigeria,Bauchi ,Bauchi,DAN AMAR A,740101,39
+Nigeria,Bauchi ,Bauchi,DAN AMAR B,740101,40
+Nigeria,Bauchi ,Bauchi,DAN IYA,740101,41
+Nigeria,Bauchi ,Bauchi,DAN KADE,740101,42
+Nigeria,Bauchi ,Bauchi,DAWAKI,740101,43
+Nigeria,Bauchi ,Bauchi,HARDO,740101,44
+Nigeria,Bauchi ,Bauchi,MAKAMA A,740101,45
+Nigeria,Bauchi ,Bauchi,MAKAMA B,740101,46
+Nigeria,Bauchi ,Bauchi,RAFIN ZURFI,740101,47
+Nigeria,Bauchi ,Bauchi,RUGAN GILLIRI,740101,48
+Nigeria,Bauchi ,Bauchi,TIRWUN,740101,49
+Nigeria,Bauchi ,Bogoro,BADAGARI,741104,50
+Nigeria,Bauchi ,Bogoro,BAL,741104,51
+Nigeria,Bauchi ,Bogoro,BOGORO,741104,52
+Nigeria,Bauchi ,Bogoro,BOI,741104,53
+Nigeria,Bauchi ,Bogoro,BONGA,741104,54
+Nigeria,Bauchi ,Bogoro,BUGUN,741104,55
+Nigeria,Bauchi ,Bogoro,DAZARA,741104,56
+Nigeria,Bauchi ,Bogoro,DULL A,741104,57
+Nigeria,Bauchi ,Bogoro,DUTSEN LAWAN,741104,58
+Nigeria,Bauchi ,Bogoro,GAMBAR,741104,59
+Nigeria,Bauchi ,Bogoro,GERLA NAJAROWA,741104,60
+Nigeria,Bauchi ,Bogoro,GIDAN DANLAJI,741104,61
+Nigeria,Bauchi ,Bogoro,GIMSUM,741104,62
+Nigeria,Bauchi ,Bogoro,GOBBIYA,741104,63
+Nigeria,Bauchi ,Bogoro,GOBIYAN KASUWA,741104,64
+Nigeria,Bauchi ,Bogoro,GYARA,741104,65
+Nigeria,Bauchi ,Bogoro,LUSA ,741104,66
+Nigeria,Bauchi ,Bogoro,MWARI,741104,67
+Nigeria,Bauchi ,Bogoro,TAPSHIN,741104,68
+Nigeria,Bauchi ,Damban,BAINO,752101,69
+Nigeria,Bauchi ,Damban,DAGAUDA,752102,70
+Nigeria,Bauchi ,Damban,DAMBAM,752101,71
+Nigeria,Bauchi ,Damban,DAMBAM A,752101,72
+Nigeria,Bauchi ,Damban,DAMBAM B,752101,73
+Nigeria,Bauchi ,Damban,FAGAM,752101,74
+Nigeria,Bauchi ,Damban,FAGARAU,752101,75
+Nigeria,Bauchi ,Damban,GARGAWA,752101,76
+Nigeria,Bauchi ,Damban,GAROZA,752101,77
+Nigeria,Bauchi ,Damban,GARUZA,752101,78
+Nigeria,Bauchi ,Damban,GURBANA,752101,79
+Nigeria,Bauchi ,Damban,JALAM,752101,80
+Nigeria,Bauchi ,Damban,JANDA`,752101,81
+Nigeria,Bauchi ,Damban,KAIGAMARI,752101,82
+Nigeria,Bauchi ,Damban,LANZAI WEST,752101,83
+Nigeria,Bauchi ,Damban,LANZAI EAST,752101,84
+Nigeria,Bauchi ,Damban,LUMBO,752101,85
+Nigeria,Bauchi ,Damban,MINCHIKA,752101,86
+Nigeria,Bauchi ,Damban,MUZUMA,752101,87
+Nigeria,Bauchi ,Damban,SANDAWAI,752101,88
+Nigeria,Bauchi ,Damban,TARMASUWA,752101,89
+Nigeria,Bauchi ,Damban,YAMAI,752101,90
+Nigeria,Bauchi ,Damban,YAME,752101,91
+Nigeria,Bauchi ,Damban,YAYARI,752101,92
+Nigeria,Bauchi ,Damban,YANDA,752101,93
+Nigeria,Bauchi ,Damban,YANDA BAYO,752101,94
+Nigeria,Bauchi ,Damban,ZAURA,752101,95
+Nigeria,Bauchi ,Damban,ZINDIWA,752101,96
+Nigeria,Bauchi ,Darazor,AJILI,750106,97
+Nigeria,Bauchi ,Darazor,BETI,750106,98
+Nigeria,Bauchi ,Darazor,BULAWA,750106,99
+Nigeria,Bauchi ,Darazor,DARAZO WEST,750106,100
+Nigeria,Bauchi ,Darazor,DARAZO EAST,750106,101
+Nigeria,Bauchi ,Darazor,GABARIN,750107,102
+Nigeria,Bauchi ,Darazor,GABARIN EAST,750106,103
+Nigeria,Bauchi ,Darazor,GABARIN WEST,750106,104
+Nigeria,Bauchi ,Darazor,GANDUM,750106,105
+Nigeria,Bauchi ,Darazor,KARI,750106,106
+Nigeria,Bauchi ,Darazor,KONKIYEL,750106,107
+Nigeria,Bauchi ,Darazor,KUKADI,750106,108
+Nigeria,Bauchi ,Darazor,LAGO,750109,109
+Nigeria,Bauchi ,Darazor,LANPO,750109,110
+Nigeria,Bauchi ,Darazor,LANZAI,750109,111
+Nigeria,Bauchi ,Darazor,LANZAI WEST,750109,112
+Nigeria,Bauchi ,Darazor,LANZAI EAST,750109,113
+Nigeria,Bauchi ,Darazor,LUGGE,750109,114
+Nigeria,Bauchi ,Darazor,LLIYASU,750109,115
+Nigeria,Bauchi ,Darazor,MALLURIN TUDU,750109,116
+Nigeria,Bauchi ,Darazor,NAHUTA,750109,117
+Nigeria,Bauchi ,Darazor,PAPA NORTH,750116,118
+Nigeria,Bauchi ,Darazor,PAPA SOUTH,750116,119
+Nigeria,Bauchi ,Darazor,SADE,750113,120
+Nigeria,Bauchi ,Darazor,SARMA,750113,121
+Nigeria,Bauchi ,Darazor,TAUYA EAST,750111,122
+Nigeria,Bauchi ,Darazor,TAUYA WEST,750111,123
+Nigeria,Bauchi ,Darazor,WAHU,750114,124
+Nigeria,Bauchi ,Darazor,YAUTARE,750114,125
+Nigeria,Bauchi ,Darazor,ZORO,750111,126
+Nigeria,Bauchi ,Dass,BAGEL/BAJAR,741101,127
+Nigeria,Bauchi ,Dass,BARAZA,741101,128
+Nigeria,Bauchi ,Dass,BULA,741101,129
+Nigeria,Bauchi ,Dass,BULA A,741101,130
+Nigeria,Bauchi ,Dass,BUNDILA,741101,131
+Nigeria,Bauchi ,Dass,BUNDOT,741101,132
+Nigeria,Bauchi ,Dass,BUNUNU CENTRAL,741101,133
+Nigeria,Bauchi ,Dass,BUNUNU EAST,741101,134
+Nigeria,Bauchi ,Dass,BUNUNU SOUTH,741101,135
+Nigeria,Bauchi ,Dass,BUNUNU WEST,741101,136
+Nigeria,Bauchi ,Dass,DASS,741101,137
+Nigeria,Bauchi ,Dass,DARRARI,741101,138
+Nigeria,Bauchi ,Dass,DOTT,741101,139
+Nigeria,Bauchi ,Dass,DURR,741101,140
+Nigeria,Bauchi ,Dass,JAMA'A,741101,141
+Nigeria,Bauchi ,Dass,KWALTUKURWA,741101,142
+Nigeria,Bauchi ,Dass,LUKSHI,741101,143
+Nigeria,Bauchi ,Dass,POLCHI,741101,144
+Nigeria,Bauchi ,Dass,WANDI,741101,145
+Nigeria,Bauchi ,Dass,ZUMBUL,741101,146
+Nigeria,Bauchi ,Gamawa,ALAGARNO,752106,147
+Nigeria,Bauchi ,Gamawa,ALANGAWARI,752106,148
+Nigeria,Bauchi ,Gamawa,AMARMARI,752106,149
+Nigeria,Bauchi ,Gamawa,ARIA,752106,150
+Nigeria,Bauchi ,Gamawa,BATAKE,752106,151
+Nigeria,Bauchi ,Gamawa,BAUNA,752106,152
+Nigeria,Bauchi ,Gamawa,BONAMARI,752106,153
+Nigeria,Bauchi ,Gamawa,BULANNA,752106,154
+Nigeria,Bauchi ,Gamawa,BURSALI,752106,155
+Nigeria,Bauchi ,Gamawa,DAYA,752106,156
+Nigeria,Bauchi ,Gamawa,DUWARI,752106,157
+Nigeria,Bauchi ,Gamawa,GAMAWA,752106,158
+Nigeria,Bauchi ,Gamawa,GAMAWA NORTH ,752106,159
+Nigeria,Bauchi ,Gamawa,GAMAWA SOUTH,752106,160
+Nigeria,Bauchi ,Gamawa,GOLOLO NORTH,752106,161
+Nigeria,Bauchi ,Gamawa,GOLOLO SOUTH,752106,162
+Nigeria,Bauchi ,Gamawa,GUMAI,752106,163
+Nigeria,Bauchi ,Gamawa,GURBUTU,752106,164
+Nigeria,Bauchi ,Gamawa,JADORI,752106,165
+Nigeria,Bauchi ,Gamawa,JAGANA,752106,166
+Nigeria,Bauchi ,Gamawa,JAMBERI,752106,167
+Nigeria,Bauchi ,Gamawa,JARMARI,752106,168
+Nigeria,Bauchi ,Gamawa,KAFIN ROMI,752106,169
+Nigeria,Bauchi ,Gamawa,KINSHA,752106,170
+Nigeria,Bauchi ,Gamawa,KORE,752106,171
+Nigeria,Bauchi ,Gamawa,KUBDIYA,752106,172
+Nigeria,Bauchi ,Gamawa,KUJUM,752106,173
+Nigeria,Bauchi ,Gamawa,LAFIA,752106,174
+Nigeria,Bauchi ,Gamawa,LIRINI,752106,175
+Nigeria,Bauchi ,Gamawa,LODIYO,752106,176
+Nigeria,Bauchi ,Gamawa,MAINARI,752106,177
+Nigeria,Bauchi ,Gamawa,RAGA,752106,178
+Nigeria,Bauchi ,Gamawa,TARANKA,752106,179
+Nigeria,Bauchi ,Gamawa,TARBUWA,752106,180
+Nigeria,Bauchi ,Gamawa,TUMBI,752106,181
+Nigeria,Bauchi ,Gamawa,UDUBO,752107,182
+Nigeria,Bauchi ,Gamawa,UDUBO CENTRAL,752106,183
+Nigeria,Bauchi ,Gamawa,UDUBO NORTH EAST,752106,184
+Nigeria,Bauchi ,Gamawa,YARIMARI,752106,185
+Nigeria,Bauchi ,Gamawa,YEBA,752106,186
+Nigeria,Bauchi ,Gamawa,ZUGEA,752106,187
+Nigeria,Bauchi ,Ganjuma,ANGUWAN GUMERU,742104,188
+Nigeria,Bauchi ,Ganjuma,ANGUWAN MALLAM ALKALI,742104,189
+Nigeria,Bauchi ,Ganjuma,BADAKOSI,742104,190
+Nigeria,Bauchi ,Ganjuma,BUDA,742104,191
+Nigeria,Bauchi ,Ganjuma,BUNGAN NINGI,742104,192
+Nigeria,Bauchi ,Ganjuma,BULUM,742104,193
+Nigeria,Bauchi ,Ganjuma,BURI,742104,194
+Nigeria,Bauchi ,Ganjuma,DARE,742104,195
+Nigeria,Bauchi ,Ganjuma,DASHA,742104,196
+Nigeria,Bauchi ,Ganjuma,DEBEN KASA,742104,197
+Nigeria,Bauchi ,Ganjuma,DENO,742104,198
+Nigeria,Bauchi ,Ganjuma,DIRIYA,742104,199
+Nigeria,Bauchi ,Ganjuma,DUMI,742104,200
+Nigeria,Bauchi ,Ganjuma,FANGA,742104,201
+Nigeria,Bauchi ,Ganjuma,GALI,742104,202
+Nigeria,Bauchi ,Ganjuma,GANJUMA ,742104,203
+Nigeria,Bauchi ,Ganjuma,GANJUMA A,742104,204
+Nigeria,Bauchi ,Ganjuma,GANJUMA B,742104,205
+Nigeria,Bauchi ,Ganjuma,GUNGURA A,742104,206
+Nigeria,Bauchi ,Ganjuma,GUNGURA B,742104,207
+Nigeria,Bauchi ,Ganjuma,JANGU,742104,208
+Nigeria,Bauchi ,Ganjuma,KAFIN  MADAKI,742104,209
+Nigeria,Bauchi ,Ganjuma,KAFIN MADAKI A,742104,210
+Nigeria,Bauchi ,Ganjuma,KAFIN MADAKI B,742104,211
+Nigeria,Bauchi ,Ganjuma,KAFIN MAGAJI,742104,212
+Nigeria,Bauchi ,Ganjuma,KARIYA A,742104,213
+Nigeria,Bauchi ,Ganjuma,KARIYA B,742104,214
+Nigeria,Bauchi ,Ganjuma,KILPIN,742104,215
+Nigeria,Bauchi ,Ganjuma,KUBI A,742104,216
+Nigeria,Bauchi ,Ganjuma,KUBI B,742104,217
+Nigeria,Bauchi ,Ganjuma,KUNA ,742104,218
+Nigeria,Bauchi ,Ganjuma,LAMBA,742104,219
+Nigeria,Bauchi ,Ganjuma,MAHARBA,742104,220
+Nigeria,Bauchi ,Ganjuma,MARBINI,742104,221
+Nigeria,Bauchi ,Ganjuma,MIYA,742104,222
+Nigeria,Bauchi ,Ganjuma,MIYA A,742104,223
+Nigeria,Bauchi ,Ganjuma,MIYA B,742104,224
+Nigeria,Bauchi ,Ganjuma,MIYA C,742104,225
+Nigeria,Bauchi ,Ganjuma,NABAYI,742104,226
+Nigeria,Bauchi ,Ganjuma,NASSARAWA A,742104,227
+Nigeria,Bauchi ,Ganjuma,NASSARWA B,742104,228
+Nigeria,Bauchi ,Ganjuma,RINGIM,742104,229
+Nigeria,Bauchi ,Ganjuma,UGUMJA,742104,230
+Nigeria,Bauchi ,Ganjuma,YALI,742104,231
+Nigeria,Bauchi ,Ganjuma,ZALANGA,742104,232
+Nigeria,Bauchi ,Ganjuma,ZAKA,742104,233
+Nigeria,Bauchi ,Giade,BAMBIO,751104,234
+Nigeria,Bauchi ,Giade,BANGIRE,750105,235
+Nigeria,Bauchi ,Giade,BIDIR,750105,236
+Nigeria,Bauchi ,Giade,BINGA,750105,237
+Nigeria,Bauchi ,Giade,BOKKI,750105,238
+Nigeria,Bauchi ,Giade,CHINKANI,750105,239
+Nigeria,Bauchi ,Giade,DADIYARI,750105,240
+Nigeria,Bauchi ,Giade,DOGUWA,750105,241
+Nigeria,Bauchi ,Giade,FAGUJI,750105,242
+Nigeria,Bauchi ,Giade,GANDUHA,750105,243
+Nigeria,Bauchi ,Giade,GASA,750105,244
+Nigeria,Bauchi ,Giade,GIADE,750105,245
+Nigeria,Bauchi ,Giade,GIADE A,750105,246
+Nigeria,Bauchi ,Giade,GIADE B,750105,247
+Nigeria,Bauchi ,Giade,GUBDA,750105,248
+Nigeria,Bauchi ,Giade,ISAWA,750105,249
+Nigeria,Bauchi ,Giade,JARMOWO,750105,250
+Nigeria,Bauchi ,Giade,JUGUDU,750105,251
+Nigeria,Bauchi ,Giade,KURBA,750105,252
+Nigeria,Bauchi ,Giade,MAREWO,750105,253
+Nigeria,Bauchi ,Giade,MARGI,750105,254
+Nigeria,Bauchi ,Giade,SABAU,750105,255
+Nigeria,Bauchi ,Giade,SABON SARA A,750105,256
+Nigeria,Bauchi ,Giade,SABON SARA B,750105,257
+Nigeria,Bauchi ,Giade,UZUM,750105,258
+Nigeria,Bauchi ,Giade,WUROBABARU,750105,259
+Nigeria,Bauchi ,Giade,WURO-BADUKU,750105,260
+Nigeria,Bauchi ,Giade,ZABA,750105,261
+Nigeria,Bauchi ,Giade,ZABI,750105,262
+Nigeria,Bauchi ,Giade,ZIRAMI,750105,263
+Nigeria,Bauchi ,Itas/Gadau,ABDALLAWA,751104,264
+Nigeria,Bauchi ,Itas/Gadau,ALANGAWARI,751104,265
+Nigeria,Bauchi ,Itas/Gadau,ANDELEWA,751104,266
+Nigeria,Bauchi ,Itas/Gadau,ATAFOWA,751104,267
+Nigeria,Bauchi ,Itas/Gadau,BALAGO,751104,268
+Nigeria,Bauchi ,Itas/Gadau,BAMBAL,751104,269
+Nigeria,Bauchi ,Itas/Gadau,BILKICHERI,751104,270
+Nigeria,Bauchi ,Itas/Gadau,BUZAWA,751104,271
+Nigeria,Bauchi ,Itas/Gadau,DIGA,751104,272
+Nigeria,Bauchi ,Itas/Gadau,DINGIRI,751104,273
+Nigeria,Bauchi ,Itas/Gadau,DUMUWU,751104,274
+Nigeria,Bauchi ,Itas/Gadau,DUTSEN FUSAM,751104,275
+Nigeria,Bauchi ,Itas/Gadau,GADAU,751104,276
+Nigeria,Bauchi ,Itas/Gadau,GAMJI,751104,277
+Nigeria,Bauchi ,Itas/Gadau,GIJINA,751104,278
+Nigeria,Bauchi ,Itas/Gadau,ITAS,751104,279
+Nigeria,Bauchi ,Itas/Gadau,KAFIN LARABAWA,751104,280
+Nigeria,Bauchi ,Itas/Gadau,KASHURI,751104,281
+Nigeria,Bauchi ,Itas/Gadau,KIYAWA,751104,282
+Nigeria,Bauchi ,Itas/Gadau,KURA,751104,283
+Nigeria,Bauchi ,Itas/Gadau,KURAN MALLAM YAU,751104,284
+Nigeria,Bauchi ,Itas/Gadau,KWANDA,751104,285
+Nigeria,Bauchi ,Itas/Gadau,LARABAWA,751104,286
+Nigeria,Bauchi ,Itas/Gadau,MAGARIA,751104,287
+Nigeria,Bauchi ,Itas/Gadau,MAGARYA,751104,288
+Nigeria,Bauchi ,Itas/Gadau,MASHEMA,751104,289
+Nigeria,Bauchi ,Itas/Gadau,MELENDIGI,751104,290
+Nigeria,Bauchi ,Itas/Gadau,RIMI,751104,291
+Nigeria,Bauchi ,Itas/Gadau,ZUBIKI,751104,292
+Nigeria,Bauchi ,Jamaare,DAN GUMMAI,751106,293
+Nigeria,Bauchi ,Jamaare,DOGON JEJI A,751107,294
+Nigeria,Bauchi ,Jamaare,DOGON JEJI B,751107,295
+Nigeria,Bauchi ,Jamaare,DOGON JEJI C,751107,296
+Nigeria,Bauchi ,Jamaare,DURAWA,751107,297
+Nigeria,Bauchi ,Jamaare,GWARAI,751107,298
+Nigeria,Bauchi ,Jamaare,GYARA,751107,299
+Nigeria,Bauchi ,Jamaare,HANAFARI,751107,300
+Nigeria,Bauchi ,Jamaare,JAMAARE ,751107,301
+Nigeria,Bauchi ,Jamaare,JAMAARE A,751107,302
+Nigeria,Bauchi ,Jamaare,JAMAARE B,751107,303
+Nigeria,Bauchi ,Jamaare,JAMAARE C,751107,304
+Nigeria,Bauchi ,Jamaare,JAMAARE D,751107,305
+Nigeria,Bauchi ,Jamaare,LAFIA,751107,306
+Nigeria,Bauchi ,Jamaare,LARIYE,751107,307
+Nigeria,Bauchi ,Jamaare,YANGAMAI,751107,308
+Nigeria,Bauchi ,Jamaare,YAYARIN TUKUR,751107,309
+Nigeria,Bauchi ,Jamaare,YOLA,751107,310
+Nigeria,Bauchi ,Jamaare,ZUBO,751107,311
+Nigeria,Bauchi ,Katagum,AZARE,751101,312
+Nigeria,Bauchi ,Katagum,BAFERI,751101,313
+Nigeria,Bauchi ,Katagum,BAKIN KASUWA,751101,314
+Nigeria,Bauchi ,Katagum,BELAKO,751101,315
+Nigeria,Bauchi ,Katagum,BIDAWA,751101,316
+Nigeria,Bauchi ,Katagum,BIDIR,751101,317
+Nigeria,Bauchi ,Katagum,BUBARI,751101,318
+Nigeria,Bauchi ,Katagum,BULKACHUWA,751101,319
+Nigeria,Bauchi ,Katagum,BUSKURI,751101,320
+Nigeria,Bauchi ,Katagum,CHINADE,751101,321
+Nigeria,Bauchi ,Katagum,DAGARO,751101,322
+Nigeria,Bauchi ,Katagum,DUHUWA,751101,323
+Nigeria,Bauchi ,Katagum,FATARA,751101,324
+Nigeria,Bauchi ,Katagum,FAGAM,751101,325
+Nigeria,Bauchi ,Katagum,GABAI,751101,326
+Nigeria,Bauchi ,Katagum,GAMBAKI,751101,327
+Nigeria,Bauchi ,Katagum,KAFIN KUKA,751101,328
+Nigeria,Bauchi ,Katagum,KASHURI,751101,329
+Nigeria,Bauchi ,Katagum,KASUWAN KAJI,751101,330
+Nigeria,Bauchi ,Katagum,KONKOMERI,751101,331
+Nigeria,Bauchi ,Katagum,KUJURU,751101,332
+Nigeria,Bauchi ,Katagum,LIZAI,751101,333
+Nigeria,Bauchi ,Katagum,MADANGALA,751101,334
+Nigeria,Bauchi ,Katagum,MAGWANSHI,751101,335
+Nigeria,Bauchi ,Katagum,MATSANGO,751101,336
+Nigeria,Bauchi ,Katagum,MATSANGO AREA,751101,337
+Nigeria,Bauchi ,Katagum,NASARAWA A,751101,338
+Nigeria,Bauchi ,Katagum,NASARAWA B,751101,339
+Nigeria,Bauchi ,Katagum,ODOJI AZARE,751101,340
+Nigeria,Bauchi ,Katagum,RAGOM,751101,341
+Nigeria,Bauchi ,Katagum,RAGWAM,751101,342
+Nigeria,Bauchi ,Katagum,RIJIYAR-ALHAJI,751101,343
+Nigeria,Bauchi ,Katagum,TSAKUWA,751101,344
+Nigeria,Bauchi ,Katagum,WUROBORNO,751101,345
+Nigeria,Bauchi ,Katagum,YAKIRI,751101,346
+Nigeria,Bauchi ,Katagum,YAYU,751101,347
+Nigeria,Bauchi ,Katagum,ZIRAMI,751101,348
+Nigeria,Bauchi ,Kirfi,ARAWA,743104,349
+Nigeria,Bauchi ,Kirfi,BABA,743104,350
+Nigeria,Bauchi ,Kirfi,BADARA,743104,351
+Nigeria,Bauchi ,Kirfi,BALA,743104,352
+Nigeria,Bauchi ,Kirfi,BARA,743104,353
+Nigeria,Bauchi ,Kirfi,BENI,743104,354
+Nigeria,Bauchi ,Kirfi,BULMARI,743104,355
+Nigeria,Bauchi ,Kirfi,BURE,743104,356
+Nigeria,Bauchi ,Kirfi,CHELEDI,743104,357
+Nigeria,Bauchi ,Kirfi,DEWU,743104,358
+Nigeria,Bauchi ,Kirfi,GIDI,743104,359
+Nigeria,Bauchi ,Kirfi,GUYABA,743104,360
+Nigeria,Bauchi ,Kirfi,JOBO,743104,361
+Nigeria,Bauchi ,Kirfi,KAFIN IYA,743104,362
+Nigeria,Bauchi ,Kirfi,KARAGARI,743104,363
+Nigeria,Bauchi ,Kirfi,KIRFI,743104,364
+Nigeria,Bauchi ,Kirfi,KWAGAL,743104,365
+Nigeria,Bauchi ,Kirfi,LARISKI,743104,366
+Nigeria,Bauchi ,Kirfi,LOMI,743104,367
+Nigeria,Bauchi ,Kirfi,MAGASHI,743104,368
+Nigeria,Bauchi ,Kirfi,MASE,743104,369
+Nigeria,Bauchi ,Kirfi,PELLA TABILANG,743104,370
+Nigeria,Bauchi ,Kirfi,SHONGO,743104,371
+Nigeria,Bauchi ,Kirfi,TUBULE,743104,372
+Nigeria,Bauchi ,Kirfi,WANKA,743104,373
+Nigeria,Bauchi ,Kirfi,YARDA,743104,374
+Nigeria,Bauchi ,Kirfi,ZAGAINA,743104,375
+Nigeria,Bauchi ,Misau,BETI,750101,376
+Nigeria,Bauchi ,Misau,DUGURUMA,750101,377
+Nigeria,Bauchi ,Misau,DUNKURMI,750101,378
+Nigeria,Bauchi ,Misau,GAGALUN,750101,379
+Nigeria,Bauchi ,Misau,GANGAI,750101,380
+Nigeria,Bauchi ,Misau,GELTANNI,750101,381
+Nigeria,Bauchi ,Misau,GUGULIN,750101,382
+Nigeria,Bauchi ,Misau,GUNDARI,750101,383
+Nigeria,Bauchi ,Misau,GWARAM,750101,384
+Nigeria,Bauchi ,Misau,HARDAWA,750101,385
+Nigeria,Bauchi ,Misau,JARKASA,750101,386
+Nigeria,Bauchi ,Misau,KAFIN SULE,750101,387
+Nigeria,Bauchi ,Misau,KOPTARA,750101,388
+Nigeria,Bauchi ,Misau,KUKADI A,750101,389
+Nigeria,Bauchi ,Misau,KUKADI B,750101,390
+Nigeria,Bauchi ,Misau,KURBA,750101,391
+Nigeria,Bauchi ,Misau,MISAU,750101,392
+Nigeria,Bauchi ,Misau,MADACHI,750101,393
+Nigeria,Bauchi ,Misau,TOFU,750101,394
+Nigeria,Bauchi ,Misau,UMALA,750101,395
+Nigeria,Bauchi ,Misau,ZADAWA,750101,396
+Nigeria,Bauchi ,Ningi,ARI,742101,397
+Nigeria,Bauchi ,Ningi,BALMA,742101,398
+Nigeria,Bauchi ,Ningi,BANGA,742101,399
+Nigeria,Bauchi ,Ningi,BURRA,742101,400
+Nigeria,Bauchi ,Ningi,DINGIS,742101,401
+Nigeria,Bauchi ,Ningi,DUSTEN MARRA,742101,402
+Nigeria,Bauchi ,Ningi,FULANI,742101,403
+Nigeria,Bauchi ,Ningi,GUDA,742101,404
+Nigeria,Bauchi ,Ningi,GUMAMAI,742101,405
+Nigeria,Bauchi ,Ningi,GWOM,742101,406
+Nigeria,Bauchi ,Ningi,JAGUN,742101,407
+Nigeria,Bauchi ,Ningi,JIGAWA,742101,408
+Nigeria,Bauchi ,Ningi,JERKOYA,742101,409
+Nigeria,Bauchi ,Ningi,KAFIN LEMO,742101,410
+Nigeria,Bauchi ,Ningi,KALASU,742101,411
+Nigeria,Bauchi ,Ningi,KUDU YAMMA,742101,412
+Nigeria,Bauchi ,Ningi,KUKUTA,742101,413
+Nigeria,Bauchi ,Ningi,KURMI,742101,414
+Nigeria,Bauchi ,Ningi,KYATA,742101,415
+Nigeria,Bauchi ,Ningi,KYETA,742101,416
+Nigeria,Bauchi ,Ningi,LUMBU,742101,417
+Nigeria,Bauchi ,Ningi,NASARU A,742101,418
+Nigeria,Bauchi ,Ningi,NASARU B,742101,419
+Nigeria,Bauchi ,Ningi,NINGI EAST,742101,420
+Nigeria,Bauchi ,Ningi,NINGI WEST,742101,421
+Nigeria,Bauchi ,Ningi,OLD NINGI,742101,422
+Nigeria,Bauchi ,Ningi,PERMA,742101,423
+Nigeria,Bauchi ,Ningi,RAFIN CHIAWA,742101,424
+Nigeria,Bauchi ,Ningi,RAFIN DINGA,742101,425
+Nigeria,Bauchi ,Ningi,RAFIN KENKI,742101,426
+Nigeria,Bauchi ,Ningi,RUMO,742101,427
+Nigeria,Bauchi ,Ningi,SABON GARI,742101,428
+Nigeria,Bauchi ,Ningi,SAMA,742101,429
+Nigeria,Bauchi ,Ningi,SAMMO,742101,430
+Nigeria,Bauchi ,Ningi,SHABAKI,742101,431
+Nigeria,Bauchi ,Ningi,SURKO,742101,432
+Nigeria,Bauchi ,Ningi,SURKU,742101,433
+Nigeria,Bauchi ,Ningi,TIFFI,742101,434
+Nigeria,Bauchi ,Ningi,UNGUWAR YA,742101,435
+Nigeria,Bauchi ,Ningi,YARMA,742101,436
+Nigeria,Bauchi ,Ningi,YUWA,742101,437
+Nigeria,Bauchi ,Ningi,ZAKARA,742101,438
+Nigeria,Bauchi ,Shira,ANDUBUN,750103,439
+Nigeria,Bauchi ,Shira,BANGIRE,750103,440
+Nigeria,Bauchi ,Shira,BELI,750103,441
+Nigeria,Bauchi ,Shira,BUKUL,750103,442
+Nigeria,Bauchi ,Shira,DALLI,750103,443
+Nigeria,Bauchi ,Shira,DANGO,750103,444
+Nigeria,Bauchi ,Shira,DARAMUSHE,750103,445
+Nigeria,Bauchi ,Shira,DISINA,750103,446
+Nigeria,Bauchi ,Shira,DISINA  A,750103,447
+Nigeria,Bauchi ,Shira,DISINA B,750103,448
+Nigeria,Bauchi ,Shira,DUSI,750103,449
+Nigeria,Bauchi ,Shira,FAGGO,750103,450
+Nigeria,Bauchi ,Shira,FAGGO A,750103,451
+Nigeria,Bauchi ,Shira,FAGGO B,750103,452
+Nigeria,Bauchi ,Shira,GAGIDIBA,750103,453
+Nigeria,Bauchi ,Shira,GANJIWO,750103,454
+Nigeria,Bauchi ,Shira,KILBORI B,750103,455
+Nigeria,Bauchi ,Shira,KILBORI A,750103,456
+Nigeria,Bauchi ,Shira,KUKIN BURERA,750103,457
+Nigeria,Bauchi ,Shira,LARIYE,750103,458
+Nigeria,Bauchi ,Shira,MADOBI,750103,459
+Nigeria,Bauchi ,Shira,SAMBUWAL,750103,460
+Nigeria,Bauchi ,Shira,SHIRA,750103,461
+Nigeria,Bauchi ,Shira,TSAFI,750103,462
+Nigeria,Bauchi ,Shira,TSOFUA,750103,463
+Nigeria,Bauchi ,Shira,TUMFAFI,750103,464
+Nigeria,Bauchi ,Shira,YANA,750103,465
+Nigeria,Bauchi ,Shira,YAYARIN TUKUR,750103,466
+Nigeria,Bauchi ,Shira,YERIMARI,750103,467
+Nigeria,Bauchi ,Shira,YOBE ZIGAU,750103,468
+Nigeria,Bauchi ,Shira,ZIGAU,750103,469
+Nigeria,Bauchi ,Shira,ZUBO,750103,470
+Nigeria,Bauchi ,Tafawa Balewa,BOTO,741102,471
+Nigeria,Bauchi ,Tafawa Balewa,BULA A,741103,472
+Nigeria,Bauchi ,Tafawa Balewa,BULA B,741103,473
+Nigeria,Bauchi ,Tafawa Balewa,BUNUNU,741103,474
+Nigeria,Bauchi ,Tafawa Balewa,BUNUNU A,741103,475
+Nigeria,Bauchi ,Tafawa Balewa,BUNUNU B,741103,476
+Nigeria,Bauchi ,Tafawa Balewa,BUNUNU SOUTH,741103,477
+Nigeria,Bauchi ,Tafawa Balewa,BURGA,741103,478
+Nigeria,Bauchi ,Tafawa Balewa,DAJIN,741103,479
+Nigeria,Bauchi ,Tafawa Balewa,DAJIM,741103,480
+Nigeria,Bauchi ,Tafawa Balewa,DUGURI,741103,481
+Nigeria,Bauchi ,Tafawa Balewa,DUTSEN LAWAN,741103,482
+Nigeria,Bauchi ,Tafawa Balewa,GITAL,741103,483
+Nigeria,Bauchi ,Tafawa Balewa,GUIN,741103,484
+Nigeria,Bauchi ,Tafawa Balewa,GUM,741103,485
+Nigeria,Bauchi ,Tafawa Balewa,GWAMMADAJI,741103,486
+Nigeria,Bauchi ,Tafawa Balewa,GWANI,741103,487
+Nigeria,Bauchi ,Tafawa Balewa,KARDAM,741103,488
+Nigeria,Bauchi ,Tafawa Balewa,KARDAM A,741103,489
+Nigeria,Bauchi ,Tafawa Balewa,KARDAM B,741103,490
+Nigeria,Bauchi ,Tafawa Balewa,KARDAM C,741103,491
+Nigeria,Bauchi ,Tafawa Balewa,KOPTE,741103,492
+Nigeria,Bauchi ,Tafawa Balewa,KUNDUM,741103,493
+Nigeria,Bauchi ,Tafawa Balewa,KUTARU,741103,494
+Nigeria,Bauchi ,Tafawa Balewa,LERE,741102,495
+Nigeria,Bauchi ,Tafawa Balewa,LERE NORTH,741102,496
+Nigeria,Bauchi ,Tafawa Balewa,LERE SOUTH,741102,497
+Nigeria,Bauchi ,Tafawa Balewa,MURNO,741102,498
+Nigeria,Bauchi ,Tafawa Balewa,TAFAWA BALEWA,741102,499
+Nigeria,Bauchi ,Tafawa Balewa,WAI,741102,500
+Nigeria,Bauchi ,Tafawa Balewa,WAI A,741102,501
+Nigeria,Bauchi ,Tafawa Balewa,WAI B,741102,502
+Nigeria,Bauchi ,Tafawa Balewa,ZUNGUR,741102,503
+Nigeria,Bauchi ,Toro,BADIKKO,740103,504
+Nigeria,Bauchi ,Toro,BAKIN KOGI,740103,505
+Nigeria,Bauchi ,Toro,BICHIKI,740103,506
+Nigeria,Bauchi ,Toro,BIRJIN GWANKI,740103,507
+Nigeria,Bauchi ,Toro,BOKOKI,740103,508
+Nigeria,Bauchi ,Toro,DABBO,740103,509
+Nigeria,Bauchi ,Toro,DABBOLUNGU,740103,510
+Nigeria,Bauchi ,Toro,DOGON DAJI,740103,511
+Nigeria,Bauchi ,Toro,DOGON KOLI,740103,512
+Nigeria,Bauchi ,Toro,DOGUA,740103,513
+Nigeria,Bauchi ,Toro,DUTSEN HABE,740103,514
+Nigeria,Bauchi ,Toro,GANA,740103,515
+Nigeria,Bauchi ,Toro,GAU,740103,516
+Nigeria,Bauchi ,Toro,GUNDA,740103,517
+Nigeria,Bauchi ,Toro,GURAKA,740103,518
+Nigeria,Bauchi ,Toro,JAURO,740103,519
+Nigeria,Bauchi ,Toro,KALATU,740103,520
+Nigeria,Bauchi ,Toro,KARI,740103,521
+Nigeria,Bauchi ,Toro,KWANGI,740103,522
+Nigeria,Bauchi ,Toro,LAME,740105,523
+Nigeria,Bauchi ,Toro,MAGAMA,740107,524
+Nigeria,Bauchi ,Toro,MADAWA,740107,525
+Nigeria,Bauchi ,Toro,PINGELL,740107,526
+Nigeria,Bauchi ,Toro,PAKURU,740107,527
+Nigeria,Bauchi ,Toro,PALAMA,740107,528
+Nigeria,Bauchi ,Toro,RAFIN GORA,740107,529
+Nigeria,Bauchi ,Toro,RAHAMA,740117,530
+Nigeria,Bauchi ,Toro,RIBINA,740117,531
+Nigeria,Bauchi ,Toro,RIBINA WEST,740117,532
+Nigeria,Bauchi ,Toro,RIBINA EAST,740117,533
+Nigeria,Bauchi ,Toro,RINJIM MUKUR,740117,534
+Nigeria,Bauchi ,Toro,RIRIWAN  DALMA,740117,535
+Nigeria,Bauchi ,Toro,RISHI,740115,536
+Nigeria,Bauchi ,Toro,SABON GARI,740115,537
+Nigeria,Bauchi ,Toro,SANGA,740115,538
+Nigeria,Bauchi ,Toro,SAMA,740115,539
+Nigeria,Bauchi ,Toro,TAMA,740118,540
+Nigeria,Bauchi ,Toro,TAURA,740118,541
+Nigeria,Bauchi ,Toro,TILDE,740108,542
+Nigeria,Bauchi ,Toro,TILDEN FULANI,740108,543
+Nigeria,Bauchi ,Toro,TULAI,740107,544
+Nigeria,Bauchi ,Toro,TULU,740107,545
+Nigeria,Bauchi ,Toro,UNGUWAR GULAWA,740107,546
+Nigeria,Bauchi ,Toro,WONU,740107,547
+Nigeria,Bauchi ,Toro,WONU NORTH,740107,548
+Nigeria,Bauchi ,Toro,WONU SOUTH,740107,549
+Nigeria,Bauchi ,Toro,ZALAU,740107,550
+Nigeria,Bauchi ,Toro,ZAKSHI,740107,551
+Nigeria,Bauchi ,Toro,ZARANDA,740107,552
+Nigeria,Bauchi ,Toro,ZARANDA HABE,740107,553
+Nigeria,Bauchi ,Toro,ZOMO,740107,554
+Nigeria,Bauchi ,Warji,BADAYESO,742103,555
+Nigeria,Bauchi ,Warji,BAIMA,742103,556
+Nigeria,Bauchi ,Warji,DAGU,742103,557
+Nigeria,Bauchi ,Warji,DALLAJI,742103,558
+Nigeria,Bauchi ,Warji,DUTSEN KAM,742103,559
+Nigeria,Bauchi ,Warji,GABANGA A,742103,560
+Nigeria,Bauchi ,Warji,GABANGA B,742103,561
+Nigeria,Bauchi ,Warji,GUNA'A,742103,562
+Nigeria,Bauchi ,Warji,KATANGA,742103,563
+Nigeria,Bauchi ,Warji,NAKAWA,742103,564
+Nigeria,Bauchi ,Warji,RANGA A,742103,565
+Nigeria,Bauchi ,Warji,RANGA B,742103,566
+Nigeria,Bauchi ,Warji,RUWA UKU,742103,567
+Nigeria,Bauchi ,Warji,SARA,742103,568
+Nigeria,Bauchi ,Warji,TIYIN A,742103,569
+Nigeria,Bauchi ,Warji,TIYIN B,742103,570
+Nigeria,Bauchi ,Warji,TUNDUN WADA,742103,571
+Nigeria,Bauchi ,Warji,WARJI,742103,572
+Nigeria,Bauchi ,Warji,WANDO,742103,573
+Nigeria,Bauchi ,Warji,ZURGWAI,742103,574
+Nigeria,Bauchi ,Zaki,ABUNDABO,752105,575
+Nigeria,Bauchi ,Zaki,ABUSTA,752105,576
+Nigeria,Bauchi ,Zaki,AMARMARI,752105,577
+Nigeria,Bauchi ,Zaki,ASOKE,752105,578
+Nigeria,Bauchi ,Zaki,BIRIKINCHA,752105,579
+Nigeria,Bauchi ,Zaki,BURSAIL,752105,580
+Nigeria,Bauchi ,Zaki,GADAI,752105,581
+Nigeria,Bauchi ,Zaki,GUMAI,752105,582
+Nigeria,Bauchi ,Zaki,JERAU,752105,583
+Nigeria,Bauchi ,Zaki,KAGUM,752105,584
+Nigeria,Bauchi ,Zaki,KATAGUM,752105,585
+Nigeria,Bauchi ,Zaki,LODIYO,752105,586
+Nigeria,Bauchi ,Zaki,MADUFA,752105,587
+Nigeria,Bauchi ,Zaki,MAINAKO NORTH,752105,588
+Nigeria,Bauchi ,Zaki,MAINAKO SOUTH,752105,589
+Nigeria,Bauchi ,Zaki,MAIWA,752105,590
+Nigeria,Bauchi ,Zaki,MAKAWA,752105,591
+Nigeria,Bauchi ,Zaki,MURMUR,752105,592
+Nigeria,Bauchi ,Zaki,MURMUR SOUTH,752105,593
+Nigeria,Bauchi ,Zaki,MURMUR NORTH,752105,594
+Nigeria,Bauchi ,Zaki,SAKWA,752105,595
+Nigeria,Bauchi ,Zaki,TASHENA,752105,596
+Nigeria,Bauchi ,Zaki,TESHENA,752105,597
+Nigeria,Bauchi ,Zaki,TIKIRZE,752105,598
+Nigeria,Taraba ,Ardo-Kola,ADAMU KULU,660102,599
+Nigeria,Taraba ,Ardo-Kola,ALIM GORA,660102,600
+Nigeria,Taraba ,Ardo-Kola,APE,661102,601
+Nigeria,Taraba ,Ardo-Kola,API,662102,602
+Nigeria,Taraba ,Ardo-Kola,BAMPU,663102,603
+Nigeria,Taraba ,Ardo-Kola,BARDE,664102,604
+Nigeria,Taraba ,Ardo-Kola,BARIKIN SIBRE,665102,605
+Nigeria,Taraba ,Ardo-Kola,CHAKU,666102,606
+Nigeria,Taraba ,Ardo-Kola,FAN PETEL,667102,607
+Nigeria,Taraba ,Ardo-Kola,FAN MANGA,668102,608
+Nigeria,Taraba ,Ardo-Kola,GAMYEL,669102,609
+Nigeria,Taraba ,Ardo-Kola,GARIN GADA,670102,610
+Nigeria,Taraba ,Ardo-Kola,GARIN SARIKIN FADA,671102,611
+Nigeria,Taraba ,Ardo-Kola,GIDAN GADA,672102,612
+Nigeria,Taraba ,Ardo-Kola,GORA,673102,613
+Nigeria,Taraba ,Ardo-Kola,IWARE,674102,614
+Nigeria,Taraba ,Ardo-Kola,JAURO YINU,675102,615
+Nigeria,Taraba ,Ardo-Kola,JIRU WUDARU,676102,616
+Nigeria,Taraba ,Ardo-Kola,KONA,677102,617
+Nigeria,Taraba ,Ardo-Kola,KWANTAN MURI,678102,618
+Nigeria,Taraba ,Ardo-Kola,LAMIDO BORNO,679102,619
+Nigeria,Taraba ,Ardo-Kola,MALLAM BOYI,680102,620
+Nigeria,Taraba ,Ardo-Kola,MAYO RANEWO,681102,621
+Nigeria,Taraba ,Ardo-Kola,NAMNAI,682102,622
+Nigeria,Taraba ,Ardo-Kola,SAMBO,683102,623
+Nigeria,Taraba ,Ardo-Kola,SARKIN DUTSE,684102,624
+Nigeria,Taraba ,Ardo-Kola,SENTI,685102,625
+Nigeria,Taraba ,Ardo-Kola,SUNKANI,686102,626
+Nigeria,Taraba ,Ardo-Kola,TAU,687102,627
+Nigeria,Taraba ,Ardo-Kola,VENDU NAGE,688102,628
+Nigeria,Taraba ,Ardo-Kola,WURO KALA,689102,629
+Nigeria,Taraba ,Ardo-Kola,YARSHIN TUWO,690102,630
+Nigeria,Taraba ,Ardo-Kola,ZONGON KOMBI,691102,631
+Nigeria,Taraba ,Bali,ADAMU KULU,672101,632
+Nigeria,Taraba ,Bali,ARDO ABAKI,672101,633
+Nigeria,Taraba ,Bali,ASHI ARAGE,672101,634
+Nigeria,Taraba ,Bali,AWUBE,672101,635
+Nigeria,Taraba ,Bali,BADAKOSHI,672101,636
+Nigeria,Taraba ,Bali,BAGONI,672101,637
+Nigeria,Taraba ,Bali,BAJABURE,672101,638
+Nigeria,Taraba ,Bali,BALI,672101,639
+Nigeria,Taraba ,Bali,BALI A,672101,640
+Nigeria,Taraba ,Bali,BALI B,672101,641
+Nigeria,Taraba ,Bali,BAMBADO,672101,642
+Nigeria,Taraba ,Bali,BANDUGUN,672101,643
+Nigeria,Taraba ,Bali,BANGELA,672101,644
+Nigeria,Taraba ,Bali,BUKTASO,672101,645
+Nigeria,Taraba ,Bali,CECIM,672101,646
+Nigeria,Taraba ,Bali,CHIRUMA,672101,647
+Nigeria,Taraba ,Bali,DAMASI,672101,648
+Nigeria,Taraba ,Bali,DASEMI,672101,649
+Nigeria,Taraba ,Bali,DENABA,672101,650
+Nigeria,Taraba ,Bali,DOGO,672101,651
+Nigeria,Taraba ,Bali,DUKUNAPO,672101,652
+Nigeria,Taraba ,Bali,EBBA,672101,653
+Nigeria,Taraba ,Bali,FADAWANTE,672101,654
+Nigeria,Taraba ,Bali,GAJI,672101,655
+Nigeria,Taraba ,Bali,GANADERE KUKU,672101,656
+Nigeria,Taraba ,Bali,GANBURAMASO,672101,657
+Nigeria,Taraba ,Bali,GANFUR,672101,658
+Nigeria,Taraba ,Bali,GANG DOLE,672101,659
+Nigeria,Taraba ,Bali,GANGLARI,672101,660
+Nigeria,Taraba ,Bali,GANG MATA,672101,661
+Nigeria,Taraba ,Bali,GANGTIBA,672101,662
+Nigeria,Taraba ,Bali,GANSA,672101,663
+Nigeria,Taraba ,Bali,GANYATSUM,672101,664
+Nigeria,Taraba ,Bali,GANYO,672101,665
+Nigeria,Taraba ,Bali,JATAU,672101,666
+Nigeria,Taraba ,Bali,JENGBA,672101,667
+Nigeria,Taraba ,Bali,JIMETA,672101,668
+Nigeria,Taraba ,Bali,KAIGAMA,672101,669
+Nigeria,Taraba ,Bali,KANKUSUM,672101,670
+Nigeria,Taraba ,Bali,KATSINA,672101,671
+Nigeria,Taraba ,Bali,KILA,672101,672
+Nigeria,Taraba ,Bali,KUNDI,672101,673
+Nigeria,Taraba ,Bali,LAINDE GORO,672101,674
+Nigeria,Taraba ,Bali,MAI FULA,672101,675
+Nigeria,Taraba ,Bali,MAIHULA,672101,676
+Nigeria,Taraba ,Bali,MAYO GORO,672101,677
+Nigeria,Taraba ,Bali,NAHUTA,672101,678
+Nigeria,Taraba ,Bali,NATARBAU,672101,679
+Nigeria,Taraba ,Bali,NYIKWAGH,672101,680
+Nigeria,Taraba ,Bali,PANGRI,672101,681
+Nigeria,Taraba ,Bali,PANTI KURA,672101,682
+Nigeria,Taraba ,Bali,SABABBIN SAMARI,672101,683
+Nigeria,Taraba ,Bali,SABON GARI,672101,684
+Nigeria,Taraba ,Bali,SANBERU,672101,685
+Nigeria,Taraba ,Bali,SAYFO,672101,686
+Nigeria,Taraba ,Bali,SUNTAI,672101,687
+Nigeria,Taraba ,Bali,TAFIDA GWANI,672101,688
+Nigeria,Taraba ,Bali,TAKALAFIYA,672101,689
+Nigeria,Taraba ,Bali,TOBDIRI,672101,690
+Nigeria,Taraba ,Bali,ULAADE,672101,691
+Nigeria,Taraba ,Bali,YAMPINA,672101,692
+Nigeria,Taraba ,Bali,YARIMA TONGO,672101,693
+Nigeria,Taraba ,Bali,YIRINYAMUN,672101,694
+Nigeria,Taraba ,Bali,ZAGA,672101,695
+Nigeria,Taraba ,Bali,ZUDEI,672101,696
+Nigeria,Taraba ,Donga,ADUGU,671102,697
+Nigeria,Taraba ,Donga,AGABI,671102,698
+Nigeria,Taraba ,Donga,AGBEMDA,671102,699
+Nigeria,Taraba ,Donga,AHUA,671102,700
+Nigeria,Taraba ,Donga,AKATE,671102,701
+Nigeria,Taraba ,Donga,AKUME,671102,702
+Nigeria,Taraba ,Donga,ASIBITI,671102,703
+Nigeria,Taraba ,Donga,ASHIYA,671102,704
+Nigeria,Taraba ,Donga,AUDU MAIKYAUTA,671102,705
+Nigeria,Taraba ,Donga,BAYAWAL,671102,706
+Nigeria,Taraba ,Donga,BIKADARKO,671102,707
+Nigeria,Taraba ,Donga,BILIKANI,671102,708
+Nigeria,Taraba ,Donga,BONGVONG,671102,709
+Nigeria,Taraba ,Donga,DAMISA,671102,710
+Nigeria,Taraba ,Donga,DONGA,671102,711
+Nigeria,Taraba ,Donga,FADA,671102,712
+Nigeria,Taraba ,Donga,GAYAMA,671102,713
+Nigeria,Taraba ,Donga,GANKOI YEBA,671102,714
+Nigeria,Taraba ,Donga,GBUNDU,671102,715
+Nigeria,Taraba ,Donga,GIDAN ADAMU,671102,716
+Nigeria,Taraba ,Donga,GIDAN MAICHIBI,671102,717
+Nigeria,Taraba ,Donga,GINDIN DUSTE,671102,718
+Nigeria,Taraba ,Donga,GYATTA AURE,671102,719
+Nigeria,Taraba ,Donga,ITYO,671102,720
+Nigeria,Taraba ,Donga,JON,671102,721
+Nigeria,Taraba ,Donga,KENDU,671102,722
+Nigeria,Taraba ,Donga,KWAU,671102,723
+Nigeria,Taraba ,Donga,KWOSSA,671102,724
+Nigeria,Taraba ,Donga,MANYA,671102,725
+Nigeria,Taraba ,Donga,MARARRABA,671102,726
+Nigeria,Taraba ,Donga,MBATIAN,671102,727
+Nigeria,Taraba ,Donga,MBAZUN,671102,728
+Nigeria,Taraba ,Donga,MIJINDAADI,671102,729
+Nigeria,Taraba ,Donga,MINDI,671102,730
+Nigeria,Taraba ,Donga,NGUGA,671102,731
+Nigeria,Taraba ,Donga,NYITA,671102,732
+Nigeria,Taraba ,Donga,PASOKI,671102,733
+Nigeria,Taraba ,Donga,RAFIN KADA,671102,734
+Nigeria,Taraba ,Donga,SARKIN DANKO,671102,735
+Nigeria,Taraba ,Donga,S.GIDA,671102,736
+Nigeria,Taraba ,Donga,SUNTAI,671102,737
+Nigeria,Taraba ,Donga,WASSAGI,671102,738
+Nigeria,Taraba ,Gashaka,ABAKUM,663101,739
+Nigeria,Taraba ,Gashaka,ADAMU,663101,740
+Nigeria,Taraba ,Gashaka,AMINU,663101,741
+Nigeria,Taraba ,Gashaka,ARDO MUSA,663101,742
+Nigeria,Taraba ,Gashaka,BAGUDU,663101,743
+Nigeria,Taraba ,Gashaka,BAM,663101,744
+Nigeria,Taraba ,Gashaka,BAMBANDO,663101,745
+Nigeria,Taraba ,Gashaka,BAUDEU,663101,746
+Nigeria,Taraba ,Gashaka,BARUA,663101,747
+Nigeria,Taraba ,Gashaka,BUDAN,663101,748
+Nigeria,Taraba ,Gashaka,BURTOL,663101,749
+Nigeria,Taraba ,Gashaka,DAN ZOMO,663101,750
+Nigeria,Taraba ,Gashaka,DIKKO,663101,751
+Nigeria,Taraba ,Gashaka,DOGO AJAN,663101,752
+Nigeria,Taraba ,Gashaka,FILINGA,663101,753
+Nigeria,Taraba ,Gashaka,GALUMJINA,663101,754
+Nigeria,Taraba ,Gashaka,GAMEN,663101,755
+Nigeria,Taraba ,Gashaka,GASHAKA,663101,756
+Nigeria,Taraba ,Gashaka,GARBA,663101,757
+Nigeria,Taraba ,Gashaka,GAYAM,663101,758
+Nigeria,Taraba ,Gashaka,GUM,663101,759
+Nigeria,Taraba ,Gashaka,GUMTI,663101,760
+Nigeria,Taraba ,Gashaka,JAMATARI,663101,761
+Nigeria,Taraba ,Gashaka,KALAHI,663101,762
+Nigeria,Taraba ,Gashaka,KOTI,663101,763
+Nigeria,Taraba ,Gashaka,KPAA,663101,764
+Nigeria,Taraba ,Gashaka,KUNBOTAN,663101,765
+Nigeria,Taraba ,Gashaka,MAI IDANU,663101,766
+Nigeria,Taraba ,Gashaka,MAMAM,663101,767
+Nigeria,Taraba ,Gashaka,MAYO JAMATARI,663101,768
+Nigeria,Taraba ,Gashaka,MAYO SELBE,663101,769
+Nigeria,Taraba ,Gashaka,MAYO TOLORE,663101,770
+Nigeria,Taraba ,Gashaka,NYABAR,663101,771
+Nigeria,Taraba ,Gashaka,NYASIKASI,663101,772
+Nigeria,Taraba ,Gashaka,PANWAI,663101,773
+Nigeria,Taraba ,Gashaka,SABON GIDA,663101,774
+Nigeria,Taraba ,Gashaka,SERTI A,663101,775
+Nigeria,Taraba ,Gashaka,SERTI,663101,776
+Nigeria,Taraba ,Gashaka,SERTI B,663101,777
+Nigeria,Taraba ,Gashaka,SHINSHAM,663101,778
+Nigeria,Taraba ,Gashaka,ZORE,663101,779
+Nigeria,Taraba ,Gassol,BADEKWOSHI WURKUM,672103,780
+Nigeria,Taraba ,Gassol,DADIN KOWA,672103,781
+Nigeria,Taraba ,Gassol,DALLI,672103,782
+Nigeria,Taraba ,Gassol,DAMPAR I,672103,783
+Nigeria,Taraba ,Gassol,DEIBA,672103,784
+Nigeria,Taraba ,Gassol,GARIN BAKARAII,672103,785
+Nigeria,Taraba ,Gassol,GARIN KUSA,672103,786
+Nigeria,Taraba ,Gassol,GARMA,672103,787
+Nigeria,Taraba ,Gassol,GASSOL,672104,788
+Nigeria,Taraba ,Gassol,GOLBEMAL,672103,789
+Nigeria,Taraba ,Gassol,GUNDUMA,672103,790
+Nigeria,Taraba ,Gassol,JAURO SIDI,672103,791
+Nigeria,Taraba ,Gassol,KABIJ,672103,792
+Nigeria,Taraba ,Gassol,KAREL,672103,793
+Nigeria,Taraba ,Gassol,KELEMBIJE,672103,794
+Nigeria,Taraba ,Gassol,KISHR,672103,795
+Nigeria,Taraba ,Gassol,KWARAFA,672103,796
+Nigeria,Taraba ,Gassol,KWATAN NANIDO,672103,797
+Nigeria,Taraba ,Gassol,MADANI,672103,798
+Nigeria,Taraba ,Gassol,MANJI,672103,799
+Nigeria,Taraba ,Gassol,MUTUM BIYU ,672103,800
+Nigeria,Taraba ,Gassol,MUTUM BIYU I,672103,801
+Nigeria,Taraba ,Gassol,MUTUM BIYU II,672103,802
+Nigeria,Taraba ,Gassol,NABAYI,672103,803
+Nigeria,Taraba ,Gassol,NAFUCHE,672103,804
+Nigeria,Taraba ,Gassol,NAM NAI,672103,805
+Nigeria,Taraba ,Gassol,NASARAWA,672103,806
+Nigeria,Taraba ,Gassol,NYAMATA MANDA,672103,807
+Nigeria,Taraba ,Gassol,SABON GIDA,672103,808
+Nigeria,Taraba ,Gassol,SARKIN SHIRA,672103,809
+Nigeria,Taraba ,Gassol,SENDIRDE,672103,810
+Nigeria,Taraba ,Gassol,SENDIRDI,672103,811
+Nigeria,Taraba ,Gassol,TUTARE,672103,812
+Nigeria,Taraba ,Gassol,WURIO,672103,813
+Nigeria,Taraba ,Gassol,WURYO,672103,814
+Nigeria,Taraba ,Gassol,WUROJAM,672103,815
+Nigeria,Taraba ,Gassol,YARIMA,672103,816
+Nigeria,Taraba ,Gassol,YOLA MBODEWA,672103,817
+Nigeria,Taraba ,Gassol,YOLA KAREJE,672103,818
+Nigeria,Taraba ,Ibi,AMAR,670109,819
+Nigeria,Taraba ,Ibi,AUNDU,670109,820
+Nigeria,Taraba ,Ibi,CHINKA,670109,821
+Nigeria,Taraba ,Ibi,DAMPAR ,670111,822
+Nigeria,Taraba ,Ibi,DAMPAR I,670109,823
+Nigeria,Taraba ,Ibi,DAMPAR II,670109,824
+Nigeria,Taraba ,Ibi,DAMPAR III,670109,825
+Nigeria,Taraba ,Ibi,GIDAN ISUBU,670109,826
+Nigeria,Taraba ,Ibi,GIDAN ADOGO,670109,827
+Nigeria,Taraba ,Ibi,IBI,670109,828
+Nigeria,Taraba ,Ibi,IBI NWONYO I,670109,829
+Nigeria,Taraba ,Ibi,IBI NWONYO II,670109,830
+Nigeria,Taraba ,Ibi,IBI RIMI UKU I,670109,831
+Nigeria,Taraba ,Ibi,IBI RIMI UKU II,670109,832
+Nigeria,Taraba ,Ibi,KAZA,670109,833
+Nigeria,Taraba ,Ibi,KAUYEN BOYI,670109,834
+Nigeria,Taraba ,Ibi,ORTOHO,670109,835
+Nigeria,Taraba ,Ibi,SARKIN KUDU I,670110,836
+Nigeria,Taraba ,Ibi,SARKIN KUDU II,670110,837
+Nigeria,Taraba ,Ibi,SARKIN KUDU III,670110,838
+Nigeria,Taraba ,Ibi,SHINYE,670110,839
+Nigeria,Taraba ,Ibi,ZONGO,670110,840
+Nigeria,Taraba ,Jalingo,BARADE,660224,841
+Nigeria,Taraba ,Jalingo,HOWAYI,660101,842
+Nigeria,Taraba ,Jalingo,JALINGO,660101,843
+Nigeria,Taraba ,Jalingo,KACHALLA SEMBE,660101,844
+Nigeria,Taraba ,Jalingo,MAJIDADI,660101,845
+Nigeria,Taraba ,Jalingo,MAYO GOI,660101,846
+Nigeria,Taraba ,Jalingo,SINTALI,660101,847
+Nigeria,Taraba ,Jalingo,SUMBU I,660101,848
+Nigeria,Taraba ,Jalingo,SUMBU II,660101,849
+Nigeria,Taraba ,Jalingo,TURAKI A,660101,850
+Nigeria,Taraba ,Jalingo,TURAKI B,660101,851
+Nigeria,Taraba ,Karim-Lamido,ANDAMIN,662106,852
+Nigeria,Taraba ,Karim-Lamido,ANGULE,662106,853
+Nigeria,Taraba ,Karim-Lamido,AMAR,662106,854
+Nigeria,Taraba ,Karim-Lamido,BACHAMA,662106,855
+Nigeria,Taraba ,Karim-Lamido,BALASSA,662106,856
+Nigeria,Taraba ,Karim-Lamido,BUMANDA,662106,857
+Nigeria,Taraba ,Karim-Lamido,BAMUKHA,662106,858
+Nigeria,Taraba ,Karim-Lamido,BANDAWA,662106,859
+Nigeria,Taraba ,Karim-Lamido,BANGALELA,662106,860
+Nigeria,Taraba ,Karim-Lamido,BASHAMA,662106,861
+Nigeria,Taraba ,Karim-Lamido,BANTALI,662106,862
+Nigeria,Taraba ,Karim-Lamido,BIKWIN,662106,863
+Nigeria,Taraba ,Karim-Lamido,BIMARI,662106,864
+Nigeria,Taraba ,Karim-Lamido,DANI,662106,865
+Nigeria,Taraba ,Karim-Lamido,DARFAI,662106,866
+Nigeria,Taraba ,Karim-Lamido,DAROFAI,662106,867
+Nigeria,Taraba ,Karim-Lamido,DIDANGO,662106,868
+Nigeria,Taraba ,Karim-Lamido,GARIN KUFAI,662106,869
+Nigeria,Taraba ,Karim-Lamido,GOMU,662106,870
+Nigeria,Taraba ,Karim-Lamido,GOREJABO,662106,871
+Nigeria,Taraba ,Karim-Lamido,JEBJEB,662106,872
+Nigeria,Taraba ,Karim-Lamido,JEN ARDIDO,662106,873
+Nigeria,Taraba ,Karim-Lamido,JEN KAIGAMA,662106,874
+Nigeria,Taraba ,Karim-Lamido,JENOE,662106,875
+Nigeria,Taraba ,Karim-Lamido,JERO,662106,876
+Nigeria,Taraba ,Karim-Lamido,KAMBARI,662106,877
+Nigeria,Taraba ,Karim-Lamido,KAN SALLA,662106,878
+Nigeria,Taraba ,Karim-Lamido,KARIM A,662106,879
+Nigeria,Taraba ,Karim-Lamido,KARIM B,662106,880
+Nigeria,Taraba ,Karim-Lamido,KARIM LAMIDO,662106,881
+Nigeria,Taraba ,Karim-Lamido,KODE,662106,882
+Nigeria,Taraba ,Karim-Lamido,KODE KASSA,662106,883
+Nigeria,Taraba ,Karim-Lamido,KWANCHI,662106,884
+Nigeria,Taraba ,Karim-Lamido,MALLAM DAYA,662106,885
+Nigeria,Taraba ,Karim-Lamido,MANSUR,662106,886
+Nigeria,Taraba ,Karim-Lamido,MURI,662107,887
+Nigeria,Taraba ,Karim-Lamido,NDELA,662106,888
+Nigeria,Taraba ,Karim-Lamido,WONG,662106,889
+Nigeria,Taraba ,Karim-Lamido,WURO LECHA,662106,890
+Nigeria,Taraba ,Karim-Lamido,ZHIRU,662106,891
+Nigeria,Taraba ,Karim-Lamido,ZIP,662106,892
+Nigeria,Taraba ,Kurmi,ABONG,671104,893
+Nigeria,Taraba ,Kurmi,ANDAFORO,671104,894
+Nigeria,Taraba ,Kurmi,AFO,671104,895
+Nigeria,Taraba ,Kurmi,AGO,671104,896
+Nigeria,Taraba ,Kurmi,AGWA,671104,897
+Nigeria,Taraba ,Kurmi,AKONKO,671104,898
+Nigeria,Taraba ,Kurmi,AKPO,671104,899
+Nigeria,Taraba ,Kurmi,AKWANGI,671104,900
+Nigeria,Taraba ,Kurmi,AKWENTO/BOKO,671104,901
+Nigeria,Taraba ,Kurmi,AMBO,671104,902
+Nigeria,Taraba ,Kurmi,AMBORA,671104,903
+Nigeria,Taraba ,Kurmi,AMBWE,671104,904
+Nigeria,Taraba ,Kurmi,ASHUKU/ENEME,671104,905
+Nigeria,Taraba ,Kurmi,ATTA,671104,906
+Nigeria,Taraba ,Kurmi,ATSUKU,671104,907
+Nigeria,Taraba ,Kurmi,BAISSA,671104,908
+Nigeria,Taraba ,Kurmi,BENTE,671104,909
+Nigeria,Taraba ,Kurmi,BENTE/GALEA,671104,910
+Nigeria,Taraba ,Kurmi,BISSAULA,671104,911
+Nigeria,Taraba ,Kurmi,DANBAKI,671104,912
+Nigeria,Taraba ,Kurmi,DANBECKI,671104,913
+Nigeria,Taraba ,Kurmi,DIDAN,671104,914
+Nigeria,Taraba ,Kurmi,DORI,671104,915
+Nigeria,Taraba ,Kurmi,FALI,671104,916
+Nigeria,Taraba ,Kurmi,FILIBI,671104,917
+Nigeria,Taraba ,Kurmi,GAGARA,671104,918
+Nigeria,Taraba ,Kurmi,GATARI,671104,919
+Nigeria,Taraba ,Kurmi,GIDAN AJI,671104,920
+Nigeria,Taraba ,Kurmi,GIDAN GIWA,671104,921
+Nigeria,Taraba ,Kurmi,GIDAN MADAIKI,671104,922
+Nigeria,Taraba ,Kurmi,GWANDA,671104,923
+Nigeria,Taraba ,Kurmi,KUFAI,671104,924
+Nigeria,Taraba ,Kurmi,KWESATI,671104,925
+Nigeria,Taraba ,Kurmi,LUMBU,671104,926
+Nigeria,Taraba ,Kurmi,MAIGURU,671104,927
+Nigeria,Taraba ,Kurmi,MAI SAJE,671104,928
+Nigeria,Taraba ,Kurmi,MAKERI,671104,929
+Nigeria,Taraba ,Kurmi,NDAFORO/GEANDA,671104,930
+Nigeria,Taraba ,Kurmi,NDOMBO SAMA,671104,931
+Nigeria,Taraba ,Kurmi,NJUWANDE,671104,932
+Nigeria,Taraba ,Kurmi,NYIDO/TOSSO,671104,933
+Nigeria,Taraba ,Kurmi,SARKIN KUDU,671104,934
+Nigeria,Taraba ,Kurmi,SHUWAKA,671104,935
+Nigeria,Taraba ,Kurmi,UMARU,671104,936
+Nigeria,Taraba ,Lau,ABBARE,662104,937
+Nigeria,Taraba ,Lau,ABBARE I,662101,938
+Nigeria,Taraba ,Lau,ABBERE II,662101,939
+Nigeria,Taraba ,Lau,APAWA,662101,940
+Nigeria,Taraba ,Lau,BAMGA,662101,941
+Nigeria,Taraba ,Lau,BANG,662101,942
+Nigeria,Taraba ,Lau,BARADI,662101,943
+Nigeria,Taraba ,Lau,DIDANGO,662101,944
+Nigeria,Taraba ,Lau,DOBELI,662101,945
+Nigeria,Taraba ,Lau,DONADDA,662101,946
+Nigeria,Taraba ,Lau,GARIN DOGO,662101,947
+Nigeria,Taraba ,Lau,GARIN MAGAJI,662101,948
+Nigeria,Taraba ,Lau,JASSI,662101,949
+Nigeria,Taraba ,Lau,JEM PETEL,662101,950
+Nigeria,Taraba ,Lau,JEN,662101,951
+Nigeria,Taraba ,Lau,JIMLARI,662101,952
+Nigeria,Taraba ,Lau,JUMLERI,662101,953
+Nigeria,Taraba ,Lau,JUMLERI FULANI,662101,954
+Nigeria,Taraba ,Lau,KUNINI,661102,955
+Nigeria,Taraba ,Lau,KWATA KANAWA,661102,956
+Nigeria,Taraba ,Lau,LAU,662101,957
+Nigeria,Taraba ,Lau,LAU I ,661102,958
+Nigeria,Taraba ,Lau,LAU II,661102,959
+Nigeria,Taraba ,Lau,MAYO LOPE,661102,960
+Nigeria,Taraba ,Lau,MINDA,661102,961
+Nigeria,Taraba ,Lau,SERAKYE,661102,962
+Nigeria,Taraba ,Sardauna,ABOE,663102,963
+Nigeria,Taraba ,Sardauna,AKOFORO,663102,964
+Nigeria,Taraba ,Sardauna,AMBA,663102,965
+Nigeria,Taraba ,Sardauna,ANTERE,663102,966
+Nigeria,Taraba ,Sardauna,BANDA,663102,967
+Nigeria,Taraba ,Sardauna,BANGA,663102,968
+Nigeria,Taraba ,Sardauna,BARDE,663102,969
+Nigeria,Taraba ,Sardauna,BATU,663102,970
+Nigeria,Taraba ,Sardauna,BELEL,663102,971
+Nigeria,Taraba ,Sardauna,CHUWA,663102,972
+Nigeria,Taraba ,Sardauna,DAN FULANI,663102,973
+Nigeria,Taraba ,Sardauna,DOROFI,663102,974
+Nigeria,Taraba ,Sardauna,GEMBU,663102,975
+Nigeria,Taraba ,Sardauna,GEMBU B,663102,976
+Nigeria,Taraba ,Sardauna,GEMBU A,663102,977
+Nigeria,Taraba ,Sardauna,GIDAN ALHAJI,663102,978
+Nigeria,Taraba ,Sardauna,HAINARE,663102,979
+Nigeria,Taraba ,Sardauna,INKIRI,663102,980
+Nigeria,Taraba ,Sardauna,JABU,663102,981
+Nigeria,Taraba ,Sardauna,KABRI,663102,982
+Nigeria,Taraba ,Sardauna,KAKARA,663102,983
+Nigeria,Taraba ,Sardauna,KAN IYAKA,663102,984
+Nigeria,Taraba ,Sardauna,KARA,663102,985
+Nigeria,Taraba ,Sardauna,KILATING,663102,986
+Nigeria,Taraba ,Sardauna,KUSUKU,663102,987
+Nigeria,Taraba ,Sardauna,LABARE,663102,988
+Nigeria,Taraba ,Sardauna,LEME,663102,989
+Nigeria,Taraba ,Sardauna,LUBATARI,663102,990
+Nigeria,Taraba ,Sardauna,MAGU,663102,991
+Nigeria,Taraba ,Sardauna,MBAMNGA,663102,992
+Nigeria,Taraba ,Sardauna,MBAR,663102,993
+Nigeria,Taraba ,Sardauna,MBARKA MANGA,663102,994
+Nigeria,Taraba ,Sardauna,MOYA NDAGA,663102,995
+Nigeria,Taraba ,Sardauna,NDUM YAJI,663102,996
+Nigeria,Taraba ,Sardauna,NGELFORO,663102,997
+Nigeria,Taraba ,Sardauna,NGIKAR,663102,998
+Nigeria,Taraba ,Sardauna,NGUROJE,663102,999
+Nigeria,Taraba ,Sardauna,ROREL BURLE ,663102,1000
+Nigeria,Taraba ,Sardauna,TANGO,663102,1001
+Nigeria,Taraba ,Sardauna,TEPKWAR,663102,1002
+Nigeria,Taraba ,Sardauna,TITONG,663102,1003
+Nigeria,Taraba ,Sardauna,WAKILL BUBA,663102,1004
+Nigeria,Taraba ,Sardauna,WARWAR,663102,1005
+Nigeria,Taraba ,Sardauna,YERIMARU,663102,1006
+Nigeria,Taraba ,Sardauna,YIRUM,663102,1007
+Nigeria,Taraba ,Takum,AGERA,671101,1008
+Nigeria,Taraba ,Takum,AGA,671101,1009
+Nigeria,Taraba ,Takum,ANHWANGE,671101,1010
+Nigeria,Taraba ,Takum,BETE,671101,1011
+Nigeria,Taraba ,Takum,BIKASHIBILA,671101,1012
+Nigeria,Taraba ,Takum,CHANCHANJI,671101,1013
+Nigeria,Taraba ,Takum,DOGON GAWA,671101,1014
+Nigeria,Taraba ,Takum,DUTSE,671101,1015
+Nigeria,Taraba ,Takum,FETE,671101,1016
+Nigeria,Taraba ,Takum,GADIN,671101,1017
+Nigeria,Taraba ,Takum,GAHWETON,671101,1018
+Nigeria,Taraba ,Takum,GALUMJE,671101,1019
+Nigeria,Taraba ,Takum,GBERNDIER,671101,1020
+Nigeria,Taraba ,Takum,JIJA,671101,1021
+Nigeria,Taraba ,Takum,KAPYA,671101,1022
+Nigeria,Taraba ,Takum,KASHIMBILA,671101,1023
+Nigeria,Taraba ,Takum,KUMBUR,671101,1024
+Nigeria,Taraba ,Takum,KYAN,671101,1025
+Nigeria,Taraba ,Takum,LUFU,671101,1026
+Nigeria,Taraba ,Takum,MAKI,671101,1027
+Nigeria,Taraba ,Takum,MBATIAN,671101,1028
+Nigeria,Taraba ,Takum,MGBE,671101,1029
+Nigeria,Taraba ,Takum,MUJI,671101,1030
+Nigeria,Taraba ,Takum,ROGO,671101,1031
+Nigeria,Taraba ,Takum,SABON GIDA,671101,1032
+Nigeria,Taraba ,Takum,SAI,671101,1033
+Nigeria,Taraba ,Takum,TAKUM,671101,1034
+Nigeria,Taraba ,Takum,TIKARI,671101,1035
+Nigeria,Taraba ,Takum,UBA,671101,1036
+Nigeria,Taraba ,Takum,ZONGO,671101,1037
+Nigeria,Taraba ,Ussa,ABOKI,671103,1038
+Nigeria,Taraba ,Ussa,ACHA,671103,1039
+Nigeria,Taraba ,Ussa,ACHIFA,671103,1040
+Nigeria,Taraba ,Ussa,ACHILO,671103,1041
+Nigeria,Taraba ,Ussa,ADI,671103,1042
+Nigeria,Taraba ,Ussa,ASKANABI,671103,1043
+Nigeria,Taraba ,Ussa,ATIGSI,671103,1044
+Nigeria,Taraba ,Ussa,ATOTSO,671103,1045
+Nigeria,Taraba ,Ussa,BITUP,671103,1046
+Nigeria,Taraba ,Ussa,BIKA LUPWE,671103,1047
+Nigeria,Taraba ,Ussa,EKAS,671103,1048
+Nigeria,Taraba ,Ussa,FIKYU,671103,1049
+Nigeria,Taraba ,Ussa,FIKYU LISSAM,671103,1050
+Nigeria,Taraba ,Ussa,ISHIR,671103,1051
+Nigeria,Taraba ,Ussa,KECHA,671103,1052
+Nigeria,Taraba ,Ussa,KPAMBO,671103,1053
+Nigeria,Taraba ,Ussa,KUFI,671103,1054
+Nigeria,Taraba ,Ussa,KWESATI,671103,1055
+Nigeria,Taraba ,Ussa,LISSAM,671103,1056
+Nigeria,Taraba ,Ussa,LISSAM I,671103,1057
+Nigeria,Taraba ,Ussa,LISSAM II,671103,1058
+Nigeria,Taraba ,Ussa,RUFU,671103,1059
+Nigeria,Taraba ,Ussa,YAMUSA,671103,1060
+Nigeria,Taraba ,Wukari,AKWANA,670101,1061
+Nigeria,Taraba ,Wukari,ANZWA,670101,1062
+Nigeria,Taraba ,Wukari,APAR,670101,1063
+Nigeria,Taraba ,Wukari,ARAFU,670107,1064
+Nigeria,Taraba ,Wukari,ATERAYANGE,670101,1065
+Nigeria,Taraba ,Wukari,AVYI,670102,1066
+Nigeria,Taraba ,Wukari,BANTAJI,670108,1067
+Nigeria,Taraba ,Wukari,CHAN  GASUWA,670101,1068
+Nigeria,Taraba ,Wukari,CHEDIYA,670101,1069
+Nigeria,Taraba ,Wukari,FIYAYI,670101,1070
+Nigeria,Taraba ,Wukari,GUNGU ABDULAHI,670101,1071
+Nigeria,Taraba ,Wukari,GADA MAYO,670101,1072
+Nigeria,Taraba ,Wukari,GIDAN EL HAJI,670101,1073
+Nigeria,Taraba ,Wukari,GIDAN  IDI,670106,1074
+Nigeria,Taraba ,Wukari,GIDAN MALLAN KAGWA,670101,1075
+Nigeria,Taraba ,Wukari,IBI RIMI UKU II,670101,1076
+Nigeria,Taraba ,Wukari,JIBU,670101,1077
+Nigeria,Taraba ,Wukari,KAMBE,670101,1078
+Nigeria,Taraba ,Wukari,KENTE,670105,1079
+Nigeria,Taraba ,Wukari,KIKUNDU,670101,1080
+Nigeria,Taraba ,Wukari,LANAM,670101,1081
+Nigeria,Taraba ,Wukari,LUMBUV,670101,1082
+Nigeria,Taraba ,Wukari,MBAYENGE,670101,1083
+Nigeria,Taraba ,Wukari,MBAZUN,670101,1084
+Nigeria,Taraba ,Wukari,NYANKOLA,670101,1085
+Nigeria,Taraba ,Wukari,PUJE,670101,1086
+Nigeria,Taraba ,Wukari,RAFIN KADA,670103,1087
+Nigeria,Taraba ,Wukari,RITI,670101,1088
+Nigeria,Taraba ,Wukari,TOR RUWAN,670101,1089
+Nigeria,Taraba ,Wukari,TSAAV,670101,1090
+Nigeria,Taraba ,Wukari,TSOKUNDI,670101,1091
+Nigeria,Taraba ,Wukari,URO TUKUN,670101,1092
+Nigeria,Taraba ,Wukari,WUKARI,670101,1093
+Nigeria,Taraba ,Wukari,ZEBU,670101,1094
+Nigeria,Taraba ,Yorro,BIKASSA II,661101,1095
+Nigeria,Taraba ,Yorro,NYAJA II,661101,1096
+Nigeria,Taraba ,Yorro,PANTISAWA I,661101,1097
+Nigeria,Taraba ,Yorro,PANTISAWA II,661101,1098
+Nigeria,Taraba ,Yorro,PUPULE III,661101,1099
+Nigeria,Taraba ,Yorro,PUPULE I,661101,1100
+Nigeria,Taraba ,Yorro,PUPULE II,661101,1101
+Nigeria,Taraba ,Zing,BANGE,661101,1102
+Nigeria,Taraba ,Zing,BAPINSO,661101,1103
+Nigeria,Taraba ,Zing,BINYERI,661101,1104
+Nigeria,Taraba ,Zing,BISA,661101,1105
+Nigeria,Taraba ,Zing,BITAKO,661105,1106
+Nigeria,Taraba ,Zing,BUBONG,661104,1107
+Nigeria,Taraba ,Zing,BUZOTI,661101,1108
+Nigeria,Taraba ,Zing,DINGDING,661101,1109
+Nigeria,Taraba ,Zing,DINDING,661108,1110
+Nigeria,Taraba ,Zing,LAMMA,661101,1111
+Nigeria,Taraba ,Zing,MBAMBE FULANI,661101,1112
+Nigeria,Taraba ,Zing,MIKA,661101,1113
+Nigeria,Taraba ,Zing,MONKIN,661109,1114
+Nigeria,Taraba ,Zing,YAKOKO,661106,1115
+Nigeria,Taraba ,Zing,ZING,661103,1116
+Nigeria,Taraba ,Zing,ZING AI,661101,1117
+Nigeria,Taraba ,Zing,ZING AII,661101,1118
+Nigeria,Taraba ,Zing,ZING B,661101,1119
+Nigeria,Rivers ,Abua / Odual,ABUA,510102,1120
+Nigeria,Rivers ,Abua / Odual,ABUA I,510102,1121
+Nigeria,Rivers ,Abua / Odual,ABUA II,510102,1122
+Nigeria,Rivers ,Abua / Odual,ABUA III,510102,1123
+Nigeria,Rivers ,Abua / Odual,ABUA IV,510102,1124
+Nigeria,Rivers ,Abua / Odual,AGADA,510102,1125
+Nigeria,Rivers ,Abua / Odual,AGUNUGHAN,510102,1126
+Nigeria,Rivers ,Abua / Odual,AINYADE,510102,1127
+Nigeria,Rivers ,Abua / Odual,AKANI,510102,1128
+Nigeria,Rivers ,Abua / Odual,AMURUKENI,510102,1129
+Nigeria,Rivers ,Abua / Odual,AMURUTO,510102,1130
+Nigeria,Rivers ,Abua / Odual,ANYU,510102,1131
+Nigeria,Rivers ,Abua / Odual,AYON,510102,1132
+Nigeria,Rivers ,Abua / Odual,EGBEMA,510102,1133
+Nigeria,Rivers ,Abua / Odual,EGBOLOM,510102,1134
+Nigeria,Rivers ,Abua / Odual,EKUNUGA,510102,1135
+Nigeria,Rivers ,Abua / Odual,EMAGO,510102,1136
+Nigeria,Rivers ,Abua / Odual,EMAGUO,510102,1137
+Nigeria,Rivers ,Abua / Odual,EMAGO-KUGBO,510102,1138
+Nigeria,Rivers ,Abua / Odual,EMELEGO,510102,1139
+Nigeria,Rivers ,Abua / Odual,EMUGHAN I,510102,1140
+Nigeria,Rivers ,Abua / Odual,EMUGHAN II,510102,1141
+Nigeria,Rivers ,Abua / Odual,ODUA,510102,1142
+Nigeria,Rivers ,Abua / Odual,OKPENDEN,510102,1143
+Nigeria,Rivers ,Abua / Odual,OTAPHA,510102,1144
+Nigeria,Rivers ,Ahoada East,AKABUKA,510101,1145
+Nigeria,Rivers ,Ahoada East,AHOADA,510105,1146
+Nigeria,Rivers ,Ahoada East,AHOADA I,510101,1147
+Nigeria,Rivers ,Ahoada East,AHOADA II,510101,1148
+Nigeria,Rivers ,Ahoada East,AHOADA III,510101,1149
+Nigeria,Rivers ,Ahoada East,AHOADA IV,510101,1150
+Nigeria,Rivers ,Ahoada East,AKOH I,510101,1151
+Nigeria,Rivers ,Ahoada East,AKOH II,510101,1152
+Nigeria,Rivers ,Ahoada East,AKOH III,510101,1153
+Nigeria,Rivers ,Ahoada East,EGI II,510101,1154
+Nigeria,Rivers ,Ahoada East,OCHIBA,510101,1155
+Nigeria,Rivers ,Ahoada East,ODUAHA,510101,1156
+Nigeria,Rivers ,Ahoada East,UPPATA I,510101,1157
+Nigeria,Rivers ,Ahoada East,UPPATA II,510101,1158
+Nigeria,Rivers ,Ahoada East,UPPATA III,510101,1159
+Nigeria,Rivers ,Ahoada East,UPPATA IV,510101,1160
+Nigeria,Rivers ,Ahoada East,UPPATA V,510101,1161
+Nigeria,Rivers ,Ahoada East,UPPATA VI,510101,1162
+Nigeria,Rivers ,Ahoada West,AKINIMA,510105,1163
+Nigeria,Rivers ,Ahoada West,EDIRO I,510105,1164
+Nigeria,Rivers ,Ahoada West,EDIRO II,510105,1165
+Nigeria,Rivers ,Ahoada West,IDU,510105,1166
+Nigeria,Rivers ,Ahoada West,IGBUDUYA I,510105,1167
+Nigeria,Rivers ,Ahoada West,IGBUDUYA II,510105,1168
+Nigeria,Rivers ,Ahoada West,IGBUDUYA III,510105,1169
+Nigeria,Rivers ,Ahoada West,IGBUDUYA IV,510105,1170
+Nigeria,Rivers ,Ahoada West,IKODI,510105,1171
+Nigeria,Rivers ,Ahoada West,JOINKRAMA,510105,1172
+Nigeria,Rivers ,Ahoada West,MBIAMA,510105,1173
+Nigeria,Rivers ,Ahoada West,OKARKI,510105,1174
+Nigeria,Rivers ,Ahoada West,UBIE I,510105,1175
+Nigeria,Rivers ,Ahoada West,UBIE II,510105,1176
+Nigeria,Rivers ,Ahoada West,UBIE III,510105,1177
+Nigeria,Rivers ,Ahoada West,UBIE IV,510105,1178
+Nigeria,Rivers ,Ahoada West,UKODU,510105,1179
+Nigeria,Rivers ,Akuku-Toru,ABONNEMA,504103,1180
+Nigeria,Rivers ,Akuku-Toru,AKUKU TORU,504103,1181
+Nigeria,Rivers ,Akuku-Toru,ALLAGOAKIRI,504103,1182
+Nigeria,Rivers ,Akuku-Toru,APIBOKO,504103,1183
+Nigeria,Rivers ,Akuku-Toru,BRIGGS I,504103,1184
+Nigeria,Rivers ,Akuku-Toru,BRIGGS II,504103,1185
+Nigeria,Rivers ,Akuku-Toru,BRIGGS III,504103,1186
+Nigeria,Rivers ,Akuku-Toru,DOKUBOKIRI,504103,1187
+Nigeria,Rivers ,Akuku-Toru,EBINIKIRI,504103,1188
+Nigeria,Rivers ,Akuku-Toru,EGBEBOKO,504103,1189
+Nigeria,Rivers ,Akuku-Toru,ELUKU,504103,1190
+Nigeria,Rivers ,Akuku-Toru,GEORGEWILL II,504103,1191
+Nigeria,Rivers ,Akuku-Toru,GEORGEWILL III,504103,1192
+Nigeria,Rivers ,Akuku-Toru,GEORGWILL III,504103,1193
+Nigeria,Rivers ,Akuku-Toru,IPIKOKIRI,504103,1194
+Nigeria,Rivers ,Akuku-Toru,JACK I,504103,1195
+Nigeria,Rivers ,Akuku-Toru,JACK II(abonnema),504103,1196
+Nigeria,Rivers ,Akuku-Toru,JACK III,504103,1197
+Nigeria,Rivers ,Akuku-Toru,KULA I,504103,1198
+Nigeria,Rivers ,Akuku-Toru,KULA II,504103,1199
+Nigeria,Rivers ,Akuku-Toru,MANUEL I,504103,1200
+Nigeria,Rivers ,Akuku-Toru,MANUEL II,504103,1201
+Nigeria,Rivers ,Akuku-Toru,MANUEL III,504103,1202
+Nigeria,Rivers ,Akuku-Toru,NORTH/SOUTH GROUP,504103,1203
+Nigeria,Rivers ,Akuku-Toru,NYOUNKIRI,504103,1204
+Nigeria,Rivers ,Akuku-Toru,OBONOMA,504103,1205
+Nigeria,Rivers ,Akuku-Toru,OFFORBOKO,504103,1206
+Nigeria,Rivers ,Akuku-Toru,OLD SANGAMA,504103,1207
+Nigeria,Rivers ,Akuku-Toru,OLOMABOKO,504103,1208
+Nigeria,Rivers ,Akuku-Toru,OYEKIRI,504103,1209
+Nigeria,Rivers ,Akuku-Toru,ROBERTKIRI,504103,1210
+Nigeria,Rivers ,Akuku-Toru,SOKU,504103,1211
+Nigeria,Rivers ,Andoni,AGWUT-OBOLO,503102,1212
+Nigeria,Rivers ,Andoni,AMANKU,503102,1213
+Nigeria,Rivers ,Andoni,ATABA ,503102,1214
+Nigeria,Rivers ,Andoni,ATABA I,503102,1215
+Nigeria,Rivers ,Andoni,ATABA II,503102,1216
+Nigeria,Rivers ,Andoni,EKEDE,503102,1217
+Nigeria,Rivers ,Andoni,IKURU,503102,1218
+Nigeria,Rivers ,Andoni,IKURU   TOWN,503102,1219
+Nigeria,Rivers ,Andoni,ISIODUM,503102,1220
+Nigeria,Rivers ,Andoni,NGO,503102,1221
+Nigeria,Rivers ,Andoni,NGO TOWN,503102,1222
+Nigeria,Rivers ,Andoni,SAMANGA,503102,1223
+Nigeria,Rivers ,Andoni,UNYEADA I,503102,1224
+Nigeria,Rivers ,Andoni,UNYEADA II,503102,1225
+Nigeria,Rivers ,Andoni,UNYEN GALA,503102,1226
+Nigeria,Rivers ,Andoni,WARD VII DEMA ABBEY,503102,1227
+Nigeria,Rivers ,Andoni,WARD IX NANABIE,503102,1228
+Nigeria,Rivers ,Asari-Toru,ABALAMA,504101,1229
+Nigeria,Rivers ,Asari-Toru,ANGULAR-AMA TOWN,504101,1230
+Nigeria,Rivers ,Asari-Toru,BUGUMA,504101,1231
+Nigeria,Rivers ,Asari-Toru,BUGUMA EAST WEST,504101,1232
+Nigeria,Rivers ,Asari-Toru,BUGUMA NORTH EAST,504101,1233
+Nigeria,Rivers ,Asari-Toru,EBUYEDOKUBOKIRI,504101,1234
+Nigeria,Rivers ,Asari-Toru,HORSFALL-AMA,504101,1235
+Nigeria,Rivers ,Asari-Toru,IDO,504101,1236
+Nigeria,Rivers ,Asari-Toru,IFOKO,504101,1237
+Nigeria,Rivers ,Asari-Toru,ISIA GROUP I,504101,1238
+Nigeria,Rivers ,Asari-Toru,ISIA GROUP II,504101,1239
+Nigeria,Rivers ,Asari-Toru,MINA-AMA,504101,1240
+Nigeria,Rivers ,Asari-Toru,OMEKWE-AMA,504101,1241
+Nigeria,Rivers ,Asari-Toru,OMEKWE-TARI-AMA,504101,1242
+Nigeria,Rivers ,Asari-Toru,OPUROAMA TOWN,504101,1243
+Nigeria,Rivers ,Asari-Toru,SAMA,504101,1244
+Nigeria,Rivers ,Asari-Toru,SANGAMA,504101,1245
+Nigeria,Rivers ,Asari-Toru,TEMA,504101,1246
+Nigeria,Rivers ,Asari-Toru,WEST CENTRAL GROUP,504101,1247
+Nigeria,Rivers ,Bonny,AYAMINIMA COMMUNITY,503101,1248
+Nigeria,Rivers ,Bonny,BONNY,503101,1249
+Nigeria,Rivers ,Bonny,BONNY ISLAND,503101,1250
+Nigeria,Rivers ,Bonny,FUAKPA FISHING PORT,503101,1251
+Nigeria,Rivers ,Bonny,OLOMA,503101,1252
+Nigeria,Rivers ,Bonny,TUMBIKUKU,503101,1253
+Nigeria,Rivers ,Bonny,WARD VI ABALAMABIE,503101,1254
+Nigeria,Rivers ,Bonny,WARD II COURT/ADA ALLISON,503101,1255
+Nigeria,Rivers ,Bonny,WARD N FINIMA,503101,1256
+Nigeria,Rivers ,Bonny,WARD IV NEW LAYOUT,503101,1257
+Nigeria,Rivers ,Bonny,WARD X OLOMA AYAMINIMA,503101,1258
+Nigeria,Rivers ,Bonny,WARD I ORO-IGWE,503101,1259
+Nigeria,Rivers ,Bonny,WARD III OROSIRIRI,503101,1260
+Nigeria,Rivers ,Degema,DEGEMA,504102,1261
+Nigeria,Rivers ,Degema,DEGEMA I,504102,1262
+Nigeria,Rivers ,Degema,DEGEMA II,504102,1263
+Nigeria,Rivers ,Degema,DEGEMA III,504102,1264
+Nigeria,Rivers ,Degema,KRAKRAMA,504102,1265
+Nigeria,Rivers ,Degema,OBUAMA,504102,1266
+Nigeria,Rivers ,Eleme,ABULOMA,501101,1267
+Nigeria,Rivers ,Eleme,AGBONCHIA,501101,1268
+Nigeria,Rivers ,Eleme,ALESE ,501101,1269
+Nigeria,Rivers ,Eleme,ALETO,501101,1270
+Nigeria,Rivers ,Eleme,ALODE,501101,1271
+Nigeria,Rivers ,Eleme,EBUBU,501101,1272
+Nigeria,Rivers ,Eleme,ELEME,501101,1273
+Nigeria,Rivers ,Eleme,ETEO,501101,1274
+Nigeria,Rivers ,Eleme,OGALE,501101,1275
+Nigeria,Rivers ,Eleme,OGONI,501101,1276
+Nigeria,Rivers ,Eleme,ONNE,501101,1277
+Nigeria,Rivers ,Emohua,ALIBRADA,511102,1278
+Nigeria,Rivers ,Emohua,EGBEDA,511102,1279
+Nigeria,Rivers ,Emohua,ELELE ALIMINI,511102,1280
+Nigeria,Rivers ,Emohua,EMOHUA,511102,1281
+Nigeria,Rivers ,Emohua,EMOHUA I,511102,1282
+Nigeria,Rivers ,Emohua,EMOHUA II,511102,1283
+Nigeria,Rivers ,Emohua,IBA,511102,1284
+Nigeria,Rivers ,Emohua,IBAA,511102,1285
+Nigeria,Rivers ,Emohua,ISIODU,511102,1286
+Nigeria,Rivers ,Emohua,MBUOSI,511102,1287
+Nigeria,Rivers ,Emohua,OLA RUMUODOGO,511102,1288
+Nigeria,Rivers ,Emohua,OBELLE,511102,1289
+Nigeria,Rivers ,Emohua,OBITIE,511102,1290
+Nigeria,Rivers ,Emohua,ODEGU I,511102,1291
+Nigeria,Rivers ,Emohua,ODEGU II,511102,1292
+Nigeria,Rivers ,Emohua,OGBAKIRI  I,511102,1293
+Nigeria,Rivers ,Emohua,OGBAKIRI  II,511102,1294
+Nigeria,Rivers ,Emohua,OKPABO,511102,1295
+Nigeria,Rivers ,Emohua,OMUDIOGA/AKPADU,511102,1296
+Nigeria,Rivers ,Emohua,ORUGBORKIRI,511102,1297
+Nigeria,Rivers ,Emohua,OSUOGU,511102,1298
+Nigeria,Rivers ,Emohua,RUMUCHIE,511102,1299
+Nigeria,Rivers ,Emohua,RUMUEKPE,511102,1300
+Nigeria,Rivers ,Emohua,RUMUJI,511102,1301
+Nigeria,Rivers ,Emohua,RUMUODOGO,511102,1302
+Nigeria,Rivers ,Emohua,RUNDELE,511102,1303
+Nigeria,Rivers ,Emohua,TOMBIA,511102,1304
+Nigeria,Rivers ,Emohua,UBIMINI,511102,1305
+Nigeria,Rivers ,Emohua,UMUDIOGA,511102,1306
+Nigeria,Rivers ,Etche,ABARA,512101,1307
+Nigeria,Rivers ,Etche,AFARA,512101,1308
+Nigeria,Rivers ,Etche,AHIA,512101,1309
+Nigeria,Rivers ,Etche,AKPOKU/UMUOYE,512101,1310
+Nigeria,Rivers ,Etche,AKWA,512101,1311
+Nigeria,Rivers ,Etche,AKWA/ODOGWA,512101,1312
+Nigeria,Rivers ,Etche,AMAKU,512101,1313
+Nigeria,Rivers ,Etche,CHOKOCHO,512101,1314
+Nigeria,Rivers ,Etche,EGBU,512101,1315
+Nigeria,Rivers ,Etche,EGWI,512101,1316
+Nigeria,Rivers ,Etche,EGWI/OPIRO,512101,1317
+Nigeria,Rivers ,Etche,IBODO,512101,1318
+Nigeria,Rivers ,Etche,IGBO I,512101,1319
+Nigeria,Rivers ,Etche,IGBO II,512101,1320
+Nigeria,Rivers ,Etche,IGBO III,512101,1321
+Nigeria,Rivers ,Etche,IGBODO,512101,1322
+Nigeria,Rivers ,Etche,IGBO ETCHE,512101,1323
+Nigeria,Rivers ,Etche,ISU,512101,1324
+Nigeria,Rivers ,Etche,MBA,512101,1325
+Nigeria,Rivers ,Etche,NDASHI,512101,1326
+Nigeria,Rivers ,Etche,NDARSHI,512101,1327
+Nigeria,Rivers ,Etche,NIHI,512101,1328
+Nigeria,Rivers ,Etche,NINI,512101,1329
+Nigeria,Rivers ,Etche,OBIBI,512101,1330
+Nigeria,Rivers ,Etche,OBIBI/AKWUKABI,512101,1331
+Nigeria,Rivers ,Etche,OBITE,512101,1332
+Nigeria,Rivers ,Etche,ODAGBA,512101,1333
+Nigeria,Rivers ,Etche,ODUFOR,512101,1334
+Nigeria,Rivers ,Etche,OGIDA,512101,1335
+Nigeria,Rivers ,Etche,OKEHI,512101,1336
+Nigeria,Rivers ,Etche,OKODU,512101,1337
+Nigeria,Rivers ,Etche,OKOROAGU,512101,1338
+Nigeria,Rivers ,Etche,OLAKWO,512101,1339
+Nigeria,Rivers ,Etche,OWAZA,512101,1340
+Nigeria,Rivers ,Etche,OWU,512101,1341
+Nigeria,Rivers ,Etche,OZUZU,512101,1342
+Nigeria,Rivers ,Etche,RUMUAKURU,512101,1343
+Nigeria,Rivers ,Etche,RUKWANGWO,512101,1344
+Nigeria,Rivers ,Etche,ULAKWO,512101,1345
+Nigeria,Rivers ,Etche,UMUATURU,512101,1346
+Nigeria,Rivers ,Etche,UMUECHEM,512101,1347
+Nigeria,Rivers ,Etche,UMUEDE,512101,1348
+Nigeria,Rivers ,Gokana,BARINWA DERE,501103,1349
+Nigeria,Rivers ,Gokana,BERA,501103,1350
+Nigeria,Rivers ,Gokana,B-DERE,501103,1351
+Nigeria,Rivers ,Gokana,BIARA I,501103,1352
+Nigeria,Rivers ,Gokana,BIARA II,501103,1353
+Nigeria,Rivers ,Gokana,BODO,501103,1354
+Nigeria,Rivers ,Gokana,BODO I,501103,1355
+Nigeria,Rivers ,Gokana,BODO II,501103,1356
+Nigeria,Rivers ,Gokana,BODO III,501103,1357
+Nigeria,Rivers ,Gokana,BOMU I,501103,1358
+Nigeria,Rivers ,Gokana,BOMU II,501103,1359
+Nigeria,Rivers ,Gokana,KEBGARA DERE,501103,1360
+Nigeria,Rivers ,Gokana,K-DERE I,501103,1361
+Nigeria,Rivers ,Gokana,K-DERE II,501103,1362
+Nigeria,Rivers ,Gokana,KPOR/LEWE/GBE,501103,1363
+Nigeria,Rivers ,Gokana,LEWE,501103,1364
+Nigeria,Rivers ,Gokana,MOGHO,501103,1365
+Nigeria,Rivers ,Gokana,NWEOL/GIOKO/BARAKO,501103,1366
+Nigeria,Rivers ,Gokana,YEGHE,501103,1367
+Nigeria,Rivers ,Gokana,YEGHE I,501103,1368
+Nigeria,Rivers ,Gokana,YEGHE II,501103,1369
+Nigeria,Rivers ,Ikwerre,ADANTA,511101,1370
+Nigeria,Rivers ,Ikwerre,AGWA,511101,1371
+Nigeria,Rivers ,Ikwerre,AGWAWIRIE,511101,1372
+Nigeria,Rivers ,Ikwerre,AHIA,511101,1373
+Nigeria,Rivers ,Ikwerre,ALUU,511101,1374
+Nigeria,Rivers ,Ikwerre,APANI,511101,1375
+Nigeria,Rivers ,Ikwerre,APANE,511101,1376
+Nigeria,Rivers ,Ikwerre,CHOKOCHOKO,511101,1377
+Nigeria,Rivers ,Ikwerre,EBU,511101,1378
+Nigeria,Rivers ,Ikwerre,ELELE,511101,1379
+Nigeria,Rivers ,Ikwerre,ELELE I,511101,1380
+Nigeria,Rivers ,Ikwerre,ELELE II,511101,1381
+Nigeria,Rivers ,Ikwerre,ELELELE,511101,1382
+Nigeria,Rivers ,Ikwerre,IBOA,511101,1383
+Nigeria,Rivers ,Ikwerre,IGRITA,511101,1384
+Nigeria,Rivers ,Ikwerre,IGWURUTA,511101,1385
+Nigeria,Rivers ,Ikwerre,IMOGWU,511101,1386
+Nigeria,Rivers ,Ikwerre,ISIOKPO,511101,1387
+Nigeria,Rivers ,Ikwerre,ISIOKPO I,511101,1388
+Nigeria,Rivers ,Ikwerre,ISIOKPO II,511101,1389
+Nigeria,Rivers ,Ikwerre,NGBAGIDI,511101,1390
+Nigeria,Rivers ,Ikwerre,NKARAHIA,511101,1391
+Nigeria,Rivers ,Ikwerre,OKOHIA,511101,1392
+Nigeria,Rivers ,Ikwerre,OMAGWA,511101,1393
+Nigeria,Rivers ,Ikwerre,OMADEME/IPO,511101,1394
+Nigeria,Rivers ,Ikwerre,OMERELU,511101,1395
+Nigeria,Rivers ,Ikwerre,OMUCHETU,511101,1396
+Nigeria,Rivers ,Ikwerre,OMUIGWE,511101,1397
+Nigeria,Rivers ,Ikwerre,OMUIKUME,511101,1398
+Nigeria,Rivers ,Ikwerre,OMUODA,511101,1399
+Nigeria,Rivers ,Ikwerre,OMUOLO,511101,1400
+Nigeria,Rivers ,Ikwerre,OMUMAH,511101,1401
+Nigeria,Rivers ,Ikwerre,OZUAHA,511101,1402
+Nigeria,Rivers ,Ikwerre,UBIMA,511101,1403
+Nigeria,Rivers ,Ikwerre,UBORUM,511101,1404
+Nigeria,Rivers ,Ikwerre,UMUECHEIGBO,511101,1405
+Nigeria,Rivers ,Ikwerre,UMUIKE,511101,1406
+Nigeria,Rivers ,Ikwerre,UMUOKO,511101,1407
+Nigeria,Rivers ,Khana,BANE,502102,1408
+Nigeria,Rivers ,Khana,BAEN/KPEAN/DUBURO,502102,1409
+Nigeria,Rivers ,Khana,BEERI,502102,1410
+Nigeria,Rivers ,Khana,BOMU I,502102,1411
+Nigeria,Rivers ,Khana,BOMU II,502102,1412
+Nigeria,Rivers ,Khana,BORI,502101,1413
+Nigeria,Rivers ,Khana,BOUE,502102,1414
+Nigeria,Rivers ,Khana,GWARA/KAA/EEKEN,502102,1415
+Nigeria,Rivers ,Khana,KAANI,502102,1416
+Nigeria,Rivers ,Khana,KONO,502102,1417
+Nigeria,Rivers ,Khana,KONO/KWAWA,502102,1418
+Nigeria,Rivers ,Khana,LIEKU/NYOKURU,502102,1419
+Nigeria,Rivers ,Khana,LORRE/LUEBE/KPAA,502102,1420
+Nigeria,Rivers ,Khana,LUBARA,502102,1421
+Nigeria,Rivers ,Khana,LUEKUE BANGHAN,502102,1422
+Nigeria,Rivers ,Khana,NKORO I,502102,1423
+Nigeria,Rivers ,Khana,NKORO II,502102,1424
+Nigeria,Rivers ,Khana,NONWA SOGHO,502102,1425
+Nigeria,Rivers ,Khana,OBETE,502102,1426
+Nigeria,Rivers ,Khana,OKWALI,502102,1427
+Nigeria,Rivers ,Khana,OPUOKO,502102,1428
+Nigeria,Rivers ,Khana,OPUOKO/KALAOKO,502102,1429
+Nigeria,Rivers ,Khana,SII,502102,1430
+Nigeria,Rivers ,Khana,SII/BETEM/KBAABBE,502102,1431
+Nigeria,Rivers ,Khana,SOGHO,502102,1432
+Nigeria,Rivers ,Khana,TAABAA,502102,1433
+Nigeria,Rivers ,Khana,TABANGH,502102,1434
+Nigeria,Rivers ,Khana,UEGWERE,502102,1435
+Nigeria,Rivers ,Khana,WIYAKARA,502102,1436
+Nigeria,Rivers ,Khana,WIIYAA KARA,502102,1437
+Nigeria,Rivers ,Khana,ZAAKPORI,502102,1438
+Nigeria,Rivers ,Obio/Akpor,ALAKAHIA,500102,1439
+Nigeria,Rivers ,Obio/Akpor,ALIGBOLU,500102,1440
+Nigeria,Rivers ,Obio/Akpor,ALIONAHI,500102,1441
+Nigeria,Rivers ,Obio/Akpor,AYA GOLOGO,500102,1442
+Nigeria,Rivers ,Obio/Akpor,CHOBA,500102,1443
+Nigeria,Rivers ,Obio/Akpor,ELIMBU,500102,1444
+Nigeria,Rivers ,Obio/Akpor,ELELENWO,500102,1445
+Nigeria,Rivers ,Obio/Akpor,MGBUOSIMINI,500102,1446
+Nigeria,Rivers ,Obio/Akpor,MGBUESILARA,500102,1447
+Nigeria,Rivers ,Obio/Akpor,NKPELU,500102,1448
+Nigeria,Rivers ,Obio/Akpor,OGBOGORO,500102,1449
+Nigeria,Rivers ,Obio/Akpor,OROAKWO VILLAGE,500102,1450
+Nigeria,Rivers ,Obio/Akpor,OZUOBA,500102,1451
+Nigeria,Rivers ,Obio/Akpor,RUMUOSI,500102,1452
+Nigeria,Rivers ,Obio/Akpor,RUMU OPIRIKOM,500102,1453
+Nigeria,Rivers ,Obio/Akpor,RUMUEME,500102,1454
+Nigeria,Rivers ,Obio/Akpor,RUMUAFRIKOM,500102,1455
+Nigeria,Rivers ,Obio/Akpor,RUMUOKWUTA,500102,1456
+Nigeria,Rivers ,Obio/Akpor,RUMUOKUTA,500102,1457
+Nigeria,Rivers ,Obio/Akpor,RUMUOMEI,500102,1458
+Nigeria,Rivers ,Obio/Akpor,RUMUKPAKOLOSI,500102,1459
+Nigeria,Rivers ,Obio/Akpor,RUMUODOWAYA,500102,1460
+Nigeria,Rivers ,Obio/Akpor,RUMODOME,500102,1461
+Nigeria,Rivers ,Obio/Akpor,RUMUOKORO,500102,1462
+Nigeria,Rivers ,Obio/Akpor,RUMUNDURU,500102,1463
+Nigeria,Rivers ,Obio/Akpor,RUMUDARA,500102,1464
+Nigeria,Rivers ,Obio/Akpor,RUMUKOROSHE,500102,1465
+Nigeria,Rivers ,Obio/Akpor,RUMUIBEKWE,500102,1466
+Nigeria,Rivers ,Obio/Akpor,RUMUOMASI,500102,1467
+Nigeria,Rivers ,Obio/Akpor,RUROWOLUKWO,500102,1468
+Nigeria,Rivers ,Obio/Akpor,WOJI,500102,1469
+Nigeria,Rivers ,Obio/Akpor,UMUDARA,500102,1470
+Nigeria,Rivers ,Obio/Akpor,UMUEHERE,500102,1471
+Nigeria,Rivers ,Obio/Akpor,UMUROLU,500102,1472
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,AGWE,510103,1473
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,AKABUKA,510103,1474
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,AKILI OGIDI,510103,1475
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EBOCHA,510103,1476
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGBEMA I,510103,1477
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGBEMA II,510103,1478
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGI I,510103,1479
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGI II,510103,1480
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGI III,510103,1481
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EGI IV,510103,1482
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,EREMA,510103,1483
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,IGBURU,510103,1484
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,IKIRI,510103,1485
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,KREIGANI,510103,1486
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,NDONI,510103,1487
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,NDONI I,510103,1488
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,NDONI II,510103,1489
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,NDONI III,510103,1490
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OBIDO,510103,1491
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OGBOGWU,510103,1492
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU,510103,1493
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU TOWN I,510103,1494
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU TOWN II,510103,1495
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU TOWN IV(USOMINI),510103,1496
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU TOWN V,510103,1497
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OMOKU TOWN (OBIETI),510103,1498
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,OSIAKPU,510103,1499
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,UBOMINE,510103,1500
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,USOMINI I(NORTH),510103,1501
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,USOMINI II (SOUTH),510103,1502
+Nigeria,Rivers ,Ogba/ Egbema/ Ndoni,UTU,510104,1503
+Nigeria,Rivers ,Ogu/Bolo,BOLO I,500104,1504
+Nigeria,Rivers ,Ogu/Bolo,BOLO II,500104,1505
+Nigeria,Rivers ,Ogu/Bolo,BOLO III,500104,1506
+Nigeria,Rivers ,Ogu/Bolo,BOLO IV ,500104,1507
+Nigeria,Rivers ,Ogu/Bolo,BOLO TOWN,500104,1508
+Nigeria,Rivers ,Ogu/Bolo,ELE,500104,1509
+Nigeria,Rivers ,Ogu/Bolo,NULGE,500104,1510
+Nigeria,Rivers ,Ogu/Bolo,OGU,500104,1511
+Nigeria,Rivers ,Ogu/Bolo,OGU I,500104,1512
+Nigeria,Rivers ,Ogu/Bolo,OGU II,500104,1513
+Nigeria,Rivers ,Ogu/Bolo,OGU III,500104,1514
+Nigeria,Rivers ,Ogu/Bolo,OGU IV,500104,1515
+Nigeria,Rivers ,Ogu/Bolo,OGU V,500104,1516
+Nigeria,Rivers ,Ogu/Bolo,OGU VI,500104,1517
+Nigeria,Rivers ,Ogu/Bolo,WAKAMA,500104,1518
+Nigeria,Rivers ,Ogu/Bolo,WAKAMA-AMA,500104,1519
+Nigeria,Rivers ,Okrika,ABULOMA,500103,1520
+Nigeria,Rivers ,Okrika,KALIO,500103,1521
+Nigeria,Rivers ,Okrika,OGAN,500103,1522
+Nigeria,Rivers ,Okrika,OGOLOMA I,500103,1523
+Nigeria,Rivers ,Okrika,OGOLOMA II,500103,1524
+Nigeria,Rivers ,Okrika,OGOLOMA III,500103,1525
+Nigeria,Rivers ,Okrika,OKRIKA ,500103,1526
+Nigeria,Rivers ,Okrika,OKRIKA  I,500103,1527
+Nigeria,Rivers ,Okrika,OKRIKA  II,500103,1528
+Nigeria,Rivers ,Okrika,OKRIKA  III,500103,1529
+Nigeria,Rivers ,Okrika,OKRIKA IV,500103,1530
+Nigeria,Rivers ,Okrika,OKRIKA  V,500103,1531
+Nigeria,Rivers ,Okrika,OKRIKA VI,500103,1532
+Nigeria,Rivers ,Okrika,OKRIKA VII,500103,1533
+Nigeria,Rivers ,Okrika,OWO OGONO,500103,1534
+Nigeria,Rivers ,Omumma,AKWA/ODOGWA,512102,1535
+Nigeria,Rivers ,Omumma,AMATOR,512102,1536
+Nigeria,Rivers ,Omumma,ARIRANIIRI/OWU-AHIA COMMUNITY,512102,1537
+Nigeria,Rivers ,Omumma,ASA AMATOR,512102,1538
+Nigeria,Rivers ,Omumma,EBERI,512102,1539
+Nigeria,Rivers ,Omumma,EBERI -DIKEOMUUO COMMUNITY,512102,1540
+Nigeria,Rivers ,Omumma,EGBELU,512102,1541
+Nigeria,Rivers ,Omumma,IGBODO,512102,1542
+Nigeria,Rivers ,Omumma,OBIBI/AJULOKE COMMUNITY,512102,1543
+Nigeria,Rivers ,Omumma,OBIBI/AKWUKABI,512102,1544
+Nigeria,Rivers ,Omumma,OBIOHIA COMMUNITY,512102,1545
+Nigeria,Rivers ,Omumma,OFEH  COMMUNITY,512102,1546
+Nigeria,Rivers ,Omumma,OKE IKPE,512102,1547
+Nigeria,Rivers ,Omumma,OHIMOGHO COMMUNITY,512102,1548
+Nigeria,Rivers ,Omumma,OYORO,512102,1549
+Nigeria,Rivers ,Omumma,UMUAKPARA,512102,1550
+Nigeria,Rivers ,Omumma,UMUAJULOKE COMMUNITY,512102,1551
+Nigeria,Rivers ,Omumma,UMUNNEISE,512102,1552
+Nigeria,Rivers ,Omumma,UMUOGBA I COMMUNITY,512102,1553
+Nigeria,Rivers ,Omumma,UMUOGBA II COMMUNITY,512102,1554
+Nigeria,Rivers ,Opobo/Nkoro,ASARAMA,503103,1555
+Nigeria,Rivers ,Opobo/Nkoro,DAPPAYE AMA-KIRI I,503103,1556
+Nigeria,Rivers ,Opobo/Nkoro,DAPPAYE AMA-KIRI II,503103,1557
+Nigeria,Rivers ,Opobo/Nkoro,DIEPIRI,503103,1558
+Nigeria,Rivers ,Opobo/Nkoro,EKEDE,503103,1559
+Nigeria,Rivers ,Opobo/Nkoro,IKOT ABASI,503103,1560
+Nigeria,Rivers ,Opobo/Nkoro,ISIODUM,503103,1561
+Nigeria,Rivers ,Opobo/Nkoro,JAJA,503103,1562
+Nigeria,Rivers ,Opobo/Nkoro,KALAIBIAMA ,503103,1563
+Nigeria,Rivers ,Opobo/Nkoro,KALAIBIAMA I,503103,1564
+Nigeria,Rivers ,Opobo/Nkoro,KALAIBIAMA II,503103,1565
+Nigeria,Rivers ,Opobo/Nkoro,NKORO I,503103,1566
+Nigeria,Rivers ,Opobo/Nkoro,NKORO II,503103,1567
+Nigeria,Rivers ,Opobo/Nkoro,NKORO III,503103,1568
+Nigeria,Rivers ,Opobo/Nkoro,OPOBO,503103,1569
+Nigeria,Rivers ,Opobo/Nkoro,OUEENSTOWN,503103,1570
+Nigeria,Rivers ,Opobo/Nkoro,QUEENS TOWN KALAMA,503103,1571
+Nigeria,Rivers ,Opobo/Nkoro,UKONU,503103,1572
+Nigeria,Rivers ,Opobo/Nkoro,UNYEADA,503103,1573
+Nigeria,Rivers ,Opobo/Nkoro,UNYEADA I,503103,1574
+Nigeria,Rivers ,Opobo/Nkoro,UNYEADA II,503103,1575
+Nigeria,Rivers ,Oyigbo,KOMKOM,502103,1576
+Nigeria,Rivers ,Oyigbo,KONKO,502103,1577
+Nigeria,Rivers ,Oyigbo,OYIGBO,502103,1578
+Nigeria,Rivers ,Oyigbo,OYIGBO CENTRAL,502103,1579
+Nigeria,Rivers ,Oyigbo,OYIGBO WEST,502103,1580
+Nigeria,Rivers ,Oyigbo,RUMUODARA,502103,1581
+Nigeria,Rivers ,Port Harcourt,ABULOMA,500101,1582
+Nigeria,Rivers ,Port Harcourt,ALESA,500101,1583
+Nigeria,Rivers ,Port Harcourt,ALESE,500101,1584
+Nigeria,Rivers ,Port Harcourt,ALETO,500101,1585
+Nigeria,Rivers ,Port Harcourt,ALIGBOLU,500101,1586
+Nigeria,Rivers ,Port Harcourt,ALIONAH,500101,1587
+Nigeria,Rivers ,Port Harcourt,AMADI,500251,1588
+Nigeria,Rivers ,Port Harcourt,ALODE,500101,1589
+Nigeria,Rivers ,Port Harcourt,ALOZO,500101,1590
+Nigeria,Rivers ,Port Harcourt,ATALI,500101,1591
+Nigeria,Rivers ,Port Harcourt,AYA  GOLOGO,500101,1592
+Nigeria,Rivers ,Port Harcourt,DIOBU,500101,1593
+Nigeria,Rivers ,Port Harcourt,EAGLE ISLAND,500101,1594
+Nigeria,Rivers ,Port Harcourt,ELECHI,500101,1595
+Nigeria,Rivers ,Port Harcourt,ELEKAHIA,500101,1596
+Nigeria,Rivers ,Port Harcourt,ELELENWO,500101,1597
+Nigeria,Rivers ,Port Harcourt,ELEME,500101,1598
+Nigeria,Rivers ,Port Harcourt,ELIOWANI,500101,1599
+Nigeria,Rivers ,Port Harcourt,ELIMBU,500101,1600
+Nigeria,Rivers ,Port Harcourt,FIMEAMA,500101,1601
+Nigeria,Rivers ,Port Harcourt,GRA PHASE  3,500101,1602
+Nigeria,Rivers ,Port Harcourt,KIDNEY ISLAND,500101,1603
+Nigeria,Rivers ,Port Harcourt,MGBUOBA,500271,1604
+Nigeria,Rivers ,Port Harcourt,MGBUOSIMINI,500101,1605
+Nigeria,Rivers ,Port Harcourt,MGBUOSIMIRI,500101,1606
+Nigeria,Rivers ,Port Harcourt,MGBUNDUKWU(ONE),500101,1607
+Nigeria,Rivers ,Port Harcourt,MGBUNDUKWU(TWO),500101,1608
+Nigeria,Rivers ,Port Harcourt,MPAKURCHE,500101,1609
+Nigeria,Rivers ,Port Harcourt,NKPOGU,500101,1610
+Nigeria,Rivers ,Port Harcourt,NKPOLU OROWORUKWO,500101,1611
+Nigeria,Rivers ,Port Harcourt,OCHIRI/RUMUKALAGBOR,500101,1612
+Nigeria,Rivers ,Port Harcourt,OGBUNABALI,500101,1613
+Nigeria,Rivers ,Port Harcourt,OKURUAMA,500101,1614
+Nigeria,Rivers ,Port Harcourt,OLD PORTHARCOURT TWP,500242,1615
+Nigeria,Rivers ,Port Harcourt,OROGBUM,500101,1616
+Nigeria,Rivers ,Port Harcourt,OROWOROKWO,500101,1617
+Nigeria,Rivers ,Port Harcourt,PORT HARCOURT,500101,1618
+Nigeria,Rivers ,Port Harcourt,PORT HARCOURT TOWNSHIP,500101,1619
+Nigeria,Rivers ,Port Harcourt,PORT HARCOURT TOWNSHIP IV,500101,1620
+Nigeria,Rivers ,Port Harcourt,RAINBOW TOWN,500101,1621
+Nigeria,Rivers ,Port Harcourt,RUKPOKWU,500101,1622
+Nigeria,Rivers ,Port Harcourt,RUMO  AHOLU,500101,1623
+Nigeria,Rivers ,Port Harcourt,RUMUAGHAOLU,500101,1624
+Nigeria,Rivers ,Port Harcourt,RUMUAFRIKOM,500101,1625
+Nigeria,Rivers ,Port Harcourt,RUMUCHITA,500101,1626
+Nigeria,Rivers ,Port Harcourt,RUMUEME,500262,1627
+Nigeria,Rivers ,Port Harcourt,RUMUEPIRIKOM,500101,1628
+Nigeria,Rivers ,Port Harcourt,RUMUIBEKWE,500101,1629
+Nigeria,Rivers ,Port Harcourt,RUMUIGBO,500101,1630
+Nigeria,Rivers ,Port Harcourt,RUMUKALAGBA,500101,1631
+Nigeria,Rivers ,Port Harcourt,RUMUODARA,500101,1632
+Nigeria,Rivers ,Port Harcourt,RUMUODOMAYA,500101,1633
+Nigeria,Rivers ,Port Harcourt,RUMODOME,500101,1634
+Nigeria,Rivers ,Port Harcourt,RUMUOKORO,500101,1635
+Nigeria,Rivers ,Port Harcourt,RUMUOKUTA,500101,1636
+Nigeria,Rivers ,Port Harcourt,RUMUOKWUTA,500272,1637
+Nigeria,Rivers ,Port Harcourt,RUMUKOROSHE,500101,1638
+Nigeria,Rivers ,Port Harcourt,RUMUOMASI,500101,1639
+Nigeria,Rivers ,Port Harcourt,RUMUOLA,500101,1640
+Nigeria,Rivers ,Port Harcourt,RUMU OPIRIKOM,500101,1641
+Nigeria,Rivers ,Port Harcourt,RUMUNDURU,500101,1642
+Nigeria,Rivers ,Port Harcourt,RUMUROLU,500101,1643
+Nigeria,Rivers ,Port Harcourt,RUMUWAJI,500101,1644
+Nigeria,Rivers ,Port Harcourt,RUROWOLUKWO,500101,1645
+Nigeria,Rivers ,Port Harcourt,TRANS AMADI,500221,1646
+Nigeria,Rivers ,Port Harcourt,UMUDARA,500101,1647
+Nigeria,Rivers ,Port Harcourt,UMUEHERE,500101,1648
+Nigeria,Rivers ,Port Harcourt,UMUEME,500101,1649
+Nigeria,Rivers ,Port Harcourt,UMUIBO,500101,1650
+Nigeria,Rivers ,Port Harcourt,UMUROLU,500101,1651
+Nigeria,Rivers ,Port Harcourt,WOJI,500101,1652
+Nigeria,Rivers ,Tai,AFAM UKWU,501102,1653
+Nigeria,Rivers ,Tai,ASA,501102,1654
+Nigeria,Rivers ,Tai,ETEO,501102,1655
+Nigeria,Rivers ,Tai,WARD I(BOTEM/GBENEO),501102,1656
+Nigeria,Rivers ,Tai,WARD II (KPITE),501102,1657
+Nigeria,Rivers ,Tai,WARD III(KOROKORO),501102,1658
+Nigeria,Rivers ,Tai,WARD IV (KOROMA/HORO),501102,1659
+Nigeria,Rivers ,Tai,WARD V(KIRA/BOROBARA),501102,1660
+Nigeria,Rivers ,Tai,WARD VI(GIO/KPORGHOR/GBAM),501102,1661
+Nigeria,Rivers ,Tai,WARD VII(NONWA),501102,1662
+Nigeria,Rivers ,Tai,WARD VIII(BARRYIRA/BARA-ALE/SIME),501102,1663
+Nigeria,Rivers ,Tai,WARD IX NANABIE,501102,1664
+Nigeria,Rivers ,Tai,WARD X(BAN-OGOI),501102,1665
+Nigeria,Rivers ,Tai,UEKEN,501102,1666
+Nigeria,Kogi ,Adavi,ADABI,264103,1667
+Nigeria,Kogi ,Adavi,EIKA/OHIZENYI,264103,1668
+Nigeria,Kogi ,Adavi,IDANUHUA,264103,1669
+Nigeria,Kogi ,Adavi,IRUVUCHEBA,264103,1670
+Nigeria,Kogi ,Adavi,KUROKO I,264103,1671
+Nigeria,Kogi ,Adavi,KUROKO II,264103,1672
+Nigeria,Kogi ,Adavi,OBAIBA I,264103,1673
+Nigeria,Kogi ,Adavi,OBAIBA II,264103,1674
+Nigeria,Kogi ,Adavi,OBAROKE UVETE,264103,1675
+Nigeria,Kogi ,Adavi,OBANGEDE/UHUODO,264103,1676
+Nigeria,Kogi ,Adavi,OBOROKE  EBA,264103,1677
+Nigeria,Kogi ,Adavi,OGAMINANA,264103,1678
+Nigeria,Kogi ,Adavi,OGBONO,264103,1679
+Nigeria,Kogi ,Adavi,OHUETA,264103,1680
+Nigeria,Kogi ,Adavi,OSARA,264103,1681
+Nigeria,Kogi ,Adavi,OTOKITI,264103,1682
+Nigeria,Kogi ,Adavi,ZONGON DAJI,264103,1683
+Nigeria,Kogi ,Ajaokuta,ABODI/PATESI,263106,1684
+Nigeria,Kogi ,Ajaokuta,ACHAGANA,263105,1685
+Nigeria,Kogi ,Ajaokuta,ADOGO,263105,1686
+Nigeria,Kogi ,Ajaokuta,EBIYA,263105,1687
+Nigeria,Kogi ,Ajaokuta,EBIYA NORTH,263105,1688
+Nigeria,Kogi ,Ajaokuta,EBIYA SOUTH,263105,1689
+Nigeria,Kogi ,Ajaokuta,EGANYI,263105,1690
+Nigeria,Kogi ,Ajaokuta,GANAGA/TOWNSHIP,263105,1691
+Nigeria,Kogi ,Ajaokuta,GBAKEL,263105,1692
+Nigeria,Kogi ,Ajaokuta,GEREGU,263105,1693
+Nigeria,Kogi ,Ajaokuta,ICHUWA/UPAJA,263105,1694
+Nigeria,Kogi ,Ajaokuta,IIASHE,263105,1695
+Nigeria,Kogi ,Ajaokuta,ILOSHI,263105,1696
+Nigeria,Kogi ,Ajaokuta,ILUBUSECHI,263105,1697
+Nigeria,Kogi ,Ajaokuta,KUROKO,263105,1698
+Nigeria,Kogi ,Ajaokuta,NASHE,263105,1699
+Nigeria,Kogi ,Ajaokuta,OBANGEDE/OHUNENE/UKOKO INYE'RE,263105,1700
+Nigeria,Kogi ,Ajaokuta,ODONU/UNOSI,263105,1701
+Nigeria,Kogi ,Ajaokuta,OGAIN,263105,1702
+Nigeria,Kogi ,Ajaokuta,OGIRIRI,263105,1703
+Nigeria,Kogi ,Ajaokuta,OHUNENE,263105,1704
+Nigeria,Kogi ,Ajaokuta,OMGBO,263105,1705
+Nigeria,Kogi ,Ajaokuta,UGOLI,263105,1706
+Nigeria,Kogi ,Ankpa,ABAKPA,270101,1707
+Nigeria,Kogi ,Ankpa,AKA,270101,1708
+Nigeria,Kogi ,Ankpa,AMUWE ICHO,270101,1709
+Nigeria,Kogi ,Ankpa,ANKPA,270101,1710
+Nigeria,Kogi ,Ankpa,ANKPA I,270101,1711
+Nigeria,Kogi ,Ankpa,ANKPA II,270101,1712
+Nigeria,Kogi ,Ankpa,ENJEMA I,270103,1713
+Nigeria,Kogi ,Ankpa,ENJEMA II,270103,1714
+Nigeria,Kogi ,Ankpa,ENJEMA III,270103,1715
+Nigeria,Kogi ,Ankpa,ENJEMA IV,270103,1716
+Nigeria,Kogi ,Ankpa,GIDAN ALKURU,270103,1717
+Nigeria,Kogi ,Ankpa,HOCHE,270103,1718
+Nigeria,Kogi ,Ankpa,IKA,270103,1719
+Nigeria,Kogi ,Ankpa,IKEBE,270103,1720
+Nigeria,Kogi ,Ankpa,OBA,270103,1721
+Nigeria,Kogi ,Ankpa,OFUGU-INYE,270103,1722
+Nigeria,Kogi ,Ankpa,OGORI,270103,1723
+Nigeria,Kogi ,Ankpa,OJOKU I,270102,1724
+Nigeria,Kogi ,Ankpa,OJOKU II,270102,1725
+Nigeria,Kogi ,Ankpa,OJOKU III,270102,1726
+Nigeria,Kogi ,Ankpa,OJOKU IV,270102,1727
+Nigeria,Kogi ,Ankpa,OKABA,270102,1728
+Nigeria,Kogi ,Ankpa,OKENYI,270102,1729
+Nigeria,Kogi ,Ankpa,OLUFOFO,270102,1730
+Nigeria,Kogi ,Ankpa,ONYAGEDE-EHAJE (ALLE),270102,1731
+Nigeria,Kogi ,Ankpa,ONAYAGEDE ICHO (OGOLI),270102,1732
+Nigeria,Kogi ,Ankpa,UGBOJU-ICHO,270102,1733
+Nigeria,Kogi ,Ankpa,UKWODOKO,270102,1734
+Nigeria,Kogi ,Bassa,AKPAKU,272104,1735
+Nigeria,Kogi ,Bassa,AKUBA I,272104,1736
+Nigeria,Kogi ,Bassa,AKUBA II,272104,1737
+Nigeria,Kogi ,Bassa,AMARA,272104,1738
+Nigeria,Kogi ,Bassa,AYEDE /AKAKANA,272105,1739
+Nigeria,Kogi ,Bassa,BAKI,272104,1740
+Nigeria,Kogi ,Bassa,BEINTO,272104,1741
+Nigeria,Kogi ,Bassa,BISHUA,272104,1742
+Nigeria,Kogi ,Bassa,CHEKPADO,272104,1743
+Nigeria,Kogi ,Bassa,CHITA,272104,1744
+Nigeria,Kogi ,Bassa,EBEJE,272104,1745
+Nigeria,Kogi ,Bassa,EFORO,272104,1746
+Nigeria,Kogi ,Bassa,ELULI,272104,1747
+Nigeria,Kogi ,Bassa,EMI ATSUMBE,272104,1748
+Nigeria,Kogi ,Bassa,EMIKUDAMISI,272104,1749
+Nigeria,Kogi ,Bassa,EROKO,272104,1750
+Nigeria,Kogi ,Bassa,GBOLOKO,272104,1751
+Nigeria,Kogi ,Bassa,GBOKOLUBA,272104,1752
+Nigeria,Kogi ,Bassa,ICHEU,272104,1753
+Nigeria,Kogi ,Bassa,IKENDE,272104,1754
+Nigeria,Kogi ,Bassa,INEGU,272104,1755
+Nigeria,Kogi ,Bassa,KOJI,272104,1756
+Nigeria,Kogi ,Bassa,KONU,272104,1757
+Nigeria,Kogi ,Bassa,KPATA,272113,1758
+Nigeria,Kogi ,Bassa,KWIAMBANA,272113,1759
+Nigeria,Kogi ,Bassa,LUNDU,272108,1760
+Nigeria,Kogi ,Bassa,MOZUM,272108,1761
+Nigeria,Kogi ,Bassa,NABURE,272108,1762
+Nigeria,Kogi ,Bassa,ODENYI,272107,1763
+Nigeria,Kogi ,Bassa,OGBA,272108,1764
+Nigeria,Kogi ,Bassa,OGUMA,272108,1765
+Nigeria,Kogi ,Bassa,OLOWA,272108,1766
+Nigeria,Kogi ,Bassa,OZUGBE,272108,1767
+Nigeria,Kogi ,Bassa,OZONGULO/KPANCHE,272111,1768
+Nigeria,Kogi ,Bassa,SHINKATU,272111,1769
+Nigeria,Kogi ,Bassa,TAKUMENA,272111,1770
+Nigeria,Kogi ,Dekina,ABOCHO,272111,1771
+Nigeria,Kogi ,Dekina,ACHARU,272111,1772
+Nigeria,Kogi ,Dekina,ADIELE,272111,1773
+Nigeria,Kogi ,Dekina,ADUMU EGUME,272111,1774
+Nigeria,Kogi ,Dekina,AGOJEJU,272111,1775
+Nigeria,Kogi ,Dekina,AJIJERU,272111,1776
+Nigeria,Kogi ,Dekina,AJILOLO,272111,1777
+Nigeria,Kogi ,Dekina,AJIYOLO,272111,1778
+Nigeria,Kogi ,Dekina,ALIGI ADA,272111,1779
+Nigeria,Kogi ,Dekina,ALOKO,272111,1780
+Nigeria,Kogi ,Dekina,ANYIGBA,272111,1781
+Nigeria,Kogi ,Dekina,ARABA,272111,1782
+Nigeria,Kogi ,Dekina,DEKINA,272101,1783
+Nigeria,Kogi ,Dekina,DEKINA TOWN,272101,1784
+Nigeria,Kogi ,Dekina,EGBOJE,272101,1785
+Nigeria,Kogi ,Dekina,ELUBI,272101,1786
+Nigeria,Kogi ,Dekina,EMEWE,272103,1787
+Nigeria,Kogi ,Dekina,ETUTEKPE,272103,1788
+Nigeria,Kogi ,Dekina,GIWOLIGYO,272103,1789
+Nigeria,Kogi ,Dekina,ITAMA,272103,1790
+Nigeria,Kogi ,Dekina,IYALE,272101,1791
+Nigeria,Kogi ,Dekina,LAFIA,272102,1792
+Nigeria,Kogi ,Dekina,OCBANJA,272102,1793
+Nigeria,Kogi ,Dekina,ODU,272101,1794
+Nigeria,Kogi ,Dekina,ODU I,272101,1795
+Nigeria,Kogi ,Dekina,ODU II,272101,1796
+Nigeria,Kogi ,Dekina,OGANE INIGU,272101,1797
+Nigeria,Kogi ,Dekina,OGBABEDE,272101,1798
+Nigeria,Kogi ,Dekina,OGODU,272101,1799
+Nigeria,Kogi ,Dekina,OJE,272101,1800
+Nigeria,Kogi ,Dekina,OJIKPADALA,272101,1801
+Nigeria,Kogi ,Dekina,OKURA OLAFIA,272102,1802
+Nigeria,Kogi ,Dekina,OLA,272101,1803
+Nigeria,Kogi ,Dekina,OLA OGBA,272101,1804
+Nigeria,Kogi ,Dekina,OTTUTULU VILLAGE,272101,1805
+Nigeria,Kogi ,Ibaji,ABUJAGA,271101,1806
+Nigeria,Kogi ,Ibaji,ADAIGBA,271101,1807
+Nigeria,Kogi ,Ibaji,AKPANYO,271101,1808
+Nigeria,Kogi ,Ibaji,AMABO,271101,1809
+Nigeria,Kogi ,Ibaji,ANALO,271101,1810
+Nigeria,Kogi ,Ibaji,AYAH,271101,1811
+Nigeria,Kogi ,Ibaji,ECHENGWA,271101,1812
+Nigeria,Kogi ,Ibaji,EJULE,271101,1813
+Nigeria,Kogi ,Ibaji,IBAOKO,271101,1814
+Nigeria,Kogi ,Ibaji,IMBAKA,271101,1815
+Nigeria,Kogi ,Ibaji,IYANO,271101,1816
+Nigeria,Kogi ,Ibaji,ODEKE,271101,1817
+Nigeria,Kogi ,Ibaji,OGURUGU,271101,1818
+Nigeria,Kogi ,Ibaji,OGWO,271101,1819
+Nigeria,Kogi ,Ibaji,OJILA,271101,1820
+Nigeria,Kogi ,Ibaji,ONYEDEGA,271105,1821
+Nigeria,Kogi ,Ibaji,UJEH,271110,1822
+Nigeria,Kogi ,Ibaji,UNALE,271110,1823
+Nigeria,Kogi ,Idah,EDE,271110,1824
+Nigeria,Kogi ,Idah,EGA,271110,1825
+Nigeria,Kogi ,Idah,IDAH,271110,1826
+Nigeria,Kogi ,Idah,IGALAOGBA,271110,1827
+Nigeria,Kogi ,Idah,IGECHEBA,271110,1828
+Nigeria,Kogi ,Idah,OGEGELE,271110,1829
+Nigeria,Kogi ,Idah,OWOLI APA,271110,1830
+Nigeria,Kogi ,Idah,SABON GARI,271110,1831
+Nigeria,Kogi ,Idah,UGWODA,271101,1832
+Nigeria,Kogi ,Idah,UKWAJA,271101,1833
+Nigeria,Kogi ,Igalamela-Odolu,ABEDAMMEGU,271104,1834
+Nigeria,Kogi ,Igalamela-Odolu,ADORU,271104,1835
+Nigeria,Kogi ,Igalamela-Odolu,AFAGBA,271104,1836
+Nigeria,Kogi ,Igalamela-Odolu,AFULUGO,271102,1837
+Nigeria,Kogi ,Igalamela-Odolu,AGAGBA,271102,1838
+Nigeria,Kogi ,Igalamela-Odolu,AGITATA ,271102,1839
+Nigeria,Kogi ,Igalamela-Odolu,AJAKA,271102,1840
+Nigeria,Kogi ,Igalamela-Odolu,AJAKA I,271102,1841
+Nigeria,Kogi ,Igalamela-Odolu,AJAKA II,271102,1842
+Nigeria,Kogi ,Igalamela-Odolu,AKINIA,271102,1843
+Nigeria,Kogi ,Igalamela-Odolu,AKPANYA,271102,1844
+Nigeria,Kogi ,Igalamela-Odolu,AKPATEBE,271102,1845
+Nigeria,Kogi ,Igalamela-Odolu,AKPOPO,271102,1846
+Nigeria,Kogi ,Igalamela-Odolu,ALAKIJA,271102,1847
+Nigeria,Kogi ,Igalamela-Odolu,ALODE,271101,1848
+Nigeria,Kogi ,Igalamela-Odolu,ANGBA,271101,1849
+Nigeria,Kogi ,Igalamela-Odolu,AVRUGO,271101,1850
+Nigeria,Kogi ,Igalamela-Odolu,EGABADA,271101,1851
+Nigeria,Kogi ,Igalamela-Odolu,EKWULOKO,271104,1852
+Nigeria,Kogi ,Igalamela-Odolu,OBOLIMI,271104,1853
+Nigeria,Kogi ,Igalamela-Odolu,ODOLU,271104,1854
+Nigeria,Kogi ,Igalamela-Odolu,OFAFU,271104,1855
+Nigeria,Kogi ,Igalamela-Odolu,OFORACHI ,271103,1856
+Nigeria,Kogi ,Igalamela-Odolu,OFORACHI I,271103,1857
+Nigeria,Kogi ,Igalamela-Odolu,OFORACHI II,271103,1858
+Nigeria,Kogi ,Igalamela-Odolu,OGBOGBO,271103,1859
+Nigeria,Kogi ,Igalamela-Odolu,OGBONICHA,271103,1860
+Nigeria,Kogi ,Igalamela-Odolu,OJIGAGALA,271101,1861
+Nigeria,Kogi ,Igalamela-Odolu,OJI -AJI,271101,1862
+Nigeria,Kogi ,Igalamela-Odolu,OKUTU,271101,1863
+Nigeria,Kogi ,Igalamela-Odolu,NIBO,271101,1864
+Nigeria,Kogi ,Igalamela-Odolu,UBELE,271101,1865
+Nigeria,Kogi ,Igalamela-Odolu,UGWAKA,271101,1866
+Nigeria,Kogi ,Ijumu,ADUGI,261103,1867
+Nigeria,Kogi ,Ijumu,AGRIGBON-OKE,261103,1868
+Nigeria,Kogi ,Ijumu,AIYE,261103,1869
+Nigeria,Kogi ,Ijumu,AIYEGUNLE,261103,1870
+Nigeria,Kogi ,Ijumu,AIYETORO I,261103,1871
+Nigeria,Kogi ,Ijumu,AIYETORO II,261103,1872
+Nigeria,Kogi ,Ijumu,AIYETORO GBEDE,261103,1873
+Nigeria,Kogi ,Ijumu,AIYERE/ARIMAH,261103,1874
+Nigeria,Kogi ,Ijumu,ARAROMI,261103,1875
+Nigeria,Kogi ,Ijumu,AYERE,261103,1876
+Nigeria,Kogi ,Ijumu,EGBEDA EGGA/OKEDAYO,261103,1877
+Nigeria,Kogi ,Ijumu,EKINRIN ADE,261103,1878
+Nigeria,Kogi ,Ijumu,EKINRIN ADDE,261103,1879
+Nigeria,Kogi ,Ijumu,ELUHAFON,261103,1880
+Nigeria,Kogi ,Ijumu,IBGOLAYERE/IIAERE,261103,1881
+Nigeria,Kogi ,Ijumu,IDDO,261103,1882
+Nigeria,Kogi ,Ijumu,IDOYI,261103,1883
+Nigeria,Kogi ,Ijumu,IFFE/IKOYI/OKEJUMU,261103,1884
+Nigeria,Kogi ,Ijumu,IIETEJU/ORIGA,261103,1885
+Nigeria,Kogi ,Ijumu,IYAMOYE,261103,1886
+Nigeria,Kogi ,Ijumu,IYARA,261103,1887
+Nigeria,Kogi ,Ijumu,KAKUMA,261103,1888
+Nigeria,Kogi ,Ijumu,ODOKORO,261103,1889
+Nigeria,Kogi ,Ijumu,OGALE/ADUGE,261103,1890
+Nigeria,Kogi ,Ijumu,OGIDI,261103,1891
+Nigeria,Kogi ,Ijumu,OTUNADE,261103,1892
+Nigeria,Kogi ,Ijumu,OGIDI,261103,1893
+Nigeria,Kogi ,Ijumu,OTUNADE,261103,1894
+Nigeria,Kogi ,Kabba /Bunu,AIYEGUNLE,261102,1895
+Nigeria,Kogi ,Kabba /Bunu,AIYETORO -KIRI,261102,1896
+Nigeria,Kogi ,Kabba /Bunu,AIYETEJU,261102,1897
+Nigeria,Kogi ,Kabba /Bunu,AKPARA,261102,1898
+Nigeria,Kogi ,Kabba /Bunu,AKUTUPA-KIRI,261102,1899
+Nigeria,Kogi ,Kabba /Bunu,APE,261102,1900
+Nigeria,Kogi ,Kabba /Bunu,ASUTA,261102,1901
+Nigeria,Kogi ,Kabba /Bunu,CHOKOCHOKO,261102,1902
+Nigeria,Kogi ,Kabba /Bunu,EGBEDA,261102,1903
+Nigeria,Kogi ,Kabba /Bunu,IGBA,261102,1904
+Nigeria,Kogi ,Kabba /Bunu,IKE,261102,1905
+Nigeria,Kogi ,Kabba /Bunu,ILLAH,261102,1906
+Nigeria,Kogi ,Kabba /Bunu,ILLAH BUNU,261102,1907
+Nigeria,Kogi ,Kabba /Bunu,IIUKE,261102,1908
+Nigeria,Kogi ,Kabba /Bunu,KABBA,261102,1909
+Nigeria,Kogi ,Kabba /Bunu,KAKUN,261102,1910
+Nigeria,Kogi ,Kabba /Bunu,ODO-AKETE,261102,1911
+Nigeria,Kogi ,Kabba /Bunu,ODO-APE,261102,1912
+Nigeria,Kogi ,Kabba /Bunu,ODOGBO,261102,1913
+Nigeria,Kogi ,Kabba /Bunu,ODOLU,261102,1914
+Nigeria,Kogi ,Kabba /Bunu,OFERE,261102,1915
+Nigeria,Kogi ,Kabba /Bunu,OKEBUKUN,261102,1916
+Nigeria,Kogi ,Kabba /Bunu,OKEDAYO,261102,1917
+Nigeria,Kogi ,Kabba /Bunu,OKEKOKO,261102,1918
+Nigeria,Kogi ,Kabba /Bunu,OKPA,261102,1919
+Nigeria,Kogi ,Kabba /Bunu,OSHOKOSHOKO,261102,1920
+Nigeria,Kogi ,Kabba /Bunu,OLLE,261102,1921
+Nigeria,Kogi ,Kabba /Bunu,OLLE/OKE -OFIN,261102,1922
+Nigeria,Kogi ,Kabba /Bunu,OUT,261102,1923
+Nigeria,Kogi ,Kabba /Bunu,TAKI,261102,1924
+Nigeria,Kogi ,Koton-Karfe (KOGI),ACIOL,271105,1925
+Nigeria,Kogi ,Koton-Karfe (KOGI),ADAHA,271105,1926
+Nigeria,Kogi ,Koton-Karfe (KOGI),AKPASU,271105,1927
+Nigeria,Kogi ,Koton-Karfe (KOGI),CHIKARA NORTH,271105,1928
+Nigeria,Kogi ,Koton-Karfe (KOGI),CHIKARA SOUTH,271105,1929
+Nigeria,Kogi ,Koton-Karfe (KOGI),GEGU-BEKI NORTH,271105,1930
+Nigeria,Kogi ,Koton-Karfe (KOGI),GEGU-BEKI SOUTH,271105,1931
+Nigeria,Kogi ,Koton-Karfe (KOGI),GERINYA,271105,1932
+Nigeria,Kogi ,Koton-Karfe (KOGI),GIRINYA,271105,1933
+Nigeria,Kogi ,Koton-Karfe (KOGI),IRENODU,271105,1934
+Nigeria,Kogi ,Koton-Karfe (KOGI),JINJERE,271105,1935
+Nigeria,Kogi ,Koton-Karfe (KOGI),KOTONKARFE,271105,1936
+Nigeria,Kogi ,Koton-Karfe (KOGI),KOTONKARFE SOUTH EAST,271105,1937
+Nigeria,Kogi ,Koton-Karfe (KOGI),ODAKI-KOTONKARFE,271105,1938
+Nigeria,Kogi ,Koton-Karfe (KOGI),OSENSENI,271105,1939
+Nigeria,Kogi ,Koton-Karfe (KOGI),TAWARI,271105,1940
+Nigeria,Kogi ,Lokoja,AHUJI,260101,1941
+Nigeria,Kogi ,Lokoja,EGGAN,260101,1942
+Nigeria,Kogi ,Lokoja,GANAGA/TOWSHIP,260101,1943
+Nigeria,Kogi ,Lokoja,LOKOJA A,260101,1944
+Nigeria,Kogi ,Lokoja,LOKOJA B,260101,1945
+Nigeria,Kogi ,Lokoja,LOKOJA C,260101,1946
+Nigeria,Kogi ,Lokoja,LOKOJA D,260101,1947
+Nigeria,Kogi ,Lokoja,LOKOJA E,260101,1948
+Nigeria,Kogi ,Lokoja,OTOKITI,260101,1949
+Nigeria,Kogi ,Lokoja,OWORO,260102,1950
+Nigeria,Kogi ,Mopa-Muro,AGBAFOGUN,261104,1951
+Nigeria,Kogi ,Mopa-Muro,AIYEDE,261104,1952
+Nigeria,Kogi ,Mopa-Muro,AIYEDE/OKAGI,261104,1953
+Nigeria,Kogi ,Mopa-Muro,IIAI,261104,1954
+Nigeria,Kogi ,Mopa-Muro,IJAGBE,261104,1955
+Nigeria,Kogi ,Mopa-Muro,IJOWA,261104,1956
+Nigeria,Kogi ,Mopa-Muro,IRUNDA,261104,1957
+Nigeria,Kogi ,Mopa-Muro,MOPA,261104,1958
+Nigeria,Kogi ,Mopa-Muro,ODOLE-1,261104,1959
+Nigeria,Kogi ,Mopa-Muro,ODOLE-2,261104,1960
+Nigeria,Kogi ,Mopa-Muro,OKAGI,261104,1961
+Nigeria,Kogi ,Mopa-Muro,OKEAGI/IIAI,261104,1962
+Nigeria,Kogi ,Mopa-Muro,OROKERE,261104,1963
+Nigeria,Kogi ,Mopa-Muro,TAKETE,261104,1964
+Nigeria,Kogi ,Mopa-Muro,TAKETE IDDE/OTAFUN,261104,1965
+Nigeria,Kogi ,Ofu,ADADEJU,271108,1966
+Nigeria,Kogi ,Ofu,ADOMA,271108,1967
+Nigeria,Kogi ,Ofu,AGOJEJU,271108,1968
+Nigeria,Kogi ,Ofu,AKUNUBA,271108,1969
+Nigeria,Kogi ,Ofu,ALOJI,271108,1970
+Nigeria,Kogi ,Ofu,ALOMA,271108,1971
+Nigeria,Kogi ,Ofu,ALLOMO,271108,1972
+Nigeria,Kogi ,Ofu,EJIKOLU,271108,1973
+Nigeria,Kogi ,Ofu,EJULE,271108,1974
+Nigeria,Kogi ,Ofu,EJULE ALLAH,271108,1975
+Nigeria,Kogi ,Ofu,GWALAWO,271107,1976
+Nigeria,Kogi ,Ofu,IBOKO/EFAKWU,271108,1977
+Nigeria,Kogi ,Ofu,IGO,271108,1978
+Nigeria,Kogi ,Ofu,ITOBE,271109,1979
+Nigeria,Kogi ,Ofu,ITOBE/OKOKENYI,271109,1980
+Nigeria,Kogi ,Ofu,OGBONICHA,271109,1981
+Nigeria,Kogi ,Ofu,OCHADAMU,271109,1982
+Nigeria,Kogi ,Ofu,OFOKE,271109,1983
+Nigeria,Kogi ,Ofu,OKAMA,271109,1984
+Nigeria,Kogi ,Ofu,UMOMI,271109,1985
+Nigeria,Kogi ,Ofu,Ugwolawo-I,271106,1986
+Nigeria,Kogi ,Ofu,Ugwolawo-2,271109,1987
+Nigeria,Kogi ,Ogori/Magongo,AIYEROMI,263103,1988
+Nigeria,Kogi ,Ogori/Magongo,ENI,263103,1989
+Nigeria,Kogi ,Ogori/Magongo,ILETEJU,263103,1990
+Nigeria,Kogi ,Ogori/Magongo,OSOSO,263103,1991
+Nigeria,Kogi ,Ogori/Magongo,OTURU OPOWUROYE,263103,1992
+Nigeria,Kogi ,Ogori/Magongo,UGUGU,263103,1993
+Nigeria,Kogi ,Okehi,EIKA/OHIZENYI,264101,1994
+Nigeria,Kogi ,Okehi,OBANGEDE/UHUODO,264101,1995
+Nigeria,Kogi ,Okehi,OBAROKE UVETE,264101,1996
+Nigeria,Kogi ,Okehi,OBELE,264101,1997
+Nigeria,Kogi ,Okehi,OHUEPE/OMAVI UBORO,264101,1998
+Nigeria,Kogi ,Okehi,OKAITO/USUNGWEN,264101,1999
+Nigeria,Kogi ,Okehi,USUNGWE,264101,2000
+Nigeria,Kogi ,Okene,ADAVI -EBA,264101,2001
+Nigeria,Kogi ,Okene,ANYOKE,264101,2002
+Nigeria,Kogi ,Okene,EGE/IRUVOCHINOMI,264101,2003
+Nigeria,Kogi ,Okene,IDOJI,264101,2004
+Nigeria,Kogi ,Okene,IKARAWORO/IDOBANYERE,264101,2005
+Nigeria,Kogi ,Okene,INO ZIOMI/IPAKU/OSISI,264101,2006
+Nigeria,Kogi ,Okene,KUKORO I,264101,2007
+Nigeria,Kogi ,Okene,KUKORO II,264101,2008
+Nigeria,Kogi ,Okene,OBEHIRA UVETTA,264101,2009
+Nigeria,Kogi ,Okene,OBEHIRA EBA,264101,2010
+Nigeria,Kogi ,Okene,OBESSA,264101,2011
+Nigeria,Kogi ,Okene,OKENE-EBA/AGASSA/AHACHE,263104,2012
+Nigeria,Kogi ,Okene,OKENGWE OBEHIRA,264101,2013
+Nigeria,Kogi ,Okene,ONYUKOKO,264101,2014
+Nigeria,Kogi ,Okene,ORIETESU,264101,2015
+Nigeria,Kogi ,Okene,OTUTU,264101,2016
+Nigeria,Kogi ,Olamaboro,ADUM -AFO,270108,2017
+Nigeria,Kogi ,Olamaboro,ADUPE,270108,2018
+Nigeria,Kogi ,Olamaboro,AFO OWEBE,270108,2019
+Nigeria,Kogi ,Olamaboro,AI-OODO I,270108,2020
+Nigeria,Kogi ,Olamaboro,AI-OODO II,270108,2021
+Nigeria,Kogi ,Olamaboro,AKOBO,270108,2022
+Nigeria,Kogi ,Olamaboro,AKPAGIDIGBO,270108,2023
+Nigeria,Kogi ,Olamaboro,AKPANYA,270108,2024
+Nigeria,Kogi ,Olamaboro,AKUBA,270108,2025
+Nigeria,Kogi ,Olamaboro,AMAKA,270108,2026
+Nigeria,Kogi ,Olamaboro,AMAPA,270108,2027
+Nigeria,Kogi ,Olamaboro,EDE,270108,2028
+Nigeria,Kogi ,Olamaboro,EDIPE EKE,270108,2029
+Nigeria,Kogi ,Olamaboro,EFOFE,270108,2030
+Nigeria,Kogi ,Olamaboro,EJULE,270108,2031
+Nigeria,Kogi ,Olamaboro,EKE,270108,2032
+Nigeria,Kogi ,Olamaboro,EMAGODO,270108,2033
+Nigeria,Kogi ,Olamaboro,EMODU,270108,2034
+Nigeria,Kogi ,Olamaboro,ERONG,270108,2035
+Nigeria,Kogi ,Olamaboro,ETE NAWO,270108,2036
+Nigeria,Kogi ,Olamaboro,ETTE CENTRAL,270108,2037
+Nigeria,Kogi ,Olamaboro,ETTE 11,270108,2038
+Nigeria,Kogi ,Olamaboro,ETTE 1,270108,2039
+Nigeria,Kogi ,Olamaboro,ILEJE,270108,2040
+Nigeria,Kogi ,Olamaboro,IMANE,270108,2041
+Nigeria,Kogi ,Olamaboro,ISHILO,270108,2042
+Nigeria,Kogi ,Olamaboro,ODOGOMU,270108,2043
+Nigeria,Kogi ,Olamaboro,OFANTE CENTRE,270108,2044
+Nigeria,Kogi ,Olamaboro,OGUGU I,270109,2045
+Nigeria,Kogi ,Olamaboro,OGUGU II,270109,2046
+Nigeria,Kogi ,Olamaboro,OGUGU III,270109,2047
+Nigeria,Kogi ,Olamaboro,OKAI,270109,2048
+Nigeria,Kogi ,Olamaboro,OKOEKWO,270109,2049
+Nigeria,Kogi ,Olamaboro,OKPO,270107,2050
+Nigeria,Kogi ,Olamaboro,OKPOGA,270109,2051
+Nigeria,Kogi ,Olamaboro,OLAMABORO I,270109,2052
+Nigeria,Kogi ,Olamaboro,OLAMABORO II,270109,2053
+Nigeria,Kogi ,Olamaboro,OLAMABORO III,270109,2054
+Nigeria,Kogi ,Olamaboro,OLAMABORO IV,270109,2055
+Nigeria,Kogi ,Olamaboro,OLAMABORO V,270109,2056
+Nigeria,Kogi ,Olamaboro,OLEDO,270109,2057
+Nigeria,Kogi ,Olamaboro,ONDO,270109,2058
+Nigeria,Kogi ,Olamaboro,OROKAM ,270109,2059
+Nigeria,Kogi ,Olamaboro,OROKAM I,270109,2060
+Nigeria,Kogi ,Olamaboro,OROKAM II,270109,2061
+Nigeria,Kogi ,Olamaboro,OTUKPO OFANTE,270109,2062
+Nigeria,Kogi ,Olamaboro,UCHOCHO,270109,2063
+Nigeria,Kogi ,Olamaboro,UMUOZZI I,270109,2064
+Nigeria,Kogi ,Olamaboro,UMUOZZI IX,270109,2065
+Nigeria,Kogi ,Omala,ABEJUKOLO,270105,2066
+Nigeria,Kogi ,Omala,ABEJUKOLO I,270104,2067
+Nigeria,Kogi ,Omala,ABEJUKOLO II,270104,2068
+Nigeria,Kogi ,Omala,ADO,270104,2069
+Nigeria,Kogi ,Omala,ADOKA,270104,2070
+Nigeria,Kogi ,Omala,AKPACHA,270104,2071
+Nigeria,Kogi ,Omala,AKPETE/OJANTELLE,270104,2072
+Nigeria,Kogi ,Omala,ALOKUJA,270104,2073
+Nigeria,Kogi ,Omala,AMAGEDE,270104,2074
+Nigeria,Kogi ,Omala,BAGAJI,270104,2075
+Nigeria,Kogi ,Omala,BAGANA,270104,2076
+Nigeria,Kogi ,Omala,EBIRADU,270104,2077
+Nigeria,Kogi ,Omala,EGIM,270104,2078
+Nigeria,Kogi ,Omala,EJIMA,270104,2079
+Nigeria,Kogi ,Omala,ICHEKE AJOPACHI,270104,2080
+Nigeria,Kogi ,Omala,IGODO,270104,2081
+Nigeria,Kogi ,Omala,IYADI,270104,2082
+Nigeria,Kogi ,Omala,ITOBE,270104,2083
+Nigeria,Kogi ,Omala,JATO,270104,2084
+Nigeria,Kogi ,Omala,NUPE,270104,2085
+Nigeria,Kogi ,Omala,OFOKE,270104,2086
+Nigeria,Kogi ,Omala,OGBONAHA,270104,2087
+Nigeria,Kogi ,Omala,OGBOYOGA,270104,2088
+Nigeria,Kogi ,Omala,OGWULE OGBAULU,270104,2089
+Nigeria,Kogi ,Omala,OJI-ALI,270104,2090
+Nigeria,Kogi ,Omala,OKPATALA,270104,2091
+Nigeria,Kogi ,Omala,OKUBA,270104,2092
+Nigeria,Kogi ,Omala,OLA,270104,2093
+Nigeria,Kogi ,Omala,OLLA,270104,2094
+Nigeria,Kogi ,Omala,OLIYA,270104,2095
+Nigeria,Kogi ,Omala,OPANDA,270105,2096
+Nigeria,Kogi ,Omala,OPODA/OFEJIJI,270105,2097
+Nigeria,Kogi ,yagba   East,AGINMI,262101,2098
+Nigeria,Kogi ,yagba   East,AGINMI OKE,262101,2099
+Nigeria,Kogi ,yagba   East,AIYEDE,262101,2100
+Nigeria,Kogi ,yagba   East,ALU/IGBAGUN/ORANRE,262101,2101
+Nigeria,Kogi ,yagba   East,EJUKU,262101,2102
+Nigeria,Kogi ,yagba   East,IDOFIN,262101,2103
+Nigeria,Kogi ,yagba   East,IGBAGUN,262101,2104
+Nigeria,Kogi ,yagba   East,IFE,262101,2105
+Nigeria,Kogi ,yagba   East,IFE OLUKOTUN II,262101,2106
+Nigeria,Kogi ,yagba   East,ILAFIN,262101,2107
+Nigeria,Kogi ,yagba   East,ILAFIN/IDOFIN/ODO-OGBA,262101,2108
+Nigeria,Kogi ,yagba   East,ISANLU,262101,2109
+Nigeria,Kogi ,yagba   East,ISANLU  ITEDO,262101,2110
+Nigeria,Kogi ,yagba   East,ISANLU  MAKUTU,262101,2111
+Nigeria,Kogi ,yagba   East,ITEDO,262101,2112
+Nigeria,Kogi ,yagba   East,IYE,262101,2113
+Nigeria,Kogi ,yagba   East,JEGE,262102,2114
+Nigeria,Kogi ,yagba   East,JEGE/OKE/AGI OGBOM/ISAO,262102,2115
+Nigeria,Kogi ,yagba   East,ODOSIN,262102,2116
+Nigeria,Kogi ,yagba   East,OGA,262102,2117
+Nigeria,Kogi ,yagba   East,PONYAN,262102,2118
+Nigeria,Kogi ,Yagba West,AHUN,262102,2119
+Nigeria,Kogi ,Yagba West,EGBE,262102,2120
+Nigeria,Kogi ,Yagba West,EJIBA,262102,2121
+Nigeria,Kogi ,Yagba West,ESANLU ESA,262102,2122
+Nigeria,Kogi ,Yagba West,IGBARUKU,262102,2123
+Nigeria,Kogi ,Yagba West,ISANLU ESA,262102,2124
+Nigeria,Kogi ,Yagba West,ISAULU ESA/OKOLOKE/OKUNRAN,262102,2125
+Nigeria,Kogi ,Yagba West,IYAMERIN/IGBARUKU,262102,2126
+Nigeria,Kogi ,Yagba West,ODO ARA OMI OGGA,262102,2127
+Nigeria,Kogi ,Yagba West,ODO ERE OKE ERE,262102,2128
+Nigeria,Kogi ,Yagba West,OFFE,262103,2129
+Nigeria,Kogi ,Yagba West,OGBE,262103,2130
+Nigeria,Kogi ,Yagba West,OKUNRAN,262103,2131
+Nigeria,Nasarawa,Akwanga,ADDE,960101,2132
+Nigeria,Nasarawa,Akwanga,AGYAGA,960101,2133
+Nigeria,Nasarawa,Akwanga,AKWANGA,960101,2134
+Nigeria,Nasarawa,Akwanga,AKWANGA EAST ,960101,2135
+Nigeria,Nasarawa,Akwanga,AKWANGA WEST,960101,2136
+Nigeria,Nasarawa,Akwanga,ANCHO,960101,2137
+Nigeria,Nasarawa,Akwanga,ANCHOBABA,960101,2138
+Nigeria,Nasarawa,Akwanga,ANCHO NIGHAAN,960101,2139
+Nigeria,Nasarawa,Akwanga,ANDAHAN DAJI,960101,2140
+Nigeria,Nasarawa,Akwanga,ANDAHA,960101,2141
+Nigeria,Nasarawa,Akwanga,ENDE,960101,2142
+Nigeria,Nasarawa,Akwanga,GUDI,960113,2143
+Nigeria,Nasarawa,Akwanga,GUJA,960113,2144
+Nigeria,Nasarawa,Akwanga,GWANJE.GWANJE,960112,2145
+Nigeria,Nasarawa,Akwanga,KUMPA,960112,2146
+Nigeria,Nasarawa,Akwanga,LALLE,960112,2147
+Nigeria,Nasarawa,Akwanga,MOROA,960112,2148
+Nigeria,Nasarawa,Akwanga,NINGO/BOHAR,960112,2149
+Nigeria,Nasarawa,Akwanga,NUMBARI,960112,2150
+Nigeria,Nasarawa,Akwanga,NUNKU,960114,2151
+Nigeria,Nasarawa,Akwanga,UBBE,960114,2152
+Nigeria,Nasarawa,Akwanga,WAKAMA,960114,2153
+Nigeria,Nasarawa,Akwanga,WASA,960114,2154
+Nigeria,Nasarawa,Awe,ADAWA,951103,2155
+Nigeria,Nasarawa,Awe,ADUDU,951103,2156
+Nigeria,Nasarawa,Awe,AGOR,951103,2157
+Nigeria,Nasarawa,Awe,AKWETE,951103,2158
+Nigeria,Nasarawa,Awe,ANODU,951103,2159
+Nigeria,Nasarawa,Awe,AYERE,951103,2160
+Nigeria,Nasarawa,Awe,AZARA,951103,2161
+Nigeria,Nasarawa,Awe,BUNA,951103,2162
+Nigeria,Nasarawa,Awe,CHAMEGH,951103,2163
+Nigeria,Nasarawa,Awe,GABARA,951103,2164
+Nigeria,Nasarawa,Awe,GALADIMA,951103,2165
+Nigeria,Nasarawa,Awe,GINDIN KETE,951103,2166
+Nigeria,Nasarawa,Awe,IMON,951103,2167
+Nigeria,Nasarawa,Awe,JANGARU,951103,2168
+Nigeria,Nasarawa,Awe,JANKAR,951103,2169
+Nigeria,Nasarawa,Awe,KANGLE/ABUNI,951103,2170
+Nigeria,Nasarawa,Awe,KAOR,951103,2171
+Nigeria,Nasarawa,Awe,KOSUNU,951103,2172
+Nigeria,Nasarawa,Awe,KURUNGU,951103,2173
+Nigeria,Nasarawa,Awe,MADAKI,951103,2174
+Nigeria,Nasarawa,Awe,MADAKIN SOJA,951103,2175
+Nigeria,Nasarawa,Awe,MAKWANGIJI,951103,2176
+Nigeria,Nasarawa,Awe,RIBI,951103,2177
+Nigeria,Nasarawa,Awe,RUFAI,951103,2178
+Nigeria,Nasarawa,Awe,TUNGA,951103,2179
+Nigeria,Nasarawa,Awe,WUSE,951103,2180
+Nigeria,Nasarawa,Doma,AGBASHI,951103,2181
+Nigeria,Nasarawa,Doma,AGIMA,951103,2182
+Nigeria,Nasarawa,Doma,AGYARANGUN TOFA,950103,2183
+Nigeria,Nasarawa,Doma,AKERRA,950103,2184
+Nigeria,Nasarawa,Doma,AKPANAJA,950103,2185
+Nigeria,Nasarawa,Doma,AKWATTA,950103,2186
+Nigeria,Nasarawa,Doma,ALAGYE,950103,2187
+Nigeria,Nasarawa,Doma,ALAKANI,950103,2188
+Nigeria,Nasarawa,Doma,ANGWAN YARA MADA,950103,2189
+Nigeria,Nasarawa,Doma,ANKOMA,950103,2190
+Nigeria,Nasarawa,Doma,ATAKWA,950103,2191
+Nigeria,Nasarawa,Doma,BOFOWO,950103,2192
+Nigeria,Nasarawa,Doma,DOKA,950104,2193
+Nigeria,Nasarawa,Doma,DOMA,950104,2194
+Nigeria,Nasarawa,Doma,EGBA,950104,2195
+Nigeria,Nasarawa,Doma,EGUD,950104,2196
+Nigeria,Nasarawa,Doma,EPE,950104,2197
+Nigeria,Nasarawa,Doma,GAMARRA,950104,2198
+Nigeria,Nasarawa,Doma,GBAANGE/TONGOV,950104,2199
+Nigeria,Nasarawa,Doma,GIDAN RAI,950104,2200
+Nigeria,Nasarawa,Doma,GINDIN MANGO,950104,2201
+Nigeria,Nasarawa,Doma,KEFFIN/WAMBAI,950104,2202
+Nigeria,Nasarawa,Doma,KOKI,950104,2203
+Nigeria,Nasarawa,Doma,KWARRA,950104,2204
+Nigeria,Nasarawa,Doma,MADA,950104,2205
+Nigeria,Nasarawa,Doma,MUKAIYA,950104,2206
+Nigeria,Nasarawa,Doma,OGBABU,950104,2207
+Nigeria,Nasarawa,Doma,OKOKOLO,950104,2208
+Nigeria,Nasarawa,Doma,RUKUBI,950104,2209
+Nigeria,Nasarawa,Doma,RUTU,950104,2210
+Nigeria,Nasarawa,Doma,SABON GARI,950104,2211
+Nigeria,Nasarawa,Doma,SENGEV,950104,2212
+Nigeria,Nasarawa,Doma,UDENI,950104,2213
+Nigeria,Nasarawa,Doma,UKOR,950104,2214
+Nigeria,Nasarawa,Doma,UNG DAN GALADIMA,950104,2215
+Nigeria,Nasarawa,Doma,UNG MADAKI,950104,2216
+Nigeria,Nasarawa,Doma,UNG MADAUCHI,950104,2217
+Nigeria,Nasarawa,Doma,UNG SARKIN DAWAKI,950104,2218
+Nigeria,Nasarawa,Doma,YELWA DOMA,950104,2219
+Nigeria,Nasarawa,Karu,ADO,961103,2220
+Nigeria,Nasarawa,Karu,AGADA/BAGAJI,961103,2221
+Nigeria,Nasarawa,Karu,ANGWA ALURA,961103,2222
+Nigeria,Nasarawa,Karu,ASO/KADAPE,961103,2223
+Nigeria,Nasarawa,Karu,GITATA,961103,2224
+Nigeria,Nasarawa,Karu,GORA,961103,2225
+Nigeria,Nasarawa,Karu,GURKU/KABUSU,961103,2226
+Nigeria,Nasarawa,Karu,KAKANYA,961103,2227
+Nigeria,Nasarawa,Karu,KARSHI I,961103,2228
+Nigeria,Nasarawa,Karu,KARSHI  II,961103,2229
+Nigeria,Nasarawa,Karu,KEFFIN SHANU,961103,2230
+Nigeria,Nasarawa,Karu,KOFAR GWARI,961103,2231
+Nigeria,Nasarawa,Karu,KURAFE,961103,2232
+Nigeria,Nasarawa,Karu,KURMIN JIBRIN,961103,2233
+Nigeria,Nasarawa,Karu,MARARABA,961103,2234
+Nigeria,Nasarawa,Karu,NDUYA,961103,2235
+Nigeria,Nasarawa,Karu,NEW KARU,961103,2236
+Nigeria,Nasarawa,Karu,NIKE,961103,2237
+Nigeria,Nasarawa,Karu,PANDA /KARE,961103,2238
+Nigeria,Nasarawa,Karu,PANDAM,961103,2239
+Nigeria,Nasarawa,Karu,TATTARA/KONDORO,961103,2240
+Nigeria,Nasarawa,Karu,VINTAGE,961103,2241
+Nigeria,Nasarawa,Karu,UKE,961103,2242
+Nigeria,Nasarawa,Karu,UKO,961103,2243
+Nigeria,Nasarawa,Keana,ADIERE,951107,2244
+Nigeria,Nasarawa,Keana,AGAZA,951107,2245
+Nigeria,Nasarawa,Keana,AGUNDU,951107,2246
+Nigeria,Nasarawa,Keana,AJO ,951107,2247
+Nigeria,Nasarawa,Keana,ALOSHI,951107,2248
+Nigeria,Nasarawa,Keana,AMIRI,951107,2249
+Nigeria,Nasarawa,Keana,GIZA,951108,2250
+Nigeria,Nasarawa,Keana,IWAGU,951108,2251
+Nigeria,Nasarawa,Keana,KADARKO,951108,2252
+Nigeria,Nasarawa,Keana,KEANA,951108,2253
+Nigeria,Nasarawa,Keana,KWARA,961101,2254
+Nigeria,Nasarawa,Keana,NYAM,961101,2255
+Nigeria,Nasarawa,Keana,OBENE,961101,2256
+Nigeria,Nasarawa,Keana,OKI,961101,2257
+Nigeria,Nasarawa,Keffi,ANGWAN IYA I,961101,2258
+Nigeria,Nasarawa,Keffi,ANGWAN IYA II,961101,2259
+Nigeria,Nasarawa,Keffi,ANG.RIMI,961101,2260
+Nigeria,Nasarawa,Keffi,KEFFI,961101,2261
+Nigeria,Nasarawa,Keffi,KEFFI TOWN EAST/ KOFAR GORIYA,961101,2262
+Nigeria,Nasarawa,Keffi,JIGWADA,961101,2263
+Nigeria,Nasarawa,Keffi,TUDUN WADA T.v,961101,2264
+Nigeria,Nasarawa,Keffi,YARA,961101,2265
+Nigeria,Nasarawa,Kokona,AMBA,961102,2266
+Nigeria,Nasarawa,Kokona,ANGORO,961102,2267
+Nigeria,Nasarawa,Kokona,BASSA,961102,2268
+Nigeria,Nasarawa,Kokona,DARI,961102,2269
+Nigeria,Nasarawa,Kokona,FAMUTUN GADO,961102,2270
+Nigeria,Nasarawa,Kokona,GANDUN SARKI,961102,2271
+Nigeria,Nasarawa,Kokona,GARAKU,961102,2272
+Nigeria,Nasarawa,Kokona,GUNDUNA,961102,2273
+Nigeria,Nasarawa,Kokona,HADARI,961102,2274
+Nigeria,Nasarawa,Kokona,KANDARE,961102,2275
+Nigeria,Nasarawa,Kokona,KOKONA,961102,2276
+Nigeria,Nasarawa,Kokona,KUBARE,961102,2277
+Nigeria,Nasarawa,Kokona,NINKORO,961102,2278
+Nigeria,Nasarawa,Kokona,PANWASA,961102,2279
+Nigeria,Nasarawa,Kokona,SHABA,961102,2280
+Nigeria,Nasarawa,Kokona,WASA,961102,2281
+Nigeria,Nasarawa,Lafia,ABUDEM,961102,2282
+Nigeria,Nasarawa,Lafia,ADOGI,961102,2283
+Nigeria,Nasarawa,Lafia,AKODI,961102,2284
+Nigeria,Nasarawa,Lafia,AKWIYA,961102,2285
+Nigeria,Nasarawa,Lafia,ALUNGANE,961102,2286
+Nigeria,Nasarawa,Lafia,AMBAKAR,961102,2287
+Nigeria,Nasarawa,Lafia,ANKANI,961102,2288
+Nigeria,Nasarawa,Lafia,ARIKIA,961102,2289
+Nigeria,Nasarawa,Lafia,ARIKYA,961102,2290
+Nigeria,Nasarawa,Lafia,CHIROMA,961102,2291
+Nigeria,Nasarawa,Lafia,GANDU,961102,2292
+Nigeria,Nasarawa,Lafia,GIDAN AUSA I,961102,2293
+Nigeria,Nasarawa,Lafia,GIDAN MAI AKWIYA,961102,2294
+Nigeria,Nasarawa,Lafia,GWANDERE,950102,2295
+Nigeria,Nasarawa,Lafia,GWANDENYE,950102,2296
+Nigeria,Nasarawa,Lafia,KEFFIN /WAMBAI,950102,2297
+Nigeria,Nasarawa,Lafia,KYAKALE,950102,2298
+Nigeria,Nasarawa,Lafia,LAFIA,950102,2299
+Nigeria,Nasarawa,Lafia,MAJOR MUSA,950102,2300
+Nigeria,Nasarawa,Lafia,MAKAMA,950102,2301
+Nigeria,Nasarawa,Lafia,RIRI,950102,2302
+Nigeria,Nasarawa,Lafia,SHABU,950102,2303
+Nigeria,Nasarawa,Lafia,SHABU/KWANDERE,950102,2304
+Nigeria,Nasarawa,Lafia,SHIMMAR,950102,2305
+Nigeria,Nasarawa,Lafia,TUNGAN DAUDU,950101,2306
+Nigeria,Nasarawa,Lafia,WAKWA,950101,2307
+Nigeria,Nasarawa,Lafia,YANGA,950101,2308
+Nigeria,Nasarawa,Lafia,ZANWA,950101,2309
+Nigeria,Nasarawa,Nassarawa,AGWADA,962101,2310
+Nigeria,Nasarawa,Nassarawa,AGWADAMA,962101,2311
+Nigeria,Nasarawa,Nassarawa,AKUM,962101,2312
+Nigeria,Nasarawa,Nassarawa,AKURABA,962101,2313
+Nigeria,Nasarawa,Nassarawa,ARA I ,962101,2314
+Nigeria,Nasarawa,Nassarawa,ARA II,962101,2315
+Nigeria,Nasarawa,Nassarawa,ARABISHI,962101,2316
+Nigeria,Nasarawa,Nassarawa,AWAKUA,962101,2317
+Nigeria,Nasarawa,Nassarawa,BAKARA,962101,2318
+Nigeria,Nasarawa,Nassarawa,BAKONO,962101,2319
+Nigeria,Nasarawa,Nassarawa,BUGA,962101,2320
+Nigeria,Nasarawa,Nassarawa,BUGAKARMO,962101,2321
+Nigeria,Nasarawa,Nassarawa,DOGON DUTSE,962101,2322
+Nigeria,Nasarawa,Nassarawa,ERIGO,962101,2323
+Nigeria,Nasarawa,Nassarawa,GOFA,962101,2324
+Nigeria,Nasarawa,Nassarawa,KAMA,962101,2325
+Nigeria,Nasarawa,Nassarawa,KANAH/ONDO/APAWU,962101,2326
+Nigeria,Nasarawa,Nassarawa,LOKO,962101,2327
+Nigeria,Nasarawa,Nassarawa,NASARAWA,962101,2328
+Nigeria,Nasarawa,Nassarawa,USHIM,962101,2329
+Nigeria,Nasarawa,Nassarawa,USHAN BISSA,962101,2330
+Nigeria,Nasarawa,Nassarawa Egon,AGUNJI,960106,2331
+Nigeria,Nasarawa,Nassarawa Egon,ALIZAGA,960106,2332
+Nigeria,Nasarawa,Nassarawa Egon,ALOGANI,960106,2333
+Nigeria,Nasarawa,Nassarawa Egon,ANZO,960106,2334
+Nigeria,Nasarawa,Nassarawa Egon,ARUGWADU,960106,2335
+Nigeria,Nasarawa,Nassarawa Egon,ECPONG,960106,2336
+Nigeria,Nasarawa,Nassarawa Egon,GIDAN KAKI,960106,2337
+Nigeria,Nasarawa,Nassarawa Egon,IGGA/BURUMBURUM,960106,2338
+Nigeria,Nasarawa,Nassarawa Egon,IKKA WANGIBI,960106,2339
+Nigeria,Nasarawa,Nassarawa Egon,KAGBU,960106,2340
+Nigeria,Nasarawa,Nassarawa Egon,KAGBU WANA,960106,2341
+Nigeria,Nasarawa,Nassarawa Egon,KUDUGUWA,960106,2342
+Nigeria,Nasarawa,Nassarawa Egon,LEFIN LAFIA,960106,2343
+Nigeria,Nasarawa,Nassarawa Egon,NASARAWA EGON,960106,2344
+Nigeria,Nasarawa,Nassarawa Egon,OKWAREGI,960106,2345
+Nigeria,Nasarawa,Nassarawa Egon,UMME,960106,2346
+Nigeria,Nasarawa,Nassarawa Egon,UME,960106,2347
+Nigeria,Nasarawa,Obi,ADIKPO,951101,2348
+Nigeria,Nasarawa,Obi,ADAM,951101,2349
+Nigeria,Nasarawa,Obi,AGODE,951101,2350
+Nigeria,Nasarawa,Obi,DUDUGURU,951101,2351
+Nigeria,Nasarawa,Obi,DEDDERE/RIRI,951101,2352
+Nigeria,Nasarawa,Obi,GIRINGWE,951101,2353
+Nigeria,Nasarawa,Obi,IYORUGWA,951101,2354
+Nigeria,Nasarawa,Obi,OBI,951101,2355
+Nigeria,Nasarawa,Obi,TUDUN ADABU,951101,2356
+Nigeria,Nasarawa,Obi,UME,951101,2357
+Nigeria,Nasarawa,Toto,ABAZA,962104,2358
+Nigeria,Nasarawa,Toto,ABUTU,962104,2359
+Nigeria,Nasarawa,Toto,AGBAGI,962104,2360
+Nigeria,Nasarawa,Toto,ADAUSU,962104,2361
+Nigeria,Nasarawa,Toto,DAGI,962104,2362
+Nigeria,Nasarawa,Toto,DATE,962104,2363
+Nigeria,Nasarawa,Toto,DAUSU,962104,2364
+Nigeria,Nasarawa,Toto,DAZA,962104,2365
+Nigeria,Nasarawa,Toto,GADABUKE,962104,2366
+Nigeria,Nasarawa,Toto,GADAGWA,962104,2367
+Nigeria,Nasarawa,Toto,GWADABO,962104,2368
+Nigeria,Nasarawa,Toto,GWARAGWADA,962104,2369
+Nigeria,Nasarawa,Toto,INYAGI,962104,2370
+Nigeria,Nasarawa,Toto,KAINYEHU,962104,2371
+Nigeria,Nasarawa,Toto,KANYEHU,962104,2372
+Nigeria,Nasarawa,Toto,KATAKWA,962104,2373
+Nigeria,Nasarawa,Toto,KURU,962104,2374
+Nigeria,Nasarawa,Toto,MANYA,962104,2375
+Nigeria,Nasarawa,Toto,MATANI,962105,2376
+Nigeria,Nasarawa,Toto,MORU,962105,2377
+Nigeria,Nasarawa,Toto,OGUSU,962105,2378
+Nigeria,Nasarawa,Toto,OWEGI,962105,2379
+Nigeria,Nasarawa,Toto,SHAFA ABAKPA,962105,2380
+Nigeria,Nasarawa,Toto,SHAFAN ABAKWA,962105,2381
+Nigeria,Nasarawa,Toto,SHAFFAN KWATTO,962105,2382
+Nigeria,Nasarawa,Toto,SHIKWOKWA,962105,2383
+Nigeria,Nasarawa,Toto,TOTO,962105,2384
+Nigeria,Nasarawa,Toto,UGYA,962105,2385
+Nigeria,Nasarawa,Toto,UGIA,962105,2386
+Nigeria,Nasarawa,Toto,UMAISH,962105,2387
+Nigeria,Nasarawa,Toto,UMAISHA,962105,2388
+Nigeria,Nasarawa,Toto,ZAGANA,962105,2389
+Nigeria,Nasarawa,Wamba,ARUM,960104,2390
+Nigeria,Nasarawa,Wamba,ARUM KARIMI,960104,2391
+Nigeria,Nasarawa,Wamba,CHINI,960104,2392
+Nigeria,Nasarawa,Wamba,DENGI,960104,2393
+Nigeria,Nasarawa,Wamba,GITTA,960104,2394
+Nigeria,Nasarawa,Wamba,GUDI,960104,2395
+Nigeria,Nasarawa,Wamba,JIMIYA,960104,2396
+Nigeria,Nasarawa,Wamba,KANJE,960104,2397
+Nigeria,Nasarawa,Wamba,KONVAH,960104,2398
+Nigeria,Nasarawa,Wamba,KUMBURU,960104,2399
+Nigeria,Nasarawa,Wamba,KWARA,960104,2400
+Nigeria,Nasarawa,Wamba,KWABE,960104,2401
+Nigeria,Nasarawa,Wamba,MANGAR,960104,2402
+Nigeria,Nasarawa,Wamba,MARHAI,960104,2403
+Nigeria,Nasarawa,Wamba,MUGU,960104,2404
+Nigeria,Nasarawa,Wamba,NAKERE,960104,2405
+Nigeria,Nasarawa,Wamba,NAKERI,960104,2406
+Nigeria,Nasarawa,Wamba,UKWOLE,960104,2407
+Nigeria,Nasarawa,Wamba,WAMBA EAST,960104,2408
+Nigeria,Nasarawa,Wamba,WAMBA WEST,960104,2409
+Nigeria,Nasarawa,Wamba,WAYO,960104,2410
+Nigeria,Jigawa ,Auyo,ARKI,731107,2411
+Nigeria,Jigawa ,Auyo,AUYO,731107,2412
+Nigeria,Jigawa ,Auyo,AYAMA ,731107,2413
+Nigeria,Jigawa ,Auyo,AYAN,731107,2414
+Nigeria,Jigawa ,Auyo,DAKAYAWA,731107,2415
+Nigeria,Jigawa ,Auyo,DAKAIYYAWA,731107,2416
+Nigeria,Jigawa ,Auyo,GALDIMARI,731107,2417
+Nigeria,Jigawa ,Auyo,GATAFA,731107,2418
+Nigeria,Jigawa ,Auyo,GURKA,731107,2419
+Nigeria,Jigawa ,Auyo,JABBO,731107,2420
+Nigeria,Jigawa ,Auyo,KIRRIKASAMMA,731107,2421
+Nigeria,Jigawa ,Auyo,MEZAN,731107,2422
+Nigeria,Jigawa ,Auyo,TSIDIR,731107,2423
+Nigeria,Jigawa ,Auyo,TSARAWA,731107,2424
+Nigeria,Jigawa ,Auyo,UNIK,731107,2425
+Nigeria,Jigawa ,Babura,BABBAN MUTUM,732104,2426
+Nigeria,Jigawa ,Babura,BABURA,732104,2427
+Nigeria,Jigawa ,Babura,BATALI,732104,2428
+Nigeria,Jigawa ,Babura,DORAWA,732104,2429
+Nigeria,Jigawa ,Babura,DUZAU,732104,2430
+Nigeria,Jigawa ,Babura,GARINGUDINIA,732104,2431
+Nigeria,Jigawa ,Babura,GARU,732104,2432
+Nigeria,Jigawa ,Babura,GASAKOLI,732104,2433
+Nigeria,Jigawa ,Babura,GIGINYA,732104,2434
+Nigeria,Jigawa ,Babura,GORON MAJE,732104,2435
+Nigeria,Jigawa ,Babura,GURIFE,732104,2436
+Nigeria,Jigawa ,Babura,HUI,732104,2437
+Nigeria,Jigawa ,Babura,INSHARUWA,732104,2438
+Nigeria,Jigawa ,Babura,JIGAWA,732104,2439
+Nigeria,Jigawa ,Babura,KANYA,732104,2440
+Nigeria,Jigawa ,Babura,KANYA BABA,732104,2441
+Nigeria,Jigawa ,Babura,KUZUNZUMI,732104,2442
+Nigeria,Jigawa ,Babura,KYAMBO,732104,2443
+Nigeria,Jigawa ,Babura,MUDURINGAO,732104,2444
+Nigeria,Jigawa ,Babura,MUTUM,732104,2445
+Nigeria,Jigawa ,Babura,TAKWASA,732104,2446
+Nigeria,Jigawa ,Babura,UKU DASISI,732104,2447
+Nigeria,Jigawa ,Babura,UNGUWAR RAI,732104,2448
+Nigeria,Jigawa ,Babura,YANDAMO,732104,2449
+Nigeria,Jigawa ,Babura,YANMAULU,732104,2450
+Nigeria,Jigawa ,Babura,ZURU,732104,2451
+Nigeria,Jigawa ,Biriniwa,BATU,731106,2452
+Nigeria,Jigawa ,Biriniwa,BARBURAM,731106,2453
+Nigeria,Jigawa ,Biriniwa,BEGUWA,731106,2454
+Nigeria,Jigawa ,Biriniwa,BIRNIWA,731106,2455
+Nigeria,Jigawa ,Biriniwa,DANGWALERI,731106,2456
+Nigeria,Jigawa ,Biriniwa,DIGIMSA,731106,2457
+Nigeria,Jigawa ,Biriniwa,DIGINSA,731106,2458
+Nigeria,Jigawa ,Biriniwa,FAGI,731106,2459
+Nigeria,Jigawa ,Biriniwa,GWARGA,731106,2460
+Nigeria,Jigawa ,Biriniwa,HARDO BUBA,731106,2461
+Nigeria,Jigawa ,Biriniwa,KACHALLARI,731106,2462
+Nigeria,Jigawa ,Biriniwa,KARANGA,731106,2463
+Nigeria,Jigawa ,Biriniwa,KAZURA,731106,2464
+Nigeria,Jigawa ,Biriniwa,KUKAWA,731106,2465
+Nigeria,Jigawa ,Biriniwa,KUKA-YASKU,731106,2466
+Nigeria,Jigawa ,Biriniwa,KWAKWARASA,731106,2467
+Nigeria,Jigawa ,Biriniwa,KWUBSA,731106,2468
+Nigeria,Jigawa ,Biriniwa,LAMISU,731106,2469
+Nigeria,Jigawa ,Biriniwa,MACHINAMARI,731106,2470
+Nigeria,Jigawa ,Biriniwa,MAJA-KURA,731106,2471
+Nigeria,Jigawa ,Biriniwa,MAJEKAKURI,731106,2472
+Nigeria,Jigawa ,Biriniwa,MARGADU,731106,2473
+Nigeria,Jigawa ,Biriniwa,MASKANDARE,731106,2474
+Nigeria,Jigawa ,Biriniwa,MATAMU,731106,2475
+Nigeria,Jigawa ,Biriniwa,MUZBA,731106,2476
+Nigeria,Jigawa ,Biriniwa,NGUWA,731106,2477
+Nigeria,Jigawa ,Biriniwa,TABKI,731106,2478
+Nigeria,Jigawa ,Biriniwa,TAGANAMA,731106,2479
+Nigeria,Jigawa ,Biriniwa,TSINKAINA,731106,2480
+Nigeria,Jigawa ,Biriniwa,UNGUWA,731106,2481
+Nigeria,Jigawa ,Birnin Kudu,BIRNIN KUDU,721101,2482
+Nigeria,Jigawa ,Birnin Kudu,DUMUS,721101,2483
+Nigeria,Jigawa ,Birnin Kudu,FARUN RUWA,721101,2484
+Nigeria,Jigawa ,Birnin Kudu,GURMINA,721101,2485
+Nigeria,Jigawa ,Birnin Kudu,HAMBARAWA,721101,2486
+Nigeria,Jigawa ,Birnin Kudu,HIRIM,721101,2487
+Nigeria,Jigawa ,Birnin Kudu,IGGI,721101,2488
+Nigeria,Jigawa ,Birnin Kudu,KANGIRE,721101,2489
+Nigeria,Jigawa ,Birnin Kudu,KIYAKO,721101,2490
+Nigeria,Jigawa ,Birnin Kudu,KIYATO,721101,2491
+Nigeria,Jigawa ,Birnin Kudu,KWANGWARA,721101,2492
+Nigeria,Jigawa ,Birnin Kudu,LAFARA,721101,2493
+Nigeria,Jigawa ,Birnin Kudu,LAFIA,721101,2494
+Nigeria,Jigawa ,Birnin Kudu,NASARU A,721101,2495
+Nigeria,Jigawa ,Birnin Kudu,UNGUWAR  YA,721101,2496
+Nigeria,Jigawa ,Birnin Kudu,WARWADE,721101,2497
+Nigeria,Jigawa ,Birnin Kudu,WURNO,721101,2498
+Nigeria,Jigawa ,Birnin Kudu,WURNU,721101,2499
+Nigeria,Jigawa ,Birnin Kudu,YALWAN DAMAI,721101,2500
+Nigeria,Jigawa ,Buji,ABORE,721103,2501
+Nigeria,Jigawa ,Buji,AHOTO,721103,2502
+Nigeria,Jigawa ,Buji,BAMBAL,721103,2503
+Nigeria,Jigawa ,Buji,BUJI,721103,2504
+Nigeria,Jigawa ,Buji,BULKATUWA,721103,2505
+Nigeria,Jigawa ,Buji,BULANGORI,721103,2506
+Nigeria,Jigawa ,Buji,CHAKWAMA,721103,2507
+Nigeria,Jigawa ,Buji,CHIBRIN,721103,2508
+Nigeria,Jigawa ,Buji,FALGERI,721103,2509
+Nigeria,Jigawa ,Buji,GANSTA,721103,2510
+Nigeria,Jigawa ,Buji,GWARAI,721103,2511
+Nigeria,Jigawa ,Buji,JAJEKAL,721103,2512
+Nigeria,Jigawa ,Buji,KAYAWA,721103,2513
+Nigeria,Jigawa ,Buji,KUKUMA,721103,2514
+Nigeria,Jigawa ,Buji,LELEN KUDU,721103,2515
+Nigeria,Jigawa ,Buji,MADABE,721103,2516
+Nigeria,Jigawa ,Buji,MADAKI,721103,2517
+Nigeria,Jigawa ,Buji,PANGO,721103,2518
+Nigeria,Jigawa ,Buji,YAKA,721103,2519
+Nigeria,Jigawa ,Buji,YAYARIN TUKUR,721103,2520
+Nigeria,Jigawa ,Dutse,ABAYA,720101,2521
+Nigeria,Jigawa ,Dutse,AUJARA,720101,2522
+Nigeria,Jigawa ,Dutse,CHAMO,720101,2523
+Nigeria,Jigawa ,Dutse,DAHO,720101,2524
+Nigeria,Jigawa ,Dutse,DUTSE,720101,2525
+Nigeria,Jigawa ,Dutse,ISARI,720101,2526
+Nigeria,Jigawa ,Dutse,KACHI,720101,2527
+Nigeria,Jigawa ,Dutse,KUDAI,720101,2528
+Nigeria,Jigawa ,Dutse,KUDE,720101,2529
+Nigeria,Jigawa ,Dutse,LIMAWA,720101,2530
+Nigeria,Jigawa ,Dutse,RURU,720101,2531
+Nigeria,Jigawa ,Dutse,SHUWARIN,720101,2532
+Nigeria,Jigawa ,Dutse,TSIRMA,720101,2533
+Nigeria,Jigawa ,Gagarawa,ADUA,732103,2534
+Nigeria,Jigawa ,Gagarawa,ARBUS,732103,2535
+Nigeria,Jigawa ,Gagarawa,BALARABE,732103,2536
+Nigeria,Jigawa ,Gagarawa,BAUSUA,732103,2537
+Nigeria,Jigawa ,Gagarawa,GAGARAWA,732103,2538
+Nigeria,Jigawa ,Gagarawa,GAGARAWA GARI,732103,2539
+Nigeria,Jigawa ,Gagarawa,GAGARAWA TASHA,732103,2540
+Nigeria,Jigawa ,Gagarawa,GARIN CHIROMA,732103,2541
+Nigeria,Jigawa ,Gagarawa,KARAMA,732103,2542
+Nigeria,Jigawa ,Gagarawa,KORE BALATU,732103,2543
+Nigeria,Jigawa ,Gagarawa,MEDU,732103,2544
+Nigeria,Jigawa ,Gagarawa,MADAKA,732103,2545
+Nigeria,Jigawa ,Gagarawa,MADAN,732103,2546
+Nigeria,Jigawa ,Gagarawa,MAI ADUWA,732103,2547
+Nigeria,Jigawa ,Gagarawa,MAIKILILI,732103,2548
+Nigeria,Jigawa ,Gagarawa,SERIKINGABAS,732103,2549
+Nigeria,Jigawa ,Gagarawa,SOKE,732103,2550
+Nigeria,Jigawa ,Gagarawa,YALAWA,732103,2551
+Nigeria,Jigawa ,Gagarawa,ZARADA,732103,2552
+Nigeria,Jigawa ,Garki,BADANDE,733101,2553
+Nigeria,Jigawa ,Garki,BUDURU,733101,2554
+Nigeria,Jigawa ,Garki,CHUKWAIKWAIWA,733101,2555
+Nigeria,Jigawa ,Garki,DAKIDAKA,733101,2556
+Nigeria,Jigawa ,Garki,DAN DAGURA,733101,2557
+Nigeria,Jigawa ,Garki,DOKO,733101,2558
+Nigeria,Jigawa ,Garki,GARKI,733101,2559
+Nigeria,Jigawa ,Garki,GWARZO,733101,2560
+Nigeria,Jigawa ,Garki,JIRIMA,733101,2561
+Nigeria,Jigawa ,Garki,KANYA,733101,2562
+Nigeria,Jigawa ,Garki,KARDO,733101,2563
+Nigeria,Jigawa ,Garki,KORE,733101,2564
+Nigeria,Jigawa ,Garki,MUKU,733101,2565
+Nigeria,Jigawa ,Garki,MUSA,733101,2566
+Nigeria,Jigawa ,Garki,NABANAWA,733101,2567
+Nigeria,Jigawa ,Garki,NASAKAR,733101,2568
+Nigeria,Jigawa ,Garki,RAFIN MARKE,733101,2569
+Nigeria,Jigawa ,Garki,SAYORI,733101,2570
+Nigeria,Jigawa ,Garki,TAGWAYE,733101,2571
+Nigeria,Jigawa ,Garki,TAKATSABA,733101,2572
+Nigeria,Jigawa ,Garki,TSALLE,733101,2573
+Nigeria,Jigawa ,Garki,UNGUWAR BAKA,733101,2574
+Nigeria,Jigawa ,Garki,UNGUWAR DANYA,733101,2575
+Nigeria,Jigawa ,Garki,YUMBU,733101,2576
+Nigeria,Jigawa ,Garki,YAUTAR AREWA,733101,2577
+Nigeria,Jigawa ,Gumel,ALAHJI BARKA,732101,2578
+Nigeria,Jigawa ,Gumel,BEKARYA,732101,2579
+Nigeria,Jigawa ,Gumel,DAN AMA,732101,2580
+Nigeria,Jigawa ,Gumel,DANTANOMA,732101,2581
+Nigeria,Jigawa ,Gumel,FULATA,732101,2582
+Nigeria,Jigawa ,Gumel,GUMEL,732101,2583
+Nigeria,Jigawa ,Gumel,HAMMADO,732101,2584
+Nigeria,Jigawa ,Gumel,KOFAR AREWA,732101,2585
+Nigeria,Jigawa ,Gumel,KOFAR YAMMA,732101,2586
+Nigeria,Jigawa ,Gumel,MELE,732101,2587
+Nigeria,Jigawa ,Guri,ABUNABO,731105,2588
+Nigeria,Jigawa ,Guri,ADIANI,731105,2589
+Nigeria,Jigawa ,Guri,ADIYANI,731105,2590
+Nigeria,Jigawa ,Guri,BATURIA,731105,2591
+Nigeria,Jigawa ,Guri,BULAMA HASEINI,731105,2592
+Nigeria,Jigawa ,Guri,CHACHAMNAU,731105,2593
+Nigeria,Jigawa ,Guri,DAWA,731105,2594
+Nigeria,Jigawa ,Guri,GABARGAL,731105,2595
+Nigeria,Jigawa ,Guri,GARBI/BAMBORI,731105,2596
+Nigeria,Jigawa ,Guri,GARBAGAL,731105,2597
+Nigeria,Jigawa ,Guri,GOGIYA,731105,2598
+Nigeria,Jigawa ,Guri,GURI,731105,2599
+Nigeria,Jigawa ,Guri,GURRI,731105,2600
+Nigeria,Jigawa ,Guri,KADERA,731105,2601
+Nigeria,Jigawa ,Guri,KADIRA,731105,2602
+Nigeria,Jigawa ,Guri,LAFIA,731105,2603
+Nigeria,Jigawa ,Guri,LAFIYA,731105,2604
+Nigeria,Jigawa ,Guri,MAINAKO NORTH,731105,2605
+Nigeria,Jigawa ,Guri,MAJA KURA,731105,2606
+Nigeria,Jigawa ,Guri,MATARA BABBA,731105,2607
+Nigeria,Jigawa ,Guri,MARGADU,731105,2608
+Nigeria,Jigawa ,Guri,MUSARI,731105,2609
+Nigeria,Jigawa ,Guri,SUGUM,731105,2610
+Nigeria,Jigawa ,Guri,TAKARA,731105,2611
+Nigeria,Jigawa ,Guri,WACHAKAL,731105,2612
+Nigeria,Jigawa ,Gwaram,ANDUBUN,721102,2613
+Nigeria,Jigawa ,Gwaram,BASIRKA,721102,2614
+Nigeria,Jigawa ,Gwaram,BUKUL,721102,2615
+Nigeria,Jigawa ,Gwaram,DABA,721102,2616
+Nigeria,Jigawa ,Gwaram,DINGAYA,721102,2617
+Nigeria,Jigawa ,Gwaram,DISINA A,721102,2618
+Nigeria,Jigawa ,Gwaram,DONGOLO,721102,2619
+Nigeria,Jigawa ,Gwaram,FAGAM,721102,2620
+Nigeria,Jigawa ,Gwaram,FARIN DUTSE,721102,2621
+Nigeria,Jigawa ,Gwaram,GINGIDO,721102,2622
+Nigeria,Jigawa ,Gwaram,GWARAM,721102,2623
+Nigeria,Jigawa ,Gwaram,ISAWA,721102,2624
+Nigeria,Jigawa ,Gwaram,JAKAS,721102,2625
+Nigeria,Jigawa ,Gwaram,KILA,721102,2626
+Nigeria,Jigawa ,Gwaram,KWONDIKO,721102,2627
+Nigeria,Jigawa ,Gwaram,MANAKWA,721102,2628
+Nigeria,Jigawa ,Gwaram,MIYA A,721102,2629
+Nigeria,Jigawa ,Gwaram,SAGI,721102,2630
+Nigeria,Jigawa ,Gwaram,SAMAMIYA,721102,2631
+Nigeria,Jigawa ,Gwaram,SARA,721102,2632
+Nigeria,Jigawa ,Gwaram,TIYIN B,721102,2633
+Nigeria,Jigawa ,Gwaram,TSANGARWA,721102,2634
+Nigeria,Jigawa ,Gwaram,TSAKWARAM,721102,2635
+Nigeria,Jigawa ,Gwaram,YAYARI,721102,2636
+Nigeria,Jigawa ,Gwaram,ZANDAM NAGOGO,721102,2637
+Nigeria,Jigawa ,Gwiwa,ACHILAFIA,705105,2638
+Nigeria,Jigawa ,Gwiwa,ACHILAFIYA,705105,2639
+Nigeria,Jigawa ,Gwiwa,AGAYAWA,705105,2640
+Nigeria,Jigawa ,Gwiwa,BUNTUSU,705105,2641
+Nigeria,Jigawa ,Gwiwa,DABI,705105,2642
+Nigeria,Jigawa ,Gwiwa,DAN AUNAI,705105,2643
+Nigeria,Jigawa ,Gwiwa,DANEJI B,705105,2644
+Nigeria,Jigawa ,Gwiwa,DARINA,705105,2645
+Nigeria,Jigawa ,Gwiwa,DUTSI A,705105,2646
+Nigeria,Jigawa ,Gwiwa,FIRJI,705105,2647
+Nigeria,Jigawa ,Gwiwa,GUNTAI,705105,2648
+Nigeria,Jigawa ,Gwiwa,GWIWA ,705105,2649
+Nigeria,Jigawa ,Gwiwa,KOGONBURTA,705105,2650
+Nigeria,Jigawa ,Gwiwa,KORAYEL,705105,2651
+Nigeria,Jigawa ,Gwiwa,MALAGANTA,705105,2652
+Nigeria,Jigawa ,Gwiwa,RONI,705105,2653
+Nigeria,Jigawa ,Gwiwa,RORAU,705105,2654
+Nigeria,Jigawa ,Gwiwa,SANKAU,705105,2655
+Nigeria,Jigawa ,Gwiwa,SHAFE,705105,2656
+Nigeria,Jigawa ,Gwiwa,TUNAS,705105,2657
+Nigeria,Jigawa ,Gwiwa,YOLA,705105,2658
+Nigeria,Jigawa ,Gwiwa,ZAUMA,705105,2659
+Nigeria,Jigawa ,Gwiwa,ZUNGUMBA,705105,2660
+Nigeria,Jigawa ,Hadejia,ATAFI,731101,2661
+Nigeria,Jigawa ,Hadejia,DANBANTU,731101,2662
+Nigeria,Jigawa ,Hadejia,FATEKA,731101,2663
+Nigeria,Jigawa ,Hadejia,GAGULMARI,731101,2664
+Nigeria,Jigawa ,Hadejia,HADEJIA,731101,2665
+Nigeria,Jigawa ,Hadejia,KASUWAR KOFA,731101,2666
+Nigeria,Jigawa ,Hadejia,KASUWAR KUDA,731101,2667
+Nigeria,Jigawa ,Hadejia,MAJEMA,731101,2668
+Nigeria,Jigawa ,Hadejia,MATSARO,731101,2669
+Nigeria,Jigawa ,Hadejia,RUMFA,731101,2670
+Nigeria,Jigawa ,Hadejia,SABON GARU,731101,2671
+Nigeria,Jigawa ,Hadejia,TASHENA,731101,2672
+Nigeria,Jigawa ,Hadejia,TONI KUTARA,731101,2673
+Nigeria,Jigawa ,Hadejia,YAYARI,731101,2674
+Nigeria,Jigawa ,Hadejia,YANKOLI,731101,2675
+Nigeria,Jigawa ,Jahun,ABAYA,720108,2676
+Nigeria,Jigawa ,Jahun,CHAICHAI,720108,2677
+Nigeria,Jigawa ,Jahun,DANGYATIN,720108,2678
+Nigeria,Jigawa ,Jahun,DARAI,720108,2679
+Nigeria,Jigawa ,Jahun,GUNKA,720108,2680
+Nigeria,Jigawa ,Jahun,HANTSU,720108,2681
+Nigeria,Jigawa ,Jahun,HARBO,720108,2682
+Nigeria,Jigawa ,Jahun,HARBO SABUWA,720108,2683
+Nigeria,Jigawa ,Jahun,HARBO TSOHUWA,720108,2684
+Nigeria,Jigawa ,Jahun,IDANDUNA,720108,2685
+Nigeria,Jigawa ,Jahun,KAFIN BAKO,720108,2686
+Nigeria,Jigawa ,Jahun,KALE,720108,2687
+Nigeria,Jigawa ,Jahun,KWALAM,720108,2688
+Nigeria,Jigawa ,Jahun,MAJE,720108,2689
+Nigeria,Jigawa ,Jahun,MALAM ATUMAN,720108,2690
+Nigeria,Jigawa ,Jahun,RAMANI,720108,2691
+Nigeria,Jigawa ,Jahun,SABOGARIN YAYA,720108,2692
+Nigeria,Jigawa ,Jahun,TAZARA,720108,2693
+Nigeria,Jigawa ,Jahun,TSAKUWAWA,720108,2694
+Nigeria,Jigawa ,Jahun,TUKUYAWA,720108,2695
+Nigeria,Jigawa ,Jahun,YANDUNA,720108,2696
+Nigeria,Jigawa ,Kafin Hausa,AYAMA,741103,2697
+Nigeria,Jigawa ,Kafin Hausa,BULANGU,731102,2698
+Nigeria,Jigawa ,Kafin Hausa,DUMMADUMMI KAYURE,741103,2699
+Nigeria,Jigawa ,Kafin Hausa,DUMADUMI TOKA,741103,2700
+Nigeria,Jigawa ,Kafin Hausa,GAFAYA,741103,2701
+Nigeria,Jigawa ,Kafin Hausa,GAFIA,741103,2702
+Nigeria,Jigawa ,Kafin Hausa,GAMAFOI,741103,2703
+Nigeria,Jigawa ,Kafin Hausa,GRAGAIA,741103,2704
+Nigeria,Jigawa ,Kafin Hausa,HAGO,741103,2705
+Nigeria,Jigawa ,Kafin Hausa,KAFFIN HAUSA,741103,2706
+Nigeria,Jigawa ,Kafin Hausa,KEFFIN HAUSA,741103,2707
+Nigeria,Jigawa ,Kafin Hausa,KOYA,741103,2708
+Nigeria,Jigawa ,Kafin Hausa,KWAZAILEWA,741103,2709
+Nigeria,Jigawa ,Kafin Hausa,MADUFA,741103,2710
+Nigeria,Jigawa ,Kafin Hausa,MAJAWA,741103,2711
+Nigeria,Jigawa ,Kafin Hausa,MAKAWA,741103,2712
+Nigeria,Jigawa ,Kafin Hausa,RUBA,741103,2713
+Nigeria,Jigawa ,Kafin Hausa,SKEKATO,741103,2714
+Nigeria,Jigawa ,Kafin Hausa,TASARAWA,741103,2715
+Nigeria,Jigawa ,Kafin Hausa,YERDA,741103,2716
+Nigeria,Jigawa ,Kafin Hausa,ZAGO,741103,2717
+Nigeria,Jigawa ,Kafin Hausa,ZAGO KURA,741103,2718
+Nigeria,Jigawa ,Kaugama,ASKANDU,730102,2719
+Nigeria,Jigawa ,Kaugama,DABUWARAN,730102,2720
+Nigeria,Jigawa ,Kaugama,DUMBARI,730102,2721
+Nigeria,Jigawa ,Kaugama,DUNARI,730102,2722
+Nigeria,Jigawa ,Kaugama,GIRBOBO,730102,2723
+Nigeria,Jigawa ,Kaugama,HADIN,730102,2724
+Nigeria,Jigawa ,Kaugama,JAE,730102,2725
+Nigeria,Jigawa ,Kaugama,JAJERI,730102,2726
+Nigeria,Jigawa ,Kaugama,JARKASA,730102,2727
+Nigeria,Jigawa ,Kaugama,KARANGA,730102,2728
+Nigeria,Jigawa ,Kaugama,KAUGAMA,730102,2729
+Nigeria,Jigawa ,Kaugama,KILABO,730102,2730
+Nigeria,Jigawa ,Kaugama,KWADIGGE,730102,2731
+Nigeria,Jigawa ,Kaugama,MAKADDARI,730102,2732
+Nigeria,Jigawa ,Kaugama,MANTA,730102,2733
+Nigeria,Jigawa ,Kaugama,MELERI,730102,2734
+Nigeria,Jigawa ,Kaugama,SHAIYA,730102,2735
+Nigeria,Jigawa ,Kaugama,TURMI,730102,2736
+Nigeria,Jigawa ,Kazaure,DABA,705101,2737
+Nigeria,Jigawa ,Kazaure,DABAZA,705101,2738
+Nigeria,Jigawa ,Kazaure,DANDI,705101,2739
+Nigeria,Jigawa ,Kazaure,GADA,705101,2740
+Nigeria,Jigawa ,Kazaure,GWANDA,705101,2741
+Nigeria,Jigawa ,Kazaure,KANTI,705101,2742
+Nigeria,Jigawa ,Kazaure,KAZAURE,705101,2743
+Nigeria,Jigawa ,Kazaure,KUZUNZUMI,705101,2744
+Nigeria,Jigawa ,Kazaure,MARADAWA,705101,2745
+Nigeria,Jigawa ,Kazaure,SABARU,705101,2746
+Nigeria,Jigawa ,Kazaure,UNGUWAR AREWA,705101,2747
+Nigeria,Jigawa ,Kazaure,UNGUA CHIMI,705101,2748
+Nigeria,Jigawa ,Kazaure,UNGUWAR GABAS,705101,2749
+Nigeria,Jigawa ,Kazaure,UNGUWAR YAMMA,705101,2750
+Nigeria,Jigawa ,Kazaure,ZOMA,705101,2751
+Nigeria,Jigawa ,Kiri Kasamma,BATURIYA,731104,2752
+Nigeria,Jigawa ,Kiri Kasamma,GAYIN,731104,2753
+Nigeria,Jigawa ,Kiri Kasamma,FANDUM,731104,2754
+Nigeria,Jigawa ,Kiri Kasamma,KIRI KASAMMA,731104,2755
+Nigeria,Jigawa ,Kiri Kasamma,MADACHI,731104,2756
+Nigeria,Jigawa ,Kiri Kasamma,MARMA,731104,2757
+Nigeria,Jigawa ,Kiri Kasamma,SALERI,731104,2758
+Nigeria,Jigawa ,Kiri Kasamma,SAWO,731104,2759
+Nigeria,Jigawa ,Kiri Kasamma,TASHEGUWA,731104,2760
+Nigeria,Jigawa ,Kiri Kasamma,TURABU,731104,2761
+Nigeria,Jigawa ,Kiri Kasamma,TAGORO,731104,2762
+Nigeria,Jigawa ,Kiyawa,ABALAGO,720102,2763
+Nigeria,Jigawa ,Kiyawa,ANDAZA,720102,2764
+Nigeria,Jigawa ,Kiyawa,CHIROMAWA,720102,2765
+Nigeria,Jigawa ,Kiyawa,DUHUWA,720102,2766
+Nigeria,Jigawa ,Kiyawa,FAKE,720102,2767
+Nigeria,Jigawa ,Kiyawa,GAMBO,720102,2768
+Nigeria,Jigawa ,Kiyawa,JARABNA,720102,2769
+Nigeria,Jigawa ,Kiyawa,KATUKA,720102,2770
+Nigeria,Jigawa ,Kiyawa,KIYAWA ,720102,2771
+Nigeria,Jigawa ,Kiyawa,KWARA,720102,2772
+Nigeria,Jigawa ,Kiyawa,TSIRMA,720102,2773
+Nigeria,Jigawa ,Maigatari,DAM KUMBO,732105,2774
+Nigeria,Jigawa ,Maigatari,DANKUMBO,732105,2775
+Nigeria,Jigawa ,Maigatari,FULATA,732105,2776
+Nigeria,Jigawa ,Maigatari,GALADI,732105,2777
+Nigeria,Jigawa ,Maigatari,GIRARI,732105,2778
+Nigeria,Jigawa ,Maigatari,GOREWA,732105,2779
+Nigeria,Jigawa ,Maigatari,LALASHI,732105,2780
+Nigeria,Jigawa ,Maigatari,MAIGATARI,732105,2781
+Nigeria,Jigawa ,Maigatari,RAGO,732105,2782
+Nigeria,Jigawa ,Maigatari,TURBUS,732105,2783
+Nigeria,Jigawa ,Maigatari,TURUBUS,732105,2784
+Nigeria,Jigawa ,Malam Maduri,MAIRAKUMI,730101,2785
+Nigeria,Jigawa ,Malam Maduri,MALAM MADURI,730101,2786
+Nigeria,Jigawa ,Malam Maduri,MALAMADURI,730101,2787
+Nigeria,Jigawa ,Miga,AGUFA,720105,2788
+Nigeria,Jigawa ,Miga,AJAURA,720105,2789
+Nigeria,Jigawa ,Miga,DAGAZO,720105,2790
+Nigeria,Jigawa ,Miga,DANGYATIN,720105,2791
+Nigeria,Jigawa ,Miga,GAMSARKA,720105,2792
+Nigeria,Jigawa ,Miga,GARBO,720105,2793
+Nigeria,Jigawa ,Miga,GAUZA,720105,2794
+Nigeria,Jigawa ,Miga,GUJUNGU,720105,2795
+Nigeria,Jigawa ,Miga,GWARI,720105,2796
+Nigeria,Jigawa ,Miga,HANTSU,720105,2797
+Nigeria,Jigawa ,Miga,KOYA,720105,2798
+Nigeria,Jigawa ,Miga,KWAZAILEWA,720105,2799
+Nigeria,Jigawa ,Miga,MARKE,720105,2800
+Nigeria,Jigawa ,Miga,MIGA,720105,2801
+Nigeria,Jigawa ,Miga,SABON GARI,720105,2802
+Nigeria,Jigawa ,Miga,SAGOLARE,720105,2803
+Nigeria,Jigawa ,Miga,SAN SANI,720105,2804
+Nigeria,Jigawa ,Miga,TSAGEWA,720105,2805
+Nigeria,Jigawa ,Miga,YANDUNA,720105,2806
+Nigeria,Jigawa ,Miga,ZAREKU,720105,2807
+Nigeria,Jigawa ,Ringim,DABI,733102,2808
+Nigeria,Jigawa ,Ringim,GAFASA,733102,2809
+Nigeria,Jigawa ,Ringim,GERAWA,733102,2810
+Nigeria,Jigawa ,Ringim,KWARTAWAR FILANI,733102,2811
+Nigeria,Jigawa ,Ringim,RINGIM,733102,2812
+Nigeria,Jigawa ,Ringim,SANKARA,733102,2813
+Nigeria,Jigawa ,Ringim,TOFA,733102,2814
+Nigeria,Jigawa ,Ringim,YANDUSTE,733102,2815
+Nigeria,Jigawa ,Ringim,YAN DUSTE,733102,2816
+Nigeria,Jigawa ,Roni,AMARYAWA,705104,2817
+Nigeria,Jigawa ,Roni,DANSURE,705103,2818
+Nigeria,Jigawa ,Roni,KWAITA,705103,2819
+Nigeria,Jigawa ,Roni,RONI,705103,2820
+Nigeria,Jigawa ,Roni,YANZAKI,705103,2821
+Nigeria,Jigawa ,Roni,ZUGAI,705103,2822
+Nigeria,Jigawa ,Sule Tankarkar,SULE TANKARKAR,732106,2823
+Nigeria,Jigawa ,Taura,TAURA,733103,2824
+Nigeria,Jigawa ,Yankwashi,ACHILAFIYA,705102,2825
+Nigeria,Jigawa ,Yankwashi,BAAUZINI,705102,2826
+Nigeria,Jigawa ,Yankwashi,BELAS,705102,2827
+Nigeria,Jigawa ,Yankwashi,DAWAN GAWO,705102,2828
+Nigeria,Jigawa ,Yankwashi,FAGO B,705102,2829
+Nigeria,Jigawa ,Yankwashi,FILLA,705102,2830
+Nigeria,Jigawa ,Yankwashi,GURJIYA,705102,2831
+Nigeria,Jigawa ,Yankwashi,GWARTA,705102,2832
+Nigeria,Jigawa ,Yankwashi,KARKARNA,705102,2833
+Nigeria,Jigawa ,Yankwashi,KUDA,705102,2834
+Nigeria,Jigawa ,Yankwashi,RANDA,705102,2835
+Nigeria,Jigawa ,Yankwashi,YANKWASHI,705102,2836
+Nigeria,Jigawa ,Yankwashi,ZUNGUMBA,705102,2837
+Nigeria,Lagos ,Agege,AGEGE,100283,2838
+Nigeria,Lagos ,Agege,DOPEMU,100273,2839
+Nigeria,Lagos ,Agege,IFAKO AGEGE,100215,2840
+Nigeria,Lagos ,Agege,IJAYE,100311,2841
+Nigeria,Lagos ,Agege,OKO OBA,100284,2842
+Nigeria,Lagos ,Agege,PAPA ASHAFA,100273,2843
+Nigeria,Lagos ,Agege/ORILE,MAGBON,100273,2844
+Nigeria,Lagos ,Agege/ORILE,IDI MANGORO,100273,2845
+Nigeria,Lagos ,Agege/ORILE,ORILE AGEGE,100283,2846
+Nigeria,Lagos ,Ajeromi Ifelodun,ALABA,102101,2847
+Nigeria,Lagos ,Ajeromi Ifelodun,AJENGULE,102211,2848
+Nigeria,Lagos ,Ajeromi Ifelodun,AJEROMI,102103,2849
+Nigeria,Lagos ,Ajeromi Ifelodun,AMUKOKO,102211,2850
+Nigeria,Lagos ,Ajeromi Ifelodun,APAPA,102221,2851
+Nigeria,Lagos ,Ajeromi Ifelodun,BADIA,102224,2852
+Nigeria,Lagos ,Ajeromi Ifelodun,IBAFON,102241,2853
+Nigeria,Lagos ,Ajeromi Ifelodun,LAYENI,102241,2854
+Nigeria,Lagos ,Ajeromi Ifelodun,MALU,101252,2855
+Nigeria,Lagos ,Ajeromi Ifelodun,TOLU,102241,2856
+Nigeria,Lagos ,Alimosho,ABULE EGBA,100276,2857
+Nigeria,Lagos ,Alimosho,ALAGBADO,100276,2858
+Nigeria,Lagos ,Alimosho,ALAKUKO,100271,2859
+Nigeria,Lagos ,Alimosho,ALIMOSHO,100275,2860
+Nigeria,Lagos ,Alimosho,AYOBO,100278,2861
+Nigeria,Lagos ,Alimosho,EGAN,100268,2862
+Nigeria,Lagos ,Alimosho,EGBE,100265,2863
+Nigeria,Lagos ,Alimosho,EGBEDA,100276,2864
+Nigeria,Lagos ,Alimosho,IDIMU,100270,2865
+Nigeria,Lagos ,Alimosho,IGANDO,100267,2866
+Nigeria,Lagos ,Alimosho,IJEGUN,100266,2867
+Nigeria,Lagos ,Alimosho,IJE ODODO,100269,2868
+Nigeria,Lagos ,ALimosho,IKOTUN,100265,2869
+Nigeria,Lagos ,ALimosho,IPAJA,100278,2870
+Nigeria,Lagos ,Alimosho,ISHERI OLOFIN,100070,2871
+Nigeria,Lagos ,Alimosho,OBADORE,100269,2872
+Nigeria,Lagos ,Alimosho,OKE ODO,100322,2873
+Nigeria,Lagos ,Alimosho,SHASHA,100272,2874
+Nigeria,Lagos ,Amuwo Odofin,AMUWO,102102,2875
+Nigeria,Lagos ,Amuwo Odofin,AMUWO ODOFIN,102102,2876
+Nigeria,Lagos ,Amuwo Odofin,FESTAC TOWN,102311,2877
+Nigeria,Lagos ,Amuwo Odofin,KIRIKIRI,102273,2878
+Nigeria,Lagos ,Amuwo Odofin,OLUTE,102241,2879
+Nigeria,Lagos ,Amuwo Odofin,SATELLITE TOWN,102361,2880
+Nigeria,Lagos ,Amuwo Odofin,TRADE FAIR COMPLEX,102101,2881
+Nigeria,Lagos ,Amuwo Odofin,VOLKSWAGEN,102101,2882
+Nigeria,Lagos ,Apapa,ABULE NLA,102211,2883
+Nigeria,Lagos ,Apapa,APAPA,102241,2884
+Nigeria,Lagos ,Apapa,AJEGUNLE,102211,2885
+Nigeria,Lagos ,Apapa,APAPA QUAYS,101253,2886
+Nigeria,Lagos ,Apapa,BADIA,102221,2887
+Nigeria,Lagos ,Apapa,IJORA,102221,2888
+Nigeria,Lagos ,Apapa,IJORA OLOPA,102255,2889
+Nigeria,Lagos ,Apapa,TINCAN ISLAND,101252,2890
+Nigeria,Lagos ,Badagry,AJARA,103211,2891
+Nigeria,Lagos ,Badagry,BADAGRY,103101,2892
+Nigeria,Lagos ,Epe,AGBOWA,106104,2893
+Nigeria,Lagos ,Epe,EIJRIN,106102,2894
+Nigeria,Lagos ,Epe,EPE,106101,2895
+Nigeria,Lagos ,Epe,EREDO,106103,2896
+Nigeria,Lagos ,Epe,FAWOSEDI,106101,2897
+Nigeria,Lagos ,Epe,IBONWON,106103,2898
+Nigeria,Lagos ,Epe,ORISHA,106101,2899
+Nigeria,Lagos ,Epe,POKA,106101,2900
+Nigeria,Lagos ,Eti Osa,AJAH,106101,2901
+Nigeria,Lagos ,Eti Osa,ETI OSA,101222,2902
+Nigeria,Lagos ,Eti Osa,Lekki Phase 1,105102,2903
+Nigeria,Lagos ,Eti Osa,Lekki Phase I,105102,2904
+Nigeria,Lagos ,Eti Osa,Lekki Penninsula II,101222,2905
+Nigeria,Lagos ,Eti Osa,LAMABASA,101222,2906
+Nigeria,Lagos ,Eti Osa,MAROKO,101244,2907
+Nigeria,Lagos ,Eti Osa,OBALENDE,101232,2908
+Nigeria,Lagos ,Eti Osa,SANGOTEDO,101224,2909
+Nigeria,Lagos ,Eti Osa,VICTORIA ISLAND,100241,2910
+Nigeria,Lagos ,Eti Osa,Victoria garden City,101245,2911
+Nigeria,Lagos ,Ibeju lekki,ARAROMI TAWPE,105101,2912
+Nigeria,Lagos ,Ibeju lekki,AIYETEJU,105101,2913
+Nigeria,Lagos ,Ibeju lekki,AWOYAYA,105101,2914
+Nigeria,Lagos ,Ibeju lekki,EPUTU,105101,2915
+Nigeria,Lagos ,Ibeju lekki,IBEJU,105101,2916
+Nigeria,Lagos ,Ibeju lekki,IWEREKUN,105101,2917
+Nigeria,Lagos ,Ibeju lekki,LAGASA,105101,2918
+Nigeria,Lagos ,Ibeju lekki,LAKOWE,105101,2919
+Nigeria,Lagos ,Ibeju lekki,ORIMUDE,105101,2920
+Nigeria,Lagos ,Ibeju lekki,Ebute-Leki,105101,2921
+Nigeria,Lagos ,Ibeju lekki,Tiye,105101,2922
+Nigeria,Lagos ,Ibeju lekki,Aiyeteju,105101,2923
+Nigeria,Lagos ,Ibeju lekki,Igbogun,105101,2924
+Nigeria,Lagos ,Ibeju lekki,Ilagbo,105101,2925
+Nigeria,Lagos ,Ibeju lekki,Ode Omi,105101,2926
+Nigeria,Lagos ,Ibeju lekki,Ise,105101,2927
+Nigeria,Lagos ,Ibeju lekki,ORIMUDE,105101,2928
+Nigeria,Lagos ,Ifako Ijaiye,AGUDA(OGBA),100218,2929
+Nigeria,Lagos ,Ifako Ijaiye,ALAKUKO,100271,2930
+Nigeria,Lagos ,Ifako Ijaiye,IJU,100216,2931
+Nigeria,Lagos ,Ifako Ijaiye,IJAIYE,100311,2932
+Nigeria,Lagos ,Ifako Ijaiye,IFAKO IJAIYE,100218,2933
+Nigeria,Lagos ,Ifako Ijaiye,OGBA,100212,2934
+Nigeria,Lagos ,Ikeja,ALAUSA,100212,2935
+Nigeria,Lagos ,Ikeja,AGIDINGBI,100271,2936
+Nigeria,Lagos ,Ikeja,ALLEN,100281,2937
+Nigeria,Lagos ,Ikeja,IKEJA,100212,2938
+Nigeria,Lagos ,Ikeja,OJUDU ,100213,2939
+Nigeria,Lagos ,Ikeja,OBA AKARAN,100282,2940
+Nigeria,Lagos ,Ikeja,OPEBI,100281,2941
+Nigeria,Lagos ,Ikeja,OREGUN,100291,2942
+Nigeria,Lagos ,Ikeja,MARYLAND,100211,2943
+Nigeria,Lagos ,Ikorodu,AGA,104101,2944
+Nigeria,Lagos ,Ikorodu,AGBALA,104102,2945
+Nigeria,Lagos ,Ikorodu,AGUNFOYE,104102,2946
+Nigeria,Lagos ,Ikorodu,GBERIGBE,104101,2947
+Nigeria,Lagos ,Ikorodu,IBESHE,104101,2948
+Nigeria,Lagos ,Ikorodu,IJEDE,104101,2949
+Nigeria,Lagos ,Ikorodu,IKORODU,104101,2950
+Nigeria,Lagos ,Ikorodu,IMOTA,104101,2951
+Nigeria,Lagos ,Ikorodu,IREPODUN,104102,2952
+Nigeria,Lagos ,Ikorodu,ISAWO,104101,2953
+Nigeria,Lagos ,Ikorodu,ISIU,104101,2954
+Nigeria,Lagos ,Ikorodu,MOWO KEKERE,104101,2955
+Nigeria,Lagos ,Ikorodu,ODONGUNYAN,104101,2956
+Nigeria,Lagos ,Ikorodu,OLORUNDA,104101,2957
+Nigeria,Lagos ,Kosofe,ANTHONY,100232,2958
+Nigeria,Lagos ,Kosofe,ARAROMI,104101,2959
+Nigeria,Lagos ,Kosofe,ALAPERE KETU,100244,2960
+Nigeria,Lagos ,Kosofe,ERUNKAN,100245,2961
+Nigeria,Lagos ,Kosofe,IFAKO,100241,2962
+Nigeria,Lagos ,Kosofe,IKOSI KETU,100246,2963
+Nigeria,Lagos ,Kosofe,ISHERI OLOFIN,100214,2964
+Nigeria,Lagos ,Kosofe,KETU,100243,2965
+Nigeria,Lagos ,Kosofe,KOSOFE,100243,2966
+Nigeria,Lagos ,Kosofe,MENDE,100211,2967
+Nigeria,Lagos ,Kosofe,MILE 12,100247,2968
+Nigeria,Lagos ,Kosofe,Isheri-Olowo-Ira/Shangisha/Magodo Phase I,100248,2969
+Nigeria,Lagos ,Kosofe,Magodo GRA Phase II,100248,2970
+Nigeria,Lagos ,Kosofe,OGUDU,100242,2971
+Nigeria,Lagos ,Kosofe,OJOTA,100242,2972
+Nigeria,Lagos ,Kosofe,OLOWORA,100214,2973
+Nigeria,Lagos ,Kosofe,OWOROSOKI,100221,2974
+Nigeria,Lagos ,Lagos Island,BANANA ISLAND,101222,2975
+Nigeria,Lagos ,Lagos Island,DOLPHINE ESTATE,101222,2976
+Nigeria,Lagos ,Lagos Island,IKOYI,101233,2977
+Nigeria,Lagos ,Lagos Island,LAGOS ISLAND,100221,2978
+Nigeria,Lagos ,Lagos Mainland,ABULE IJESHA,100213,2979
+Nigeria,Lagos ,Lagos Mainland,ADEKUNLE,100213,2980
+Nigeria,Lagos ,Lagos Mainland,ALAGOMEJI,100213,2981
+Nigeria,Lagos ,Lagos Mainland,IWAYA,100253,2982
+Nigeria,Lagos ,Lagos Mainland,LAGOS MAINLAND,100253,2983
+Nigeria,Lagos ,Lagos Mainland,MAKOKO,100213,2984
+Nigeria,Lagos ,Lagos Mainland,ONIKE,102108,2985
+Nigeria,Lagos ,Lagos Mainland,OYADIRAN ESTATE,102114,2986
+Nigeria,Lagos ,Lagos Mainland,SABO YABA,102101,2987
+Nigeria,Lagos ,Lagos Mainland,YABA,100212,2988
+Nigeria,Lagos ,Mushin,FADEYI,102101,2989
+Nigeria,Lagos ,Mushin,IDI ARABA,100254,2990
+Nigeria,Lagos ,Mushin,IDI ORO,100254,2991
+Nigeria,Lagos ,Mushin,ILUPEJU,100252,2992
+Nigeria,Lagos ,Mushin,ITIRE,100281,2993
+Nigeria,Lagos ,Mushin,MUSHIN,100253,2994
+Nigeria,Lagos ,Mushin,ONIPANU,100252,2995
+Nigeria,Lagos ,Mushin,PAPA AJAO,100253,2996
+Nigeria,Lagos ,Ojo,AJANGBADI,102104,2997
+Nigeria,Lagos ,Ojo,ALABA,102115,2998
+Nigeria,Lagos ,Ojo,ETEGBIN,102101,2999
+Nigeria,Lagos ,Ojo,IBA,102101,3000

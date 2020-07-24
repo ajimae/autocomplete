@@ -43,10 +43,11 @@ class Search extends Component {
         />
         <div>
           {this.state && this.state.data && this.state.data.data && this.state.data.data.map(function(data, index) {
+            console.log(data, '<<<')
             return (
               // <div key={index}>{data._source.name}</div>
               // <div key={index}>{data.highlight.name || data._source.name}</div>
-              <div dangerouslySetInnerHTML={{ __html: data.highlight.name || data._source.name }} />
+              <div kye={index} dangerouslySetInnerHTML={{ __html: data.highlight.city || data._source.city }} />
             )
           })}
         </div>
